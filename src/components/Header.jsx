@@ -1,5 +1,5 @@
 import React from 'react';
-import { BookOpen, Layers, Zap, HelpCircle, Volume2, Calendar, Flame, RotateCcw, CheckCircle2 } from 'lucide-react';
+import { BookOpen, Layers, Zap, HelpCircle, Volume2, Calendar, Flame, RotateCcw, CheckCircle2, Upload } from 'lucide-react';
 
 export default function Header({ 
   activeTab, 
@@ -7,7 +7,8 @@ export default function Header({
   masteredCount, 
   totalVerbs, 
   streak, 
-  onResetProgress 
+  onResetProgress,
+  onOpenScanner
 }) {
   const percent = totalVerbs > 0 ? Math.round((masteredCount / totalVerbs) * 100) : 0;
 
@@ -49,7 +50,17 @@ export default function Header({
         </div>
 
         {/* Progress & Stats Widgets */}
-        <div style={{ display: 'flex', alignItems: 'center', gap: '20px', flexWrap: 'wrap' }}>
+        <div style={{ display: 'flex', alignItems: 'center', gap: '16px', flexWrap: 'wrap' }}>
+          {/* Upload Document Scanner Button */}
+          <button
+            onClick={onOpenScanner}
+            className="btn btn-primary pulse-gold"
+            style={{ padding: '8px 14px', fontSize: '0.85rem', borderRadius: '12px' }}
+          >
+            <Upload style={{ width: '16px', height: '16px' }} />
+            Upload Document
+          </button>
+
           {/* Streak Counter */}
           <div style={{ display: 'flex', alignItems: 'center', gap: '8px', padding: '8px 14px', background: 'rgba(239, 68, 68, 0.12)', borderRadius: '12px', border: '1px solid rgba(239, 68, 68, 0.25)' }}>
             <Flame style={{ color: '#ef4444', width: '20px', height: '20px' }} />
@@ -60,7 +71,7 @@ export default function Header({
           </div>
 
           {/* Mastered Counter & Progress Bar */}
-          <div style={{ minWidth: '220px' }}>
+          <div style={{ minWidth: '200px' }}>
             <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '6px' }}>
               <span style={{ fontSize: '0.8rem', color: 'var(--text-muted)', display: 'flex', alignItems: 'center', gap: '6px' }}>
                 <CheckCircle2 style={{ width: '14px', height: '14px', color: '#34d399' }} />

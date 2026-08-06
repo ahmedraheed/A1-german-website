@@ -6,11 +6,23 @@ import SpeedMatchGame from './components/SpeedMatchGame';
 import QuizTab from './components/QuizTab';
 import PhoneticsTab from './components/PhoneticsTab';
 import RoadmapTab from './components/RoadmapTab';
+import DocScannerModal from './components/DocScannerModal';
 
 import germanData from './data/germanData.json';
 
 export default function App() {
   const [activeTab, setActiveTab] = useState('vocab');
+  const [isScannerOpen, setIsScannerOpen] = useState(false);
+
+  // Custom uploaded verbs stored in localStorage
+  const [customVerbs, setCustomVerbs] = useState(() => {
+    try {
+      const saved = localStorage.getItem('german_custom_verbs');
+      return saved ? JSON.parse(saved) : [];
+    } catch {
+      return [];
+    }
+  });
 
   // Mastered Verbs State (stored in localStorage)
   const [masteredIds, setMasteredIds] = useState(() => {
@@ -46,6 +58,11 @@ export default function App() {
     }
   });
 
+  // Combined built-in verbs + custom imported verbs
+  const allVerbs = useMemo(() => {
+    return [...germanData.verbs, ...customVerbs];
+  }, [customVerbs]);
+
   const masteredSet = useMemo(() => new Set(masteredIds), [masteredIds]);
 
   const toggleMastered = (id) => {
@@ -61,10 +78,20 @@ export default function App() {
     });
   };
 
+  const handleImportWords = (newWords) => {
+    setCustomVerbs(prev => {
+      const updated = [...prev, ...newWords];
+      localStorage.setItem('german_custom_verbs', JSON.stringify(updated));
+      return updated;
+    });
+  };
+
   const handleResetProgress = () => {
-    if (window.confirm('Are you sure you want to reset all mastered words progress?')) {
+    if (window.confirm('Are you sure you want to reset all mastered words progress and uploaded custom words?')) {
       setMasteredIds([]);
+      setCustomVerbs([]);
       localStorage.removeItem('german_mastered_verbs');
+      localStorage.removeItem('german_custom_verbs');
     }
   };
 
@@ -83,15 +110,16 @@ export default function App() {
         activeTab={activeTab}
         setActiveTab={setActiveTab}
         masteredCount={masteredSet.size}
-        totalVerbs={germanData.verbs.length}
+        totalVerbs={allVerbs.length}
         streak={streak}
         onResetProgress={handleResetProgress}
+        onOpenScanner={() => setIsScannerOpen(true)}
       />
 
       <main style={{ flex: 1 }}>
         {activeTab === 'vocab' && (
           <VocabularyTab
-            verbs={germanData.verbs}
+            verbs={allVerbs}
             sentencesMap={sentencesMap}
             masteredSet={masteredSet}
             toggleMastered={toggleMastered}
@@ -100,7 +128,7 @@ export default function App() {
 
         {activeTab === 'flashcards' && (
           <FlashcardsTab
-            verbs={germanData.verbs}
+            verbs={allVerbs}
             sentencesMap={sentencesMap}
             masteredSet={masteredSet}
             toggleMastered={toggleMastered}
@@ -109,7 +137,7 @@ export default function App() {
 
         {activeTab === 'speedmatch' && (
           <SpeedMatchGame
-            verbs={germanData.verbs}
+            verbs={allVerbs}
             masteredSet={masteredSet}
             toggleMastered={toggleMastered}
           />
@@ -137,8 +165,15 @@ export default function App() {
         )}
       </main>
 
+      <DocScannerModal
+        isOpen={isScannerOpen}
+        onClose={() => setIsScannerOpen(false)}
+        existingVerbs={allVerbs}
+        onImportWords={handleImportWords}
+      />
+
       <footer style={{ borderTop: '1px solid var(--border-color)', padding: '24px 16px', textAlign: 'center', color: 'var(--text-dim)', fontSize: '0.85rem' }}>
-        <p>German A1 Word & Verb Master • Built with 237 Verbs from your Word document</p>
+        <p>German A1 Word & Verb Master • Built with 237 Core Verbs + Custom Document Upload Scanner</p>
       </footer>
     </div>
   );
