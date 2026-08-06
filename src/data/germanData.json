@@ -1,0 +1,2133 @@
+{
+  "sounds": [
+    {
+      "sound": "w",
+      "easySound": "v sound",
+      "example": "was = vas"
+    },
+    {
+      "sound": "v",
+      "easySound": "usually f sound",
+      "example": "Vater = faa-ter"
+    },
+    {
+      "sound": "z",
+      "easySound": "ts sound",
+      "example": "Zeit = tsait"
+    },
+    {
+      "sound": "j",
+      "easySound": "y sound",
+      "example": "ja = yaa"
+    },
+    {
+      "sound": "sch",
+      "easySound": "sh sound",
+      "example": "Schule = shoo-le"
+    },
+    {
+      "sound": "ch after a/o/u",
+      "easySound": "rough kh sound",
+      "example": "Buch = bookh"
+    },
+    {
+      "sound": "ch after e/i",
+      "easySound": "soft h/kh sound",
+      "example": "ich = ikh"
+    },
+    {
+      "sound": "ei",
+      "easySound": "eye sound",
+      "example": "mein = mine"
+    },
+    {
+      "sound": "ie",
+      "easySound": "long ee sound",
+      "example": "Liebe = lee-be"
+    },
+    {
+      "sound": "eu/äu",
+      "easySound": "oy sound",
+      "example": "heute = hoy-te"
+    },
+    {
+      "sound": "ö",
+      "easySound": "rounded “er”",
+      "example": "möchten = merkh-ten"
+    },
+    {
+      "sound": "ü",
+      "easySound": "rounded “ee”",
+      "example": "Tür = tuer"
+    }
+  ],
+  "verbs": [
+    {
+      "id": "v_0",
+      "german": "sein",
+      "roman": "zайн / zine",
+      "english": "to be"
+    },
+    {
+      "id": "v_1",
+      "german": "haben",
+      "roman": "haa-ben",
+      "english": "to have"
+    },
+    {
+      "id": "v_2",
+      "german": "heißen",
+      "roman": "hai-sen",
+      "english": "to be called"
+    },
+    {
+      "id": "v_3",
+      "german": "werden",
+      "roman": "vair-den",
+      "english": "to become"
+    },
+    {
+      "id": "v_4",
+      "german": "machen",
+      "roman": "maa-khen",
+      "english": "to do; make"
+    },
+    {
+      "id": "v_5",
+      "german": "tun",
+      "roman": "toon",
+      "english": "to do"
+    },
+    {
+      "id": "v_6",
+      "german": "gehen",
+      "roman": "gay-en",
+      "english": "to go; walk"
+    },
+    {
+      "id": "v_7",
+      "german": "kommen",
+      "roman": "kom-en",
+      "english": "to come"
+    },
+    {
+      "id": "v_8",
+      "german": "bleiben",
+      "roman": "blai-ben",
+      "english": "to stay; remain"
+    },
+    {
+      "id": "v_9",
+      "german": "wohnen",
+      "roman": "voh-nen",
+      "english": "to live; reside"
+    },
+    {
+      "id": "v_10",
+      "german": "leben",
+      "roman": "lay-ben",
+      "english": "to live"
+    },
+    {
+      "id": "v_11",
+      "german": "arbeiten",
+      "roman": "ar-bai-ten",
+      "english": "to work"
+    },
+    {
+      "id": "v_12",
+      "german": "lernen",
+      "roman": "lair-nen",
+      "english": "to learn"
+    },
+    {
+      "id": "v_13",
+      "german": "üben",
+      "roman": "ue-ben",
+      "english": "to practise"
+    },
+    {
+      "id": "v_14",
+      "german": "studieren",
+      "roman": "shtoo-dee-ren",
+      "english": "to study at university"
+    },
+    {
+      "id": "v_15",
+      "german": "lesen",
+      "roman": "lay-zen",
+      "english": "to read"
+    },
+    {
+      "id": "v_16",
+      "german": "schreiben",
+      "roman": "shrai-ben",
+      "english": "to write"
+    },
+    {
+      "id": "v_17",
+      "german": "sprechen",
+      "roman": "shpreh-khen",
+      "english": "to speak"
+    },
+    {
+      "id": "v_18",
+      "german": "sagen",
+      "roman": "zaa-gen",
+      "english": "to say"
+    },
+    {
+      "id": "v_19",
+      "german": "fragen",
+      "roman": "fraa-gen",
+      "english": "to ask"
+    },
+    {
+      "id": "v_20",
+      "german": "antworten",
+      "roman": "ant-vor-ten",
+      "english": "to answer"
+    },
+    {
+      "id": "v_21",
+      "german": "verstehen",
+      "roman": "fair-shtay-en",
+      "english": "to understand"
+    },
+    {
+      "id": "v_22",
+      "german": "hören",
+      "roman": "hur-en",
+      "english": "to hear; listen"
+    },
+    {
+      "id": "v_23",
+      "german": "zuhören",
+      "roman": "tsoo-hur-en",
+      "english": "to listen carefully"
+    },
+    {
+      "id": "v_24",
+      "german": "sehen",
+      "roman": "zay-en",
+      "english": "to see"
+    },
+    {
+      "id": "v_25",
+      "german": "schauen",
+      "roman": "shau-en",
+      "english": "to look; watch"
+    },
+    {
+      "id": "v_26",
+      "german": "ansehen",
+      "roman": "an-zay-en",
+      "english": "to look at; watch"
+    },
+    {
+      "id": "v_27",
+      "german": "zeigen",
+      "roman": "tsai-gen",
+      "english": "to show"
+    },
+    {
+      "id": "v_28",
+      "german": "erklären",
+      "roman": "air-klair-en",
+      "english": "to explain"
+    },
+    {
+      "id": "v_29",
+      "german": "buchstabieren",
+      "roman": "book-shtaa-bee-ren",
+      "english": "to spell"
+    },
+    {
+      "id": "v_30",
+      "german": "wiederholen",
+      "roman": "vee-der-hoh-len",
+      "english": "to repeat"
+    },
+    {
+      "id": "v_31",
+      "german": "kennen",
+      "roman": "ken-en",
+      "english": "to know; be familiar with"
+    },
+    {
+      "id": "v_32",
+      "german": "wissen",
+      "roman": "vis-en",
+      "english": "to know a fact"
+    },
+    {
+      "id": "v_33",
+      "german": "denken",
+      "roman": "den-ken",
+      "english": "to think"
+    },
+    {
+      "id": "v_34",
+      "german": "glauben",
+      "roman": "glau-ben",
+      "english": "to believe"
+    },
+    {
+      "id": "v_35",
+      "german": "meinen",
+      "roman": "mai-nen",
+      "english": "to mean; think"
+    },
+    {
+      "id": "v_36",
+      "german": "vergessen",
+      "roman": "fair-ges-en",
+      "english": "to forget"
+    },
+    {
+      "id": "v_37",
+      "german": "merken",
+      "roman": "mair-ken",
+      "english": "to notice; remember"
+    },
+    {
+      "id": "v_38",
+      "german": "sich erinnern",
+      "roman": "zikh air-in-er-n",
+      "english": "to remember"
+    },
+    {
+      "id": "v_39",
+      "german": "können",
+      "roman": "kern-en",
+      "english": "can; to be able to"
+    },
+    {
+      "id": "v_40",
+      "german": "müssen",
+      "roman": "mues-en",
+      "english": "must; to have to"
+    },
+    {
+      "id": "v_41",
+      "german": "wollen",
+      "roman": "vol-en",
+      "english": "to want"
+    },
+    {
+      "id": "v_42",
+      "german": "sollen",
+      "roman": "zol-en",
+      "english": "should; to be supposed to"
+    },
+    {
+      "id": "v_43",
+      "german": "dürfen",
+      "roman": "duer-fen",
+      "english": "may; to be allowed to"
+    },
+    {
+      "id": "v_44",
+      "german": "mögen",
+      "roman": "mer-gen",
+      "english": "to like"
+    },
+    {
+      "id": "v_45",
+      "german": "möchten",
+      "roman": "merkh-ten",
+      "english": "would like"
+    },
+    {
+      "id": "v_46",
+      "german": "essen",
+      "roman": "es-en",
+      "english": "to eat"
+    },
+    {
+      "id": "v_47",
+      "german": "trinken",
+      "roman": "trin-ken",
+      "english": "to drink"
+    },
+    {
+      "id": "v_48",
+      "german": "kochen",
+      "roman": "ko-khen",
+      "english": "to cook"
+    },
+    {
+      "id": "v_49",
+      "german": "backen",
+      "roman": "bak-en",
+      "english": "to bake"
+    },
+    {
+      "id": "v_50",
+      "german": "frühstücken",
+      "roman": "frue-shtue-ken",
+      "english": "to have breakfast"
+    },
+    {
+      "id": "v_51",
+      "german": "bestellen",
+      "roman": "be-shtel-en",
+      "english": "to order"
+    },
+    {
+      "id": "v_52",
+      "german": "bezahlen",
+      "roman": "be-tsaa-len",
+      "english": "to pay"
+    },
+    {
+      "id": "v_53",
+      "german": "zahlen",
+      "roman": "tsaa-len",
+      "english": "to pay"
+    },
+    {
+      "id": "v_54",
+      "german": "kosten",
+      "roman": "kos-ten",
+      "english": "to cost"
+    },
+    {
+      "id": "v_55",
+      "german": "schmecken",
+      "roman": "shmek-en",
+      "english": "to taste"
+    },
+    {
+      "id": "v_56",
+      "german": "probieren",
+      "roman": "pro-bee-ren",
+      "english": "to try; taste"
+    },
+    {
+      "id": "v_57",
+      "german": "bringen",
+      "roman": "bring-en",
+      "english": "to bring"
+    },
+    {
+      "id": "v_58",
+      "german": "holen",
+      "roman": "hoh-len",
+      "english": "to fetch; get"
+    },
+    {
+      "id": "v_59",
+      "german": "nehmen",
+      "roman": "nay-men",
+      "english": "to take"
+    },
+    {
+      "id": "v_60",
+      "german": "geben",
+      "roman": "gay-ben",
+      "english": "to give"
+    },
+    {
+      "id": "v_61",
+      "german": "kaufen",
+      "roman": "kau-fen",
+      "english": "to buy"
+    },
+    {
+      "id": "v_62",
+      "german": "verkaufen",
+      "roman": "fair-kau-fen",
+      "english": "to sell"
+    },
+    {
+      "id": "v_63",
+      "german": "einkaufen",
+      "roman": "ain-kau-fen",
+      "english": "to shop"
+    },
+    {
+      "id": "v_64",
+      "german": "brauchen",
+      "roman": "brau-khen",
+      "english": "to need"
+    },
+    {
+      "id": "v_65",
+      "german": "suchen",
+      "roman": "zoo-khen",
+      "english": "to search; look for"
+    },
+    {
+      "id": "v_66",
+      "german": "finden",
+      "roman": "fin-den",
+      "english": "to find"
+    },
+    {
+      "id": "v_67",
+      "german": "wählen",
+      "roman": "vay-len",
+      "english": "to choose; dial"
+    },
+    {
+      "id": "v_68",
+      "german": "passen",
+      "roman": "pas-en",
+      "english": "to fit; suit"
+    },
+    {
+      "id": "v_69",
+      "german": "anprobieren",
+      "roman": "an-pro-bee-ren",
+      "english": "to try on"
+    },
+    {
+      "id": "v_70",
+      "german": "öffnen",
+      "roman": "erf-nen",
+      "english": "to open"
+    },
+    {
+      "id": "v_71",
+      "german": "schließen",
+      "roman": "shlee-sen",
+      "english": "to close"
+    },
+    {
+      "id": "v_72",
+      "german": "aufmachen",
+      "roman": "auf-maa-khen",
+      "english": "to open"
+    },
+    {
+      "id": "v_73",
+      "german": "zumachen",
+      "roman": "tsoo-maa-khen",
+      "english": "to close"
+    },
+    {
+      "id": "v_74",
+      "german": "fahren",
+      "roman": "faa-ren",
+      "english": "to drive; travel"
+    },
+    {
+      "id": "v_75",
+      "german": "reisen",
+      "roman": "rai-zen",
+      "english": "to travel"
+    },
+    {
+      "id": "v_76",
+      "german": "fliegen",
+      "roman": "flee-gen",
+      "english": "to fly"
+    },
+    {
+      "id": "v_77",
+      "german": "laufen",
+      "roman": "lau-fen",
+      "english": "to run; walk"
+    },
+    {
+      "id": "v_78",
+      "german": "schwimmen",
+      "roman": "shvim-en",
+      "english": "to swim"
+    },
+    {
+      "id": "v_79",
+      "german": "wandern",
+      "roman": "van-dern",
+      "english": "to hike"
+    },
+    {
+      "id": "v_80",
+      "german": "einsteigen",
+      "roman": "ain-shtai-gen",
+      "english": "to get in; board"
+    },
+    {
+      "id": "v_81",
+      "german": "aussteigen",
+      "roman": "aus-shtai-gen",
+      "english": "to get out; get off"
+    },
+    {
+      "id": "v_82",
+      "german": "umsteigen",
+      "roman": "oom-shtai-gen",
+      "english": "to change transport"
+    },
+    {
+      "id": "v_83",
+      "german": "abfahren",
+      "roman": "ap-faa-ren",
+      "english": "to depart"
+    },
+    {
+      "id": "v_84",
+      "german": "ankommen",
+      "roman": "an-kom-en",
+      "english": "to arrive"
+    },
+    {
+      "id": "v_85",
+      "german": "abholen",
+      "roman": "ap-hoh-len",
+      "english": "to pick up"
+    },
+    {
+      "id": "v_86",
+      "german": "mitkommen",
+      "roman": "mit-kom-en",
+      "english": "to come along"
+    },
+    {
+      "id": "v_87",
+      "german": "mitfahren",
+      "roman": "mit-faa-ren",
+      "english": "to travel along"
+    },
+    {
+      "id": "v_88",
+      "german": "mitnehmen",
+      "roman": "mit-nay-men",
+      "english": "to take along"
+    },
+    {
+      "id": "v_89",
+      "german": "mitbringen",
+      "roman": "mit-bring-en",
+      "english": "to bring along"
+    },
+    {
+      "id": "v_90",
+      "german": "zurückkommen",
+      "roman": "tsoo-ruek-kom-en",
+      "english": "to come back"
+    },
+    {
+      "id": "v_91",
+      "german": "zurückfahren",
+      "roman": "tsoo-ruek-faa-ren",
+      "english": "to travel back"
+    },
+    {
+      "id": "v_92",
+      "german": "parken",
+      "roman": "par-ken",
+      "english": "to park"
+    },
+    {
+      "id": "v_93",
+      "german": "warten",
+      "roman": "var-ten",
+      "english": "to wait"
+    },
+    {
+      "id": "v_94",
+      "german": "verpassen",
+      "roman": "fair-pas-en",
+      "english": "to miss"
+    },
+    {
+      "id": "v_95",
+      "german": "besuchen",
+      "roman": "be-zoo-khen",
+      "english": "to visit"
+    },
+    {
+      "id": "v_96",
+      "german": "fotografieren",
+      "roman": "fo-to-gra-fee-ren",
+      "english": "to photograph"
+    },
+    {
+      "id": "v_97",
+      "german": "buchen",
+      "roman": "boo-khen",
+      "english": "to book"
+    },
+    {
+      "id": "v_98",
+      "german": "reservieren",
+      "roman": "ray-zair-vee-ren",
+      "english": "to reserve"
+    },
+    {
+      "id": "v_99",
+      "german": "packen",
+      "roman": "pak-en",
+      "english": "to pack"
+    },
+    {
+      "id": "v_100",
+      "german": "auspacken",
+      "roman": "aus-pak-en",
+      "english": "to unpack"
+    },
+    {
+      "id": "v_101",
+      "german": "aufstehen",
+      "roman": "auf-shtay-en",
+      "english": "to get up"
+    },
+    {
+      "id": "v_102",
+      "german": "aufwachen",
+      "roman": "auf-va-khen",
+      "english": "to wake up"
+    },
+    {
+      "id": "v_103",
+      "german": "schlafen",
+      "roman": "shlaa-fen",
+      "english": "to sleep"
+    },
+    {
+      "id": "v_104",
+      "german": "einschlafen",
+      "roman": "ain-shlaa-fen",
+      "english": "to fall asleep"
+    },
+    {
+      "id": "v_105",
+      "german": "duschen",
+      "roman": "doo-shen",
+      "english": "to shower"
+    },
+    {
+      "id": "v_106",
+      "german": "baden",
+      "roman": "baa-den",
+      "english": "to bathe"
+    },
+    {
+      "id": "v_107",
+      "german": "waschen",
+      "roman": "va-shen",
+      "english": "to wash"
+    },
+    {
+      "id": "v_108",
+      "german": "sich waschen",
+      "roman": "zikh va-shen",
+      "english": "to wash oneself"
+    },
+    {
+      "id": "v_109",
+      "german": "sich anziehen",
+      "roman": "zikh an-tsee-en",
+      "english": "to get dressed"
+    },
+    {
+      "id": "v_110",
+      "german": "sich ausziehen",
+      "roman": "zikh aus-tsee-en",
+      "english": "to get undressed"
+    },
+    {
+      "id": "v_111",
+      "german": "anziehen",
+      "roman": "an-tsee-en",
+      "english": "to put on; wear"
+    },
+    {
+      "id": "v_112",
+      "german": "ausziehen",
+      "roman": "aus-tsee-en",
+      "english": "to take off; move out"
+    },
+    {
+      "id": "v_113",
+      "german": "putzen",
+      "roman": "poot-sen",
+      "english": "to clean; brush"
+    },
+    {
+      "id": "v_114",
+      "german": "aufräumen",
+      "roman": "auf-roy-men",
+      "english": "to tidy up"
+    },
+    {
+      "id": "v_115",
+      "german": "spülen",
+      "roman": "shpue-len",
+      "english": "to wash dishes; rinse"
+    },
+    {
+      "id": "v_116",
+      "german": "sich rasieren",
+      "roman": "zikh ra-zee-ren",
+      "english": "to shave"
+    },
+    {
+      "id": "v_117",
+      "german": "sich kämmen",
+      "roman": "zikh kem-en",
+      "english": "to comb one’s hair"
+    },
+    {
+      "id": "v_118",
+      "german": "sich ausruhen",
+      "roman": "zikh aus-roo-en",
+      "english": "to rest"
+    },
+    {
+      "id": "v_119",
+      "german": "sich beeilen",
+      "roman": "zikh be-ai-len",
+      "english": "to hurry"
+    },
+    {
+      "id": "v_120",
+      "german": "spielen",
+      "roman": "shpee-len",
+      "english": "to play"
+    },
+    {
+      "id": "v_121",
+      "german": "tanzen",
+      "roman": "tan-tsen",
+      "english": "to dance"
+    },
+    {
+      "id": "v_122",
+      "german": "singen",
+      "roman": "zing-en",
+      "english": "to sing"
+    },
+    {
+      "id": "v_123",
+      "german": "feiern",
+      "roman": "fai-ern",
+      "english": "to celebrate"
+    },
+    {
+      "id": "v_124",
+      "german": "lachen",
+      "roman": "laa-khen",
+      "english": "to laugh"
+    },
+    {
+      "id": "v_125",
+      "german": "weinen",
+      "roman": "vai-nen",
+      "english": "to cry"
+    },
+    {
+      "id": "v_126",
+      "german": "lieben",
+      "roman": "lee-ben",
+      "english": "to love"
+    },
+    {
+      "id": "v_127",
+      "german": "hassen",
+      "roman": "has-en",
+      "english": "to hate"
+    },
+    {
+      "id": "v_128",
+      "german": "treffen",
+      "roman": "tref-en",
+      "english": "to meet"
+    },
+    {
+      "id": "v_129",
+      "german": "sich treffen",
+      "roman": "zikh tref-en",
+      "english": "to meet each other"
+    },
+    {
+      "id": "v_130",
+      "german": "kennenlernen",
+      "roman": "ken-en-lair-nen",
+      "english": "to get to know"
+    },
+    {
+      "id": "v_131",
+      "german": "helfen",
+      "roman": "hel-fen",
+      "english": "to help"
+    },
+    {
+      "id": "v_132",
+      "german": "danken",
+      "roman": "dan-ken",
+      "english": "to thank"
+    },
+    {
+      "id": "v_133",
+      "german": "sich bedanken",
+      "roman": "zikh be-dan-ken",
+      "english": "to thank"
+    },
+    {
+      "id": "v_134",
+      "german": "bitten",
+      "roman": "bit-en",
+      "english": "to ask; request"
+    },
+    {
+      "id": "v_135",
+      "german": "einladen",
+      "roman": "ain-laa-den",
+      "english": "to invite"
+    },
+    {
+      "id": "v_136",
+      "german": "gratulieren",
+      "roman": "gra-too-lee-ren",
+      "english": "to congratulate"
+    },
+    {
+      "id": "v_137",
+      "german": "schenken",
+      "roman": "shen-ken",
+      "english": "to give as a gift"
+    },
+    {
+      "id": "v_138",
+      "german": "gefallen",
+      "roman": "ge-fal-en",
+      "english": "to please; be liked"
+    },
+    {
+      "id": "v_139",
+      "german": "wünschen",
+      "roman": "vuen-shen",
+      "english": "to wish"
+    },
+    {
+      "id": "v_140",
+      "german": "sich wünschen",
+      "roman": "zikh vuen-shen",
+      "english": "to wish for"
+    },
+    {
+      "id": "v_141",
+      "german": "telefonieren",
+      "roman": "tay-lay-fo-nee-ren",
+      "english": "to telephone"
+    },
+    {
+      "id": "v_142",
+      "german": "anrufen",
+      "roman": "an-roo-fen",
+      "english": "to call by phone"
+    },
+    {
+      "id": "v_143",
+      "german": "zurückrufen",
+      "roman": "tsoo-ruek-roo-fen",
+      "english": "to call back"
+    },
+    {
+      "id": "v_144",
+      "german": "schicken",
+      "roman": "shik-en",
+      "english": "to send"
+    },
+    {
+      "id": "v_145",
+      "german": "senden",
+      "roman": "zen-den",
+      "english": "to send"
+    },
+    {
+      "id": "v_146",
+      "german": "bekommen",
+      "roman": "be-kom-en",
+      "english": "to receive; get"
+    },
+    {
+      "id": "v_147",
+      "german": "mieten",
+      "roman": "mee-ten",
+      "english": "to rent"
+    },
+    {
+      "id": "v_148",
+      "german": "vermieten",
+      "roman": "fair-mee-ten",
+      "english": "to rent out"
+    },
+    {
+      "id": "v_149",
+      "german": "umziehen",
+      "roman": "oom-tsee-en",
+      "english": "to move house; change clothes"
+    },
+    {
+      "id": "v_150",
+      "german": "einziehen",
+      "roman": "ain-tsee-en",
+      "english": "to move in"
+    },
+    {
+      "id": "v_151",
+      "german": "bauen",
+      "roman": "bau-en",
+      "english": "to build"
+    },
+    {
+      "id": "v_152",
+      "german": "reparieren",
+      "roman": "ray-pa-ree-ren",
+      "english": "to repair"
+    },
+    {
+      "id": "v_153",
+      "german": "hängen",
+      "roman": "heng-en",
+      "english": "to hang"
+    },
+    {
+      "id": "v_154",
+      "german": "stellen",
+      "roman": "shtel-en",
+      "english": "to put upright"
+    },
+    {
+      "id": "v_155",
+      "german": "stehen",
+      "roman": "shtay-en",
+      "english": "to stand"
+    },
+    {
+      "id": "v_156",
+      "german": "legen",
+      "roman": "lay-gen",
+      "english": "to lay; place"
+    },
+    {
+      "id": "v_157",
+      "german": "liegen",
+      "roman": "lee-gen",
+      "english": "to lie; be located"
+    },
+    {
+      "id": "v_158",
+      "german": "setzen",
+      "roman": "zet-sen",
+      "english": "to set; seat"
+    },
+    {
+      "id": "v_159",
+      "german": "sitzen",
+      "roman": "zit-sen",
+      "english": "to sit"
+    },
+    {
+      "id": "v_160",
+      "german": "einschalten",
+      "roman": "ain-shal-ten",
+      "english": "to switch on"
+    },
+    {
+      "id": "v_161",
+      "german": "ausschalten",
+      "roman": "aus-shal-ten",
+      "english": "to switch off"
+    },
+    {
+      "id": "v_162",
+      "german": "anmachen",
+      "roman": "an-maa-khen",
+      "english": "to switch on"
+    },
+    {
+      "id": "v_163",
+      "german": "ausmachen",
+      "roman": "aus-maa-khen",
+      "english": "to switch off"
+    },
+    {
+      "id": "v_164",
+      "german": "klingeln",
+      "roman": "kling-eln",
+      "english": "to ring"
+    },
+    {
+      "id": "v_165",
+      "german": "abschließen",
+      "roman": "ap-shlee-sen",
+      "english": "to lock; complete"
+    },
+    {
+      "id": "v_166",
+      "german": "anfangen",
+      "roman": "an-fang-en",
+      "english": "to begin"
+    },
+    {
+      "id": "v_167",
+      "german": "beginnen",
+      "roman": "be-gin-en",
+      "english": "to begin"
+    },
+    {
+      "id": "v_168",
+      "german": "aufhören",
+      "roman": "auf-hur-en",
+      "english": "to stop"
+    },
+    {
+      "id": "v_169",
+      "german": "planen",
+      "roman": "plaa-nen",
+      "english": "to plan"
+    },
+    {
+      "id": "v_170",
+      "german": "organisieren",
+      "roman": "or-ga-nee-zee-ren",
+      "english": "to organise"
+    },
+    {
+      "id": "v_171",
+      "german": "vorbereiten",
+      "roman": "for-be-rai-ten",
+      "english": "to prepare"
+    },
+    {
+      "id": "v_172",
+      "german": "prüfen",
+      "roman": "prue-fen",
+      "english": "to check; examine"
+    },
+    {
+      "id": "v_173",
+      "german": "kontrollieren",
+      "roman": "kon-tro-lee-ren",
+      "english": "to check; control"
+    },
+    {
+      "id": "v_174",
+      "german": "unterschreiben",
+      "roman": "oon-ter-shrai-ben",
+      "english": "to sign"
+    },
+    {
+      "id": "v_175",
+      "german": "drucken",
+      "roman": "dru-ken",
+      "english": "to print"
+    },
+    {
+      "id": "v_176",
+      "german": "kopieren",
+      "roman": "ko-pee-ren",
+      "english": "to copy"
+    },
+    {
+      "id": "v_177",
+      "german": "benutzen",
+      "roman": "be-noot-sen",
+      "english": "to use"
+    },
+    {
+      "id": "v_178",
+      "german": "funktionieren",
+      "roman": "foonk-tsee-o-nee-ren",
+      "english": "to function; work"
+    },
+    {
+      "id": "v_179",
+      "german": "verdienen",
+      "roman": "fair-dee-nen",
+      "english": "to earn"
+    },
+    {
+      "id": "v_180",
+      "german": "kündigen",
+      "roman": "kuen-dee-gen",
+      "english": "to resign; terminate"
+    },
+    {
+      "id": "v_181",
+      "german": "sich bewerben",
+      "roman": "zikh be-vair-ben",
+      "english": "to apply"
+    },
+    {
+      "id": "v_182",
+      "german": "sich fühlen",
+      "roman": "zikh fue-len",
+      "english": "to feel"
+    },
+    {
+      "id": "v_183",
+      "german": "wehtun",
+      "roman": "vay-toon",
+      "english": "to hurt"
+    },
+    {
+      "id": "v_184",
+      "german": "husten",
+      "roman": "hoo-sten",
+      "english": "to cough"
+    },
+    {
+      "id": "v_185",
+      "german": "niesen",
+      "roman": "nee-zen",
+      "english": "to sneeze"
+    },
+    {
+      "id": "v_186",
+      "german": "atmen",
+      "roman": "aat-men",
+      "english": "to breathe"
+    },
+    {
+      "id": "v_187",
+      "german": "sich verletzen",
+      "roman": "zikh fair-let-sen",
+      "english": "to injure oneself"
+    },
+    {
+      "id": "v_188",
+      "german": "untersuchen",
+      "roman": "oon-ter-zoo-khen",
+      "english": "to examine"
+    },
+    {
+      "id": "v_189",
+      "german": "behandeln",
+      "roman": "be-han-deln",
+      "english": "to treat"
+    },
+    {
+      "id": "v_190",
+      "german": "heilen",
+      "roman": "hai-len",
+      "english": "to heal"
+    },
+    {
+      "id": "v_191",
+      "german": "sich erholen",
+      "roman": "zikh air-hoh-len",
+      "english": "to recover; relax"
+    },
+    {
+      "id": "v_192",
+      "german": "trainieren",
+      "roman": "trai-nee-ren",
+      "english": "to train"
+    },
+    {
+      "id": "v_193",
+      "german": "rauchen",
+      "roman": "rau-khen",
+      "english": "to smoke"
+    },
+    {
+      "id": "v_194",
+      "german": "frieren",
+      "roman": "free-ren",
+      "english": "to feel cold; freeze"
+    },
+    {
+      "id": "v_195",
+      "german": "regnen",
+      "roman": "rayg-nen",
+      "english": "to rain"
+    },
+    {
+      "id": "v_196",
+      "german": "schneien",
+      "roman": "shnai-en",
+      "english": "to snow"
+    },
+    {
+      "id": "v_197",
+      "german": "scheinen",
+      "roman": "shai-nen",
+      "english": "to shine; seem"
+    },
+    {
+      "id": "v_198",
+      "german": "fallen",
+      "roman": "fal-en",
+      "english": "to fall"
+    },
+    {
+      "id": "v_199",
+      "german": "steigen",
+      "roman": "shtai-gen",
+      "english": "to rise; climb"
+    },
+    {
+      "id": "v_200",
+      "german": "wachsen",
+      "roman": "vak-sen",
+      "english": "to grow"
+    },
+    {
+      "id": "v_201",
+      "german": "pflanzen",
+      "roman": "pflan-tsen",
+      "english": "to plant"
+    },
+    {
+      "id": "v_202",
+      "german": "gießen",
+      "roman": "gee-sen",
+      "english": "to water; pour"
+    },
+    {
+      "id": "v_203",
+      "german": "sammeln",
+      "roman": "zam-eln",
+      "english": "to collect"
+    },
+    {
+      "id": "v_204",
+      "german": "werfen",
+      "roman": "vair-fen",
+      "english": "to throw"
+    },
+    {
+      "id": "v_205",
+      "german": "tragen",
+      "roman": "traa-gen",
+      "english": "to carry; wear"
+    },
+    {
+      "id": "v_206",
+      "german": "ziehen",
+      "roman": "tsee-en",
+      "english": "to pull; move"
+    },
+    {
+      "id": "v_207",
+      "german": "halten",
+      "roman": "hal-ten",
+      "english": "to hold; stop"
+    },
+    {
+      "id": "v_208",
+      "german": "verlieren",
+      "roman": "fair-lee-ren",
+      "english": "to lose"
+    },
+    {
+      "id": "v_209",
+      "german": "gewinnen",
+      "roman": "ge-vin-en",
+      "english": "to win"
+    },
+    {
+      "id": "v_210",
+      "german": "zählen",
+      "roman": "tsay-len",
+      "english": "to count"
+    },
+    {
+      "id": "v_211",
+      "german": "rechnen",
+      "roman": "rekh-nen",
+      "english": "to calculate"
+    },
+    {
+      "id": "v_212",
+      "german": "messen",
+      "roman": "mes-en",
+      "english": "to measure"
+    },
+    {
+      "id": "v_213",
+      "german": "wiegen",
+      "roman": "vee-gen",
+      "english": "to weigh"
+    },
+    {
+      "id": "v_214",
+      "german": "ändern",
+      "roman": "en-dern",
+      "english": "to change"
+    },
+    {
+      "id": "v_215",
+      "german": "wechseln",
+      "roman": "vek-seln",
+      "english": "to change; exchange"
+    },
+    {
+      "id": "v_216",
+      "german": "versuchen",
+      "roman": "fair-zoo-khen",
+      "english": "to try"
+    },
+    {
+      "id": "v_217",
+      "german": "passieren",
+      "roman": "pa-see-ren",
+      "english": "to happen"
+    },
+    {
+      "id": "v_218",
+      "german": "dauern",
+      "roman": "dau-ern",
+      "english": "to last"
+    },
+    {
+      "id": "v_219",
+      "german": "gehören",
+      "roman": "ge-hur-en",
+      "english": "to belong"
+    },
+    {
+      "id": "v_220",
+      "german": "fehlen",
+      "roman": "fay-len",
+      "english": "to be missing; absent"
+    },
+    {
+      "id": "v_221",
+      "german": "reichen",
+      "roman": "rai-khen",
+      "english": "to be enough; hand"
+    },
+    {
+      "id": "v_222",
+      "german": "lassen",
+      "roman": "las-en",
+      "english": "to let; leave"
+    },
+    {
+      "id": "v_223",
+      "german": "riechen",
+      "roman": "ree-khen",
+      "english": "to smell"
+    },
+    {
+      "id": "v_224",
+      "german": "bedeuten",
+      "roman": "be-doi-ten",
+      "english": "to mean"
+    },
+    {
+      "id": "v_225",
+      "german": "erzählen",
+      "roman": "air-tsay-len",
+      "english": "to tell; narrate"
+    },
+    {
+      "id": "v_226",
+      "german": "beschreiben",
+      "roman": "be-shrai-ben",
+      "english": "to describe"
+    },
+    {
+      "id": "v_227",
+      "german": "informieren",
+      "roman": "in-for-mee-ren",
+      "english": "to inform"
+    },
+    {
+      "id": "v_228",
+      "german": "sich entschuldigen",
+      "roman": "zikh ent-shool-dee-gen",
+      "english": "to apologise"
+    },
+    {
+      "id": "v_229",
+      "german": "begrüßen",
+      "roman": "be-grue-sen",
+      "english": "to greet; welcome"
+    },
+    {
+      "id": "v_230",
+      "german": "sich verabschieden",
+      "roman": "zikh fair-ap-shee-den",
+      "english": "to say goodbye"
+    },
+    {
+      "id": "v_231",
+      "german": "sich freuen",
+      "roman": "zikh froi-en",
+      "english": "to be happy; look forward"
+    },
+    {
+      "id": "v_232",
+      "german": "hoffen",
+      "roman": "hof-en",
+      "english": "to hope"
+    },
+    {
+      "id": "v_233",
+      "german": "sich interessieren",
+      "roman": "zikh in-ter-es-see-ren",
+      "english": "to be interested"
+    },
+    {
+      "id": "v_234",
+      "german": "sich langweilen",
+      "roman": "zikh lang-vai-len",
+      "english": "to be bored"
+    },
+    {
+      "id": "v_235",
+      "german": "sich ärgern",
+      "roman": "zikh air-gern",
+      "english": "to be annoyed"
+    },
+    {
+      "id": "v_236",
+      "german": "Angst haben",
+      "roman": "angst haa-ben",
+      "english": "to be afraid"
+    }
+  ],
+  "conjugations": [
+    {
+      "verb": "sein",
+      "ich": "bin",
+      "du": "bist",
+      "er_sie_es": "ist",
+      "wir": "sind",
+      "ihr": "seid",
+      "sie_Sie": "sind",
+      "meaning": ""
+    },
+    {
+      "verb": "haben",
+      "ich": "habe",
+      "du": "hast",
+      "er_sie_es": "hat",
+      "wir": "haben",
+      "ihr": "habt",
+      "sie_Sie": "haben",
+      "meaning": ""
+    },
+    {
+      "verb": "werden",
+      "ich": "werde",
+      "du": "wirst",
+      "er_sie_es": "wird",
+      "wir": "werden",
+      "ihr": "werdet",
+      "sie_Sie": "werden",
+      "meaning": ""
+    },
+    {
+      "verb": "fahren",
+      "ich": "fahre",
+      "du": "fährst",
+      "er_sie_es": "fährt",
+      "wir": "fahren",
+      "ihr": "fahrt",
+      "sie_Sie": "fahren",
+      "meaning": ""
+    },
+    {
+      "verb": "lesen",
+      "ich": "lese",
+      "du": "liest",
+      "er_sie_es": "liest",
+      "wir": "lesen",
+      "ihr": "lest",
+      "sie_Sie": "lesen",
+      "meaning": ""
+    },
+    {
+      "verb": "sehen",
+      "ich": "sehe",
+      "du": "siehst",
+      "er_sie_es": "sieht",
+      "wir": "sehen",
+      "ihr": "seht",
+      "sie_Sie": "sehen",
+      "meaning": ""
+    },
+    {
+      "verb": "sprechen",
+      "ich": "spreche",
+      "du": "sprichst",
+      "er_sie_es": "spricht",
+      "wir": "sprechen",
+      "ihr": "sprecht",
+      "sie_Sie": "sprechen",
+      "meaning": ""
+    },
+    {
+      "verb": "nehmen",
+      "ich": "nehme",
+      "du": "nimmst",
+      "er_sie_es": "nimmt",
+      "wir": "nehmen",
+      "ihr": "nehmt",
+      "sie_Sie": "nehmen",
+      "meaning": ""
+    },
+    {
+      "verb": "essen",
+      "ich": "esse",
+      "du": "isst",
+      "er_sie_es": "isst",
+      "wir": "essen",
+      "ihr": "esst",
+      "sie_Sie": "essen",
+      "meaning": ""
+    },
+    {
+      "verb": "geben",
+      "ich": "gebe",
+      "du": "gibst",
+      "er_sie_es": "gibt",
+      "wir": "geben",
+      "ihr": "gebt",
+      "sie_Sie": "geben",
+      "meaning": ""
+    },
+    {
+      "verb": "laufen",
+      "ich": "laufe",
+      "du": "läufst",
+      "er_sie_es": "läuft",
+      "wir": "laufen",
+      "ihr": "lauft",
+      "sie_Sie": "laufen",
+      "meaning": ""
+    },
+    {
+      "verb": "schlafen",
+      "ich": "schlafe",
+      "du": "schläfst",
+      "er_sie_es": "schläft",
+      "wir": "schlafen",
+      "ihr": "schlaft",
+      "sie_Sie": "schlafen",
+      "meaning": ""
+    },
+    {
+      "verb": "tragen",
+      "ich": "trage",
+      "du": "trägst",
+      "er_sie_es": "trägt",
+      "wir": "tragen",
+      "ihr": "tragt",
+      "sie_Sie": "tragen",
+      "meaning": ""
+    },
+    {
+      "verb": "helfen",
+      "ich": "helfe",
+      "du": "hilfst",
+      "er_sie_es": "hilft",
+      "wir": "helfen",
+      "ihr": "helft",
+      "sie_Sie": "helfen",
+      "meaning": ""
+    },
+    {
+      "verb": "können",
+      "ich": "kann",
+      "du": "kannst",
+      "er_sie_es": "kann",
+      "wir": "können",
+      "ihr": "könnt",
+      "sie_Sie": "können",
+      "meaning": "can"
+    },
+    {
+      "verb": "müssen",
+      "ich": "muss",
+      "du": "musst",
+      "er_sie_es": "muss",
+      "wir": "müssen",
+      "ihr": "müsst",
+      "sie_Sie": "müssen",
+      "meaning": "must"
+    },
+    {
+      "verb": "wollen",
+      "ich": "will",
+      "du": "willst",
+      "er_sie_es": "will",
+      "wir": "wollen",
+      "ihr": "wollt",
+      "sie_Sie": "wollen",
+      "meaning": "want"
+    },
+    {
+      "verb": "sollen",
+      "ich": "soll",
+      "du": "sollst",
+      "er_sie_es": "soll",
+      "wir": "sollen",
+      "ihr": "sollt",
+      "sie_Sie": "sollen",
+      "meaning": "should"
+    },
+    {
+      "verb": "dürfen",
+      "ich": "darf",
+      "du": "darfst",
+      "er_sie_es": "darf",
+      "wir": "dürfen",
+      "ihr": "dürft",
+      "sie_Sie": "dürfen",
+      "meaning": "may"
+    },
+    {
+      "verb": "mögen",
+      "ich": "mag",
+      "du": "magst",
+      "er_sie_es": "mag",
+      "wir": "mögen",
+      "ihr": "mögt",
+      "sie_Sie": "mögen",
+      "meaning": "like"
+    }
+  ],
+  "sentences": [
+    {
+      "verb": "aufstehen",
+      "example": "Ich stehe um 7 Uhr auf.",
+      "english": "I get up at 7 o’clock."
+    },
+    {
+      "verb": "anrufen",
+      "example": "Ich rufe meine Mutter an.",
+      "english": "I call my mother."
+    },
+    {
+      "verb": "einkaufen",
+      "example": "Wir kaufen heute ein.",
+      "english": "We shop today."
+    },
+    {
+      "verb": "mitkommen",
+      "example": "Kommst du mit?",
+      "english": "Are you coming along?"
+    },
+    {
+      "verb": "fernsehen",
+      "example": "Er sieht abends fern.",
+      "english": "He watches TV in the evening."
+    },
+    {
+      "verb": "abholen",
+      "example": "Ich hole dich um acht ab.",
+      "english": "I pick you up at eight."
+    },
+    {
+      "verb": "einladen",
+      "example": "Sie lädt ihre Freunde ein.",
+      "english": "She invites her friends."
+    },
+    {
+      "verb": "zumachen",
+      "example": "Bitte mach die Tür zu.",
+      "english": "Please close the door."
+    }
+  ],
+  "reflexive": [
+    {
+      "verb": "sich waschen",
+      "example": "Ich wasche mich.",
+      "english": "I wash myself."
+    },
+    {
+      "verb": "sich anziehen",
+      "example": "Ich ziehe mich an.",
+      "english": "I get dressed."
+    },
+    {
+      "verb": "sich ausruhen",
+      "example": "Ich ruhe mich aus.",
+      "english": "I rest."
+    },
+    {
+      "verb": "sich beeilen",
+      "example": "Ich beeile mich.",
+      "english": "I hurry."
+    },
+    {
+      "verb": "sich treffen",
+      "example": "Wir treffen uns.",
+      "english": "We meet each other."
+    },
+    {
+      "verb": "sich freuen",
+      "example": "Ich freue mich.",
+      "english": "I am happy."
+    },
+    {
+      "verb": "sich interessieren",
+      "example": "Ich interessiere mich für Deutsch.",
+      "english": "I am interested in German."
+    },
+    {
+      "verb": "sich entschuldigen",
+      "example": "Ich entschuldige mich.",
+      "english": "I apologise."
+    },
+    {
+      "verb": "Infinitive",
+      "example": "Perfekt form"
+    },
+    {
+      "verb": "machen",
+      "example": "hat gemacht"
+    },
+    {
+      "verb": "lernen",
+      "example": "hat gelernt"
+    },
+    {
+      "verb": "arbeiten",
+      "example": "hat gearbeitet"
+    },
+    {
+      "verb": "kaufen",
+      "example": "hat gekauft"
+    },
+    {
+      "verb": "essen",
+      "example": "hat gegessen"
+    },
+    {
+      "verb": "trinken",
+      "example": "hat getrunken"
+    },
+    {
+      "verb": "lesen",
+      "example": "hat gelesen"
+    },
+    {
+      "verb": "schreiben",
+      "example": "hat geschrieben"
+    },
+    {
+      "verb": "sehen",
+      "example": "hat gesehen"
+    },
+    {
+      "verb": "sprechen",
+      "example": "hat gesprochen"
+    },
+    {
+      "verb": "fahren",
+      "example": "ist gefahren"
+    },
+    {
+      "verb": "gehen",
+      "example": "ist gegangen"
+    },
+    {
+      "verb": "kommen",
+      "example": "ist gekommen"
+    },
+    {
+      "verb": "bleiben",
+      "example": "ist geblieben"
+    },
+    {
+      "verb": "fliegen",
+      "example": "ist geflogen"
+    },
+    {
+      "verb": "aufstehen",
+      "example": "ist aufgestanden"
+    },
+    {
+      "verb": "schlafen",
+      "example": "hat geschlafen"
+    },
+    {
+      "verb": "helfen",
+      "example": "hat geholfen"
+    },
+    {
+      "verb": "nehmen",
+      "example": "hat genommen"
+    },
+    {
+      "verb": "geben",
+      "example": "hat gegeben"
+    }
+  ],
+  "grammar": [
+    {
+      "form": "du",
+      "pattern": "Komm! / Lies! / Warte!",
+      "example": "Come! / Read! / Wait!"
+    },
+    {
+      "form": "ihr",
+      "pattern": "Kommt! / Lest! / Wartet!",
+      "example": "Come! / Read! / Wait!"
+    },
+    {
+      "form": "Sie",
+      "pattern": "Kommen Sie! / Lesen Sie! / Warten Sie!",
+      "example": "Come! / Read! / Wait! (formal)"
+    },
+    {
+      "form": "Sentence type",
+      "pattern": "Formula",
+      "example": "Example"
+    },
+    {
+      "form": "Normal statement",
+      "pattern": "Subject + conjugated verb + rest",
+      "example": "Ich lerne heute Deutsch."
+    },
+    {
+      "form": "Time first",
+      "pattern": "Time + verb + subject + rest",
+      "example": "Heute lerne ich Deutsch."
+    },
+    {
+      "form": "Yes/no question",
+      "pattern": "Verb + subject + rest?",
+      "example": "Kommst du morgen?"
+    },
+    {
+      "form": "W-question",
+      "pattern": "Question word + verb + subject?",
+      "example": "Wann kommst du?"
+    },
+    {
+      "form": "Modal sentence",
+      "pattern": "Modal in position 2 + infinitive at end",
+      "example": "Ich kann gut schwimmen."
+    },
+    {
+      "form": "Separable verb",
+      "pattern": "Verb part in position 2 + prefix at end",
+      "example": "Ich stehe früh auf."
+    },
+    {
+      "form": "Perfekt",
+      "pattern": "haben/sein in position 2 + participle at end",
+      "example": "Ich habe viel gearbeitet."
+    }
+  ],
+  "expressions": [
+    {
+      "german": "warten auf + Akk.",
+      "english": "to wait for",
+      "example": "Ich warte auf den Bus."
+    },
+    {
+      "german": "denken an + Akk.",
+      "english": "to think about",
+      "example": "Ich denke an meine Familie."
+    },
+    {
+      "german": "sprechen mit + Dat.",
+      "english": "to speak with",
+      "example": "Ich spreche mit meinem Lehrer."
+    },
+    {
+      "german": "fragen nach + Dat.",
+      "english": "to ask about",
+      "example": "Ich frage nach dem Preis."
+    },
+    {
+      "german": "sich freuen auf + Akk.",
+      "english": "to look forward to",
+      "example": "Ich freue mich auf das Wochenende."
+    },
+    {
+      "german": "sich interessieren für + Akk.",
+      "english": "to be interested in",
+      "example": "Ich interessiere mich für Musik."
+    },
+    {
+      "german": "helfen bei + Dat.",
+      "english": "to help with",
+      "example": "Kannst du mir bei der Arbeit helfen?"
+    },
+    {
+      "german": "gehören zu + Dat.",
+      "english": "to belong to",
+      "example": "Das gehört zu meinem Kurs."
+    },
+    {
+      "german": "Ich heiße …",
+      "english": "My name is …",
+      "example": ""
+    },
+    {
+      "german": "Ich komme aus …",
+      "english": "I come from …",
+      "example": ""
+    },
+    {
+      "german": "Ich wohne in …",
+      "english": "I live in …",
+      "example": ""
+    },
+    {
+      "german": "Ich arbeite als …",
+      "english": "I work as …",
+      "example": ""
+    },
+    {
+      "german": "Ich lerne Deutsch.",
+      "english": "I learn German.",
+      "example": ""
+    },
+    {
+      "german": "Ich spreche ein bisschen Deutsch.",
+      "english": "I speak a little German.",
+      "example": ""
+    },
+    {
+      "german": "Ich verstehe das nicht.",
+      "english": "I do not understand that.",
+      "example": ""
+    },
+    {
+      "german": "Können Sie das wiederholen?",
+      "english": "Can you repeat that?",
+      "example": ""
+    },
+    {
+      "german": "Wie schreibt man das?",
+      "english": "How do you spell/write that?",
+      "example": ""
+    },
+    {
+      "german": "Was bedeutet das?",
+      "english": "What does that mean?",
+      "example": ""
+    },
+    {
+      "german": "Ich möchte …",
+      "english": "I would like …",
+      "example": ""
+    },
+    {
+      "german": "Ich brauche Hilfe.",
+      "english": "I need help.",
+      "example": ""
+    },
+    {
+      "german": "Ich suche …",
+      "english": "I am looking for …",
+      "example": ""
+    },
+    {
+      "german": "Wie viel kostet das?",
+      "english": "How much does that cost?",
+      "example": ""
+    },
+    {
+      "german": "Ich nehme das.",
+      "english": "I will take that.",
+      "example": ""
+    },
+    {
+      "german": "Wann fährt der Bus ab?",
+      "english": "When does the bus depart?",
+      "example": ""
+    },
+    {
+      "german": "Wo muss ich umsteigen?",
+      "english": "Where must I change?",
+      "example": ""
+    },
+    {
+      "german": "Ich habe einen Termin.",
+      "english": "I have an appointment.",
+      "example": ""
+    },
+    {
+      "german": "Mir tut der Kopf weh.",
+      "english": "My head hurts.",
+      "example": ""
+    },
+    {
+      "german": "Ich kann heute nicht kommen.",
+      "english": "I cannot come today.",
+      "example": ""
+    },
+    {
+      "german": "Wrong",
+      "english": "Correct",
+      "example": "Rule"
+    },
+    {
+      "german": "Ich bin 25 Jahre.",
+      "english": "Ich bin 25 Jahre alt.",
+      "example": "Use alt when giving age."
+    },
+    {
+      "german": "Ich habe gegangen.",
+      "english": "Ich bin gegangen.",
+      "example": "gehen uses sein in Perfekt."
+    },
+    {
+      "german": "Ich kann spreche Deutsch.",
+      "english": "Ich kann Deutsch sprechen.",
+      "example": "After a modal, use infinitive at the end."
+    },
+    {
+      "german": "Ich aufstehe um 7 Uhr.",
+      "english": "Ich stehe um 7 Uhr auf.",
+      "example": "Separate the prefix in a main sentence."
+    }
+  ],
+  "mistakes": [
+    {
+      "incorrect": "Heute ich arbeite.",
+      "correct": "Heute arbeite ich.",
+      "note": "The verb stays in position 2."
+    },
+    {
+      "incorrect": "Ich möchte einen Kaffee trinken bitte.",
+      "correct": "Ich möchte bitte einen Kaffee trinken.",
+      "note": "Place bitte naturally before the object or near the request."
+    },
+    {
+      "incorrect": "Ich interessiere für Musik.",
+      "correct": "Ich interessiere mich für Musik.",
+      "note": "The verb is reflexive and uses für."
+    },
+    {
+      "incorrect": "Day",
+      "correct": "Study target"
+    }
+  ],
+  "studyPlan": [
+    {
+      "day": "Day 1",
+      "task": "sein, haben, heißen, wohnen, kommen, gehen + personal introduction"
+    },
+    {
+      "day": "Day 2",
+      "task": "regular verbs and present-tense endings"
+    },
+    {
+      "day": "Day 3",
+      "task": "modal verbs and infinitive-at-the-end rule"
+    },
+    {
+      "day": "Day 4",
+      "task": "separable verbs and daily routine"
+    },
+    {
+      "day": "Day 5",
+      "task": "food, shopping, travel and appointment verbs"
+    },
+    {
+      "day": "Day 6",
+      "task": "basic Perfekt with haben and sein"
+    },
+    {
+      "day": "Day 7",
+      "task": "review all weak verbs, speak for two minutes, and complete the exercises"
+    }
+  ]
+}
