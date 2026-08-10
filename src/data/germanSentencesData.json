@@ -1,0 +1,3642 @@
+[
+  {
+    "topic": "Introductions and Personal Information",
+    "id": 1,
+    "german": "Ich heiße Anna.",
+    "english": "My name is Anna.",
+    "pron": "ikh heyessuh anna."
+  },
+  {
+    "topic": "Introductions and Personal Information",
+    "id": 2,
+    "german": "Ich heiße Max.",
+    "english": "My name is Max.",
+    "pron": "ikh heyessuh max."
+  },
+  {
+    "topic": "Introductions and Personal Information",
+    "id": 3,
+    "german": "Ich heiße Sara.",
+    "english": "My name is Sara.",
+    "pron": "ikh heyessuh sara."
+  },
+  {
+    "topic": "Introductions and Personal Information",
+    "id": 4,
+    "german": "Ich heiße Paul.",
+    "english": "My name is Paul.",
+    "pron": "ikh heyessuh pofl."
+  },
+  {
+    "topic": "Introductions and Personal Information",
+    "id": 5,
+    "german": "Ich heiße Lina.",
+    "english": "My name is Lina.",
+    "pron": "ikh heyessuh lina."
+  },
+  {
+    "topic": "Introductions and Personal Information",
+    "id": 6,
+    "german": "Ich heiße David.",
+    "english": "My name is David.",
+    "pron": "ikh heyessuh dafit."
+  },
+  {
+    "topic": "Introductions and Personal Information",
+    "id": 7,
+    "german": "Ich heiße Mia.",
+    "english": "My name is Mia.",
+    "pron": "ikh heyessuh mia."
+  },
+  {
+    "topic": "Introductions and Personal Information",
+    "id": 8,
+    "german": "Ich heiße Jonas.",
+    "english": "My name is Jonas.",
+    "pron": "ikh heyessuh yonas."
+  },
+  {
+    "topic": "Introductions and Personal Information",
+    "id": 9,
+    "german": "Ich heiße Emma.",
+    "english": "My name is Emma.",
+    "pron": "ikh heyessuh emma."
+  },
+  {
+    "topic": "Introductions and Personal Information",
+    "id": 10,
+    "german": "Ich heiße Leo.",
+    "english": "My name is Leo.",
+    "pron": "ikh heyessuh leo."
+  },
+  {
+    "topic": "Introductions and Personal Information",
+    "id": 11,
+    "german": "Ich wohne in Berlin.",
+    "english": "I live in Berlin.",
+    "pron": "ikh fonuh in berlin."
+  },
+  {
+    "topic": "Introductions and Personal Information",
+    "id": 12,
+    "german": "Ich wohne in Hamburg.",
+    "english": "I live in Hamburg.",
+    "pron": "ikh fonuh in hamburk."
+  },
+  {
+    "topic": "Introductions and Personal Information",
+    "id": 13,
+    "german": "Ich wohne in München.",
+    "english": "I live in Munich.",
+    "pron": "ikh fonuh in mewnkhen."
+  },
+  {
+    "topic": "Introductions and Personal Information",
+    "id": 14,
+    "german": "Ich wohne in Köln.",
+    "english": "I live in Cologne.",
+    "pron": "ikh fonuh in kurln."
+  },
+  {
+    "topic": "Introductions and Personal Information",
+    "id": 15,
+    "german": "Ich wohne in Bonn.",
+    "english": "I live in Bonn.",
+    "pron": "ikh fonuh in bonn."
+  },
+  {
+    "topic": "Introductions and Personal Information",
+    "id": 16,
+    "german": "Ich wohne in Leipzig.",
+    "english": "I live in Leipzig.",
+    "pron": "ikh fonuh in leyeptsik."
+  },
+  {
+    "topic": "Introductions and Personal Information",
+    "id": 17,
+    "german": "Ich wohne in Bremen.",
+    "english": "I live in Bremen.",
+    "pron": "ikh fonuh in bremen."
+  },
+  {
+    "topic": "Introductions and Personal Information",
+    "id": 18,
+    "german": "Ich wohne in Dresden.",
+    "english": "I live in Dresden.",
+    "pron": "ikh fonuh in dresden."
+  },
+  {
+    "topic": "Introductions and Personal Information",
+    "id": 19,
+    "german": "Ich wohne in Wien.",
+    "english": "I live in Vienna.",
+    "pron": "ikh fonuh in feen."
+  },
+  {
+    "topic": "Introductions and Personal Information",
+    "id": 20,
+    "german": "Ich wohne in Zürich.",
+    "english": "I live in Zurich.",
+    "pron": "ikh fonuh in tsewrikh."
+  },
+  {
+    "topic": "Introductions and Personal Information",
+    "id": 21,
+    "german": "Ich bin 18 Jahre alt.",
+    "english": "I am 18 years old.",
+    "pron": "ikh bin yaruh alt."
+  },
+  {
+    "topic": "Introductions and Personal Information",
+    "id": 22,
+    "german": "Ich bin 20 Jahre alt.",
+    "english": "I am 20 years old.",
+    "pron": "ikh bin yaruh alt."
+  },
+  {
+    "topic": "Introductions and Personal Information",
+    "id": 23,
+    "german": "Ich bin 22 Jahre alt.",
+    "english": "I am 22 years old.",
+    "pron": "ikh bin yaruh alt."
+  },
+  {
+    "topic": "Introductions and Personal Information",
+    "id": 24,
+    "german": "Ich bin 24 Jahre alt.",
+    "english": "I am 24 years old.",
+    "pron": "ikh bin yaruh alt."
+  },
+  {
+    "topic": "Introductions and Personal Information",
+    "id": 25,
+    "german": "Ich bin 25 Jahre alt.",
+    "english": "I am 25 years old.",
+    "pron": "ikh bin yaruh alt."
+  },
+  {
+    "topic": "Introductions and Personal Information",
+    "id": 26,
+    "german": "Ich bin 27 Jahre alt.",
+    "english": "I am 27 years old.",
+    "pron": "ikh bin yaruh alt."
+  },
+  {
+    "topic": "Introductions and Personal Information",
+    "id": 27,
+    "german": "Ich bin 30 Jahre alt.",
+    "english": "I am 30 years old.",
+    "pron": "ikh bin yaruh alt."
+  },
+  {
+    "topic": "Introductions and Personal Information",
+    "id": 28,
+    "german": "Ich bin 32 Jahre alt.",
+    "english": "I am 32 years old.",
+    "pron": "ikh bin yaruh alt."
+  },
+  {
+    "topic": "Introductions and Personal Information",
+    "id": 29,
+    "german": "Ich bin 35 Jahre alt.",
+    "english": "I am 35 years old.",
+    "pron": "ikh bin yaruh alt."
+  },
+  {
+    "topic": "Introductions and Personal Information",
+    "id": 30,
+    "german": "Ich bin 40 Jahre alt.",
+    "english": "I am 40 years old.",
+    "pron": "ikh bin yaruh alt."
+  },
+  {
+    "topic": "Introductions and Personal Information",
+    "id": 31,
+    "german": "Ich spreche ein bisschen Deutsch.",
+    "english": "I speak a little German.",
+    "pron": "ikh shprekhuh eyen bisshen doykh."
+  },
+  {
+    "topic": "Introductions and Personal Information",
+    "id": 32,
+    "german": "Ich spreche ein bisschen Englisch.",
+    "english": "I speak a little English.",
+    "pron": "ikh shprekhuh eyen bisshen english."
+  },
+  {
+    "topic": "Introductions and Personal Information",
+    "id": 33,
+    "german": "Ich spreche ein bisschen Urdu.",
+    "english": "I speak a little Urdu.",
+    "pron": "ikh shprekhuh eyen bisshen urdu."
+  },
+  {
+    "topic": "Introductions and Personal Information",
+    "id": 34,
+    "german": "Ich spreche ein bisschen Französisch.",
+    "english": "I speak a little French.",
+    "pron": "ikh shprekhuh eyen bisshen frantsursish."
+  },
+  {
+    "topic": "Introductions and Personal Information",
+    "id": 35,
+    "german": "Ich spreche ein bisschen Spanisch.",
+    "english": "I speak a little Spanish.",
+    "pron": "ikh shprekhuh eyen bisshen shpanish."
+  },
+  {
+    "topic": "Introductions and Personal Information",
+    "id": 36,
+    "german": "Ich spreche ein bisschen Arabisch.",
+    "english": "I speak a little Arabic.",
+    "pron": "ikh shprekhuh eyen bisshen arabish."
+  },
+  {
+    "topic": "Introductions and Personal Information",
+    "id": 37,
+    "german": "Ich spreche ein bisschen Türkisch.",
+    "english": "I speak a little Turkish.",
+    "pron": "ikh shprekhuh eyen bisshen tewrkish."
+  },
+  {
+    "topic": "Introductions and Personal Information",
+    "id": 38,
+    "german": "Ich spreche ein bisschen Italienisch.",
+    "english": "I speak a little Italian.",
+    "pron": "ikh shprekhuh eyen bisshen italeenish."
+  },
+  {
+    "topic": "Introductions and Personal Information",
+    "id": 39,
+    "german": "Ich spreche ein bisschen Polnisch.",
+    "english": "I speak a little Polish.",
+    "pron": "ikh shprekhuh eyen bisshen polnish."
+  },
+  {
+    "topic": "Introductions and Personal Information",
+    "id": 40,
+    "german": "Ich spreche ein bisschen Chinesisch.",
+    "english": "I speak a little Chinese.",
+    "pron": "ikh shprekhuh eyen bisshen khinesish."
+  },
+  {
+    "topic": "Family and People",
+    "id": 41,
+    "german": "Das ist meine Mutter.",
+    "english": "That is my mother.",
+    "pron": "das isht meyenuh muttuh."
+  },
+  {
+    "topic": "Family and People",
+    "id": 42,
+    "german": "Das ist mein Vater.",
+    "english": "That is my father.",
+    "pron": "das isht meyen fatuh."
+  },
+  {
+    "topic": "Family and People",
+    "id": 43,
+    "german": "Das ist mein Bruder.",
+    "english": "That is my brother.",
+    "pron": "das isht meyen bruduh."
+  },
+  {
+    "topic": "Family and People",
+    "id": 44,
+    "german": "Das ist meine Schwester.",
+    "english": "That is my sister.",
+    "pron": "das isht meyenuh shfeshtuh."
+  },
+  {
+    "topic": "Family and People",
+    "id": 45,
+    "german": "Das ist mein Onkel.",
+    "english": "That is my uncle.",
+    "pron": "das isht meyen onkel."
+  },
+  {
+    "topic": "Family and People",
+    "id": 46,
+    "german": "Das ist meine Tante.",
+    "english": "That is my aunt.",
+    "pron": "das isht meyenuh tantuh."
+  },
+  {
+    "topic": "Family and People",
+    "id": 47,
+    "german": "Das ist mein Cousin.",
+    "english": "That is my cousin.",
+    "pron": "das isht meyen cousin."
+  },
+  {
+    "topic": "Family and People",
+    "id": 48,
+    "german": "Das ist mein Freund.",
+    "english": "That is my friend.",
+    "pron": "das isht meyen froynt."
+  },
+  {
+    "topic": "Family and People",
+    "id": 49,
+    "german": "Das ist mein Nachbar.",
+    "english": "That is my neighbor.",
+    "pron": "das isht meyen nakhbar."
+  },
+  {
+    "topic": "Family and People",
+    "id": 50,
+    "german": "Das ist mein Kollege.",
+    "english": "That is my colleague.",
+    "pron": "das isht meyen kolleguh."
+  },
+  {
+    "topic": "Family and People",
+    "id": 51,
+    "german": "Meine Mutter ist nett.",
+    "english": "My mother is nice.",
+    "pron": "meyenuh muttuh isht nett."
+  },
+  {
+    "topic": "Family and People",
+    "id": 52,
+    "german": "Mein Vater ist freundlich.",
+    "english": "My father is friendly.",
+    "pron": "meyen fatuh isht froyndlikh."
+  },
+  {
+    "topic": "Family and People",
+    "id": 53,
+    "german": "Mein Bruder ist lustig.",
+    "english": "My brother is funny.",
+    "pron": "meyen bruduh isht lushtik."
+  },
+  {
+    "topic": "Family and People",
+    "id": 54,
+    "german": "Meine Schwester ist ruhig.",
+    "english": "My sister is calm.",
+    "pron": "meyenuh shfeshtuh isht ruik."
+  },
+  {
+    "topic": "Family and People",
+    "id": 55,
+    "german": "Mein Onkel ist jung.",
+    "english": "My uncle is young.",
+    "pron": "meyen onkel isht yunk."
+  },
+  {
+    "topic": "Family and People",
+    "id": 56,
+    "german": "Meine Tante ist hilfsbereit.",
+    "english": "My aunt is helpful.",
+    "pron": "meyenuh tantuh isht hilfsbereyet."
+  },
+  {
+    "topic": "Family and People",
+    "id": 57,
+    "german": "Mein Cousin ist klug.",
+    "english": "My cousin is clever.",
+    "pron": "meyen cousin isht kluk."
+  },
+  {
+    "topic": "Family and People",
+    "id": 58,
+    "german": "Mein Freund ist pünktlich.",
+    "english": "My friend is punctual.",
+    "pron": "meyen froynt isht pewnktlikh."
+  },
+  {
+    "topic": "Family and People",
+    "id": 59,
+    "german": "Mein Nachbar ist ehrlich.",
+    "english": "My neighbor is honest.",
+    "pron": "meyen nakhbar isht erlikh."
+  },
+  {
+    "topic": "Family and People",
+    "id": 60,
+    "german": "Mein Kollege ist sportlich.",
+    "english": "My colleague is athletic.",
+    "pron": "meyen kolleguh isht shportlikh."
+  },
+  {
+    "topic": "Family and People",
+    "id": 61,
+    "german": "Ich besuche meine Mutter am Wochenende.",
+    "english": "I visit my mother on the weekend.",
+    "pron": "ikh besukhuh meyenuh muttuh am fokhenenduh."
+  },
+  {
+    "topic": "Family and People",
+    "id": 62,
+    "german": "Ich besuche meinen Vater am Wochenende.",
+    "english": "I visit my father on the weekend.",
+    "pron": "ikh besukhuh meyenen fatuh am fokhenenduh."
+  },
+  {
+    "topic": "Family and People",
+    "id": 63,
+    "german": "Ich besuche meinen Bruder am Wochenende.",
+    "english": "I visit my brother on the weekend.",
+    "pron": "ikh besukhuh meyenen bruduh am fokhenenduh."
+  },
+  {
+    "topic": "Family and People",
+    "id": 64,
+    "german": "Ich besuche meine Schwester am Wochenende.",
+    "english": "I visit my sister on the weekend.",
+    "pron": "ikh besukhuh meyenuh shfeshtuh am fokhenenduh."
+  },
+  {
+    "topic": "Family and People",
+    "id": 65,
+    "german": "Ich besuche meinen Onkel am Wochenende.",
+    "english": "I visit my uncle on the weekend.",
+    "pron": "ikh besukhuh meyenen onkel am fokhenenduh."
+  },
+  {
+    "topic": "Family and People",
+    "id": 66,
+    "german": "Ich besuche meine Tante am Wochenende.",
+    "english": "I visit my aunt on the weekend.",
+    "pron": "ikh besukhuh meyenuh tantuh am fokhenenduh."
+  },
+  {
+    "topic": "Family and People",
+    "id": 67,
+    "german": "Ich besuche meinen Cousin am Wochenende.",
+    "english": "I visit my cousin on the weekend.",
+    "pron": "ikh besukhuh meyenen cousin am fokhenenduh."
+  },
+  {
+    "topic": "Family and People",
+    "id": 68,
+    "german": "Ich besuche meinen Freund am Wochenende.",
+    "english": "I visit my friend on the weekend.",
+    "pron": "ikh besukhuh meyenen froynt am fokhenenduh."
+  },
+  {
+    "topic": "Family and People",
+    "id": 69,
+    "german": "Ich besuche meinen Nachbar am Wochenende.",
+    "english": "I visit my neighbor on the weekend.",
+    "pron": "ikh besukhuh meyenen nakhbar am fokhenenduh."
+  },
+  {
+    "topic": "Family and People",
+    "id": 70,
+    "german": "Ich besuche meinen Kollege am Wochenende.",
+    "english": "I visit my colleague on the weekend.",
+    "pron": "ikh besukhuh meyenen kolleguh am fokhenenduh."
+  },
+  {
+    "topic": "Family and People",
+    "id": 71,
+    "german": "Meine Mutter arbeitet heute.",
+    "english": "My mother is working today.",
+    "pron": "meyenuh muttuh arbeyetet hoytuh."
+  },
+  {
+    "topic": "Family and People",
+    "id": 72,
+    "german": "Mein Vater arbeitet heute.",
+    "english": "My father is working today.",
+    "pron": "meyen fatuh arbeyetet hoytuh."
+  },
+  {
+    "topic": "Family and People",
+    "id": 73,
+    "german": "Mein Bruder arbeitet heute.",
+    "english": "My brother is working today.",
+    "pron": "meyen bruduh arbeyetet hoytuh."
+  },
+  {
+    "topic": "Family and People",
+    "id": 74,
+    "german": "Meine Schwester arbeitet heute.",
+    "english": "My sister is working today.",
+    "pron": "meyenuh shfeshtuh arbeyetet hoytuh."
+  },
+  {
+    "topic": "Family and People",
+    "id": 75,
+    "german": "Mein Onkel arbeitet heute.",
+    "english": "My uncle is working today.",
+    "pron": "meyen onkel arbeyetet hoytuh."
+  },
+  {
+    "topic": "Family and People",
+    "id": 76,
+    "german": "Meine Tante arbeitet heute.",
+    "english": "My aunt is working today.",
+    "pron": "meyenuh tantuh arbeyetet hoytuh."
+  },
+  {
+    "topic": "Family and People",
+    "id": 77,
+    "german": "Mein Cousin arbeitet heute.",
+    "english": "My cousin is working today.",
+    "pron": "meyen cousin arbeyetet hoytuh."
+  },
+  {
+    "topic": "Family and People",
+    "id": 78,
+    "german": "Mein Freund arbeitet heute.",
+    "english": "My friend is working today.",
+    "pron": "meyen froynt arbeyetet hoytuh."
+  },
+  {
+    "topic": "Family and People",
+    "id": 79,
+    "german": "Mein Nachbar arbeitet heute.",
+    "english": "My neighbor is working today.",
+    "pron": "meyen nakhbar arbeyetet hoytuh."
+  },
+  {
+    "topic": "Family and People",
+    "id": 80,
+    "german": "Mein Kollege arbeitet heute.",
+    "english": "My colleague is working today.",
+    "pron": "meyen kolleguh arbeyetet hoytuh."
+  },
+  {
+    "topic": "Home and Daily Routine",
+    "id": 81,
+    "german": "Die Küche ist sauber.",
+    "english": "The kitchen is clean.",
+    "pron": "deuh kewkhuh isht sofbuh."
+  },
+  {
+    "topic": "Home and Daily Routine",
+    "id": 82,
+    "german": "Das Wohnzimmer ist sauber.",
+    "english": "The living room is clean.",
+    "pron": "das fontsimmuh isht sofbuh."
+  },
+  {
+    "topic": "Home and Daily Routine",
+    "id": 83,
+    "german": "Das Schlafzimmer ist sauber.",
+    "english": "The bedroom is clean.",
+    "pron": "das shlaftsimmuh isht sofbuh."
+  },
+  {
+    "topic": "Home and Daily Routine",
+    "id": 84,
+    "german": "Das Bad ist sauber.",
+    "english": "The bathroom is clean.",
+    "pron": "das bat isht sofbuh."
+  },
+  {
+    "topic": "Home and Daily Routine",
+    "id": 85,
+    "german": "Der Garten ist sauber.",
+    "english": "The garden is clean.",
+    "pron": "duh garten isht sofbuh."
+  },
+  {
+    "topic": "Home and Daily Routine",
+    "id": 86,
+    "german": "Der Balkon ist sauber.",
+    "english": "The balcony is clean.",
+    "pron": "duh balkon isht sofbuh."
+  },
+  {
+    "topic": "Home and Daily Routine",
+    "id": 87,
+    "german": "Der Flur ist sauber.",
+    "english": "The hallway is clean.",
+    "pron": "duh flur isht sofbuh."
+  },
+  {
+    "topic": "Home and Daily Routine",
+    "id": 88,
+    "german": "Der Keller ist sauber.",
+    "english": "The basement is clean.",
+    "pron": "duh kelluh isht sofbuh."
+  },
+  {
+    "topic": "Home and Daily Routine",
+    "id": 89,
+    "german": "Das Arbeitszimmer ist sauber.",
+    "english": "The study is clean.",
+    "pron": "das arbeyetstsimmuh isht sofbuh."
+  },
+  {
+    "topic": "Home and Daily Routine",
+    "id": 90,
+    "german": "Die Garage ist sauber.",
+    "english": "The garage is clean.",
+    "pron": "deuh garaguh isht sofbuh."
+  },
+  {
+    "topic": "Home and Daily Routine",
+    "id": 91,
+    "german": "Ich stehe um sieben Uhr auf.",
+    "english": "I get up at seven o'clock.",
+    "pron": "ikh shteuh um seeben ur off."
+  },
+  {
+    "topic": "Home and Daily Routine",
+    "id": 92,
+    "german": "Ich dusche am Morgen.",
+    "english": "I shower in the morning.",
+    "pron": "ikh dushuh am morgen."
+  },
+  {
+    "topic": "Home and Daily Routine",
+    "id": 93,
+    "german": "Ich mache mein Bett.",
+    "english": "I make my bed.",
+    "pron": "ikh makhuh meyen bett."
+  },
+  {
+    "topic": "Home and Daily Routine",
+    "id": 94,
+    "german": "Ich frühstücke in der Küche.",
+    "english": "I eat breakfast in the kitchen.",
+    "pron": "ikh frewhshtewckuh in duh kewkhuh."
+  },
+  {
+    "topic": "Home and Daily Routine",
+    "id": 95,
+    "german": "Ich putze meine Zähne.",
+    "english": "I brush my teeth.",
+    "pron": "ikh puttsuh meyenuh tsehnuh."
+  },
+  {
+    "topic": "Home and Daily Routine",
+    "id": 96,
+    "german": "Ich räume mein Zimmer auf.",
+    "english": "I tidy my room.",
+    "pron": "ikh roymuh meyen tsimmuh off."
+  },
+  {
+    "topic": "Home and Daily Routine",
+    "id": 97,
+    "german": "Ich wasche meine Kleidung.",
+    "english": "I wash my clothes.",
+    "pron": "ikh fashuh meyenuh kleyedunk."
+  },
+  {
+    "topic": "Home and Daily Routine",
+    "id": 98,
+    "german": "Ich koche das Abendessen.",
+    "english": "I cook dinner.",
+    "pron": "ikh kokhuh das abendessen."
+  },
+  {
+    "topic": "Home and Daily Routine",
+    "id": 99,
+    "german": "Ich sehe am Abend fern.",
+    "english": "I watch television in the evening.",
+    "pron": "ikh seuh am abent fern."
+  },
+  {
+    "topic": "Home and Daily Routine",
+    "id": 100,
+    "german": "Ich gehe früh ins Bett.",
+    "english": "I go to bed early.",
+    "pron": "ikh geuh frewh ins bett."
+  },
+  {
+    "topic": "Home and Daily Routine",
+    "id": 101,
+    "german": "In der Küche gibt es ein Fenster.",
+    "english": "There is a window in the kitchen.",
+    "pron": "in duh kewkhuh gibt es eyen fenshtuh."
+  },
+  {
+    "topic": "Home and Daily Routine",
+    "id": 102,
+    "german": "In dem Wohnzimmer gibt es ein Fenster.",
+    "english": "There is a window in the living room.",
+    "pron": "in dem fontsimmuh gibt es eyen fenshtuh."
+  },
+  {
+    "topic": "Home and Daily Routine",
+    "id": 103,
+    "german": "In dem Schlafzimmer gibt es ein Fenster.",
+    "english": "There is a window in the bedroom.",
+    "pron": "in dem shlaftsimmuh gibt es eyen fenshtuh."
+  },
+  {
+    "topic": "Home and Daily Routine",
+    "id": 104,
+    "german": "In dem Bad gibt es ein Fenster.",
+    "english": "There is a window in the bathroom.",
+    "pron": "in dem bat gibt es eyen fenshtuh."
+  },
+  {
+    "topic": "Home and Daily Routine",
+    "id": 105,
+    "german": "In dem Garten gibt es ein Fenster.",
+    "english": "There is a window in the garden.",
+    "pron": "in dem garten gibt es eyen fenshtuh."
+  },
+  {
+    "topic": "Home and Daily Routine",
+    "id": 106,
+    "german": "In dem Balkon gibt es ein Fenster.",
+    "english": "There is a window in the balcony.",
+    "pron": "in dem balkon gibt es eyen fenshtuh."
+  },
+  {
+    "topic": "Home and Daily Routine",
+    "id": 107,
+    "german": "In dem Flur gibt es ein Fenster.",
+    "english": "There is a window in the hallway.",
+    "pron": "in dem flur gibt es eyen fenshtuh."
+  },
+  {
+    "topic": "Home and Daily Routine",
+    "id": 108,
+    "german": "In dem Keller gibt es ein Fenster.",
+    "english": "There is a window in the basement.",
+    "pron": "in dem kelluh gibt es eyen fenshtuh."
+  },
+  {
+    "topic": "Home and Daily Routine",
+    "id": 109,
+    "german": "In dem Arbeitszimmer gibt es ein Fenster.",
+    "english": "There is a window in the study.",
+    "pron": "in dem arbeyetstsimmuh gibt es eyen fenshtuh."
+  },
+  {
+    "topic": "Home and Daily Routine",
+    "id": 110,
+    "german": "In der Garage gibt es ein Fenster.",
+    "english": "There is a window in the garage.",
+    "pron": "in duh garaguh gibt es eyen fenshtuh."
+  },
+  {
+    "topic": "Home and Daily Routine",
+    "id": 111,
+    "german": "Der Schlüssel liegt in der Küche.",
+    "english": "The key is in the kitchen.",
+    "pron": "duh shlewssel leegt in duh kewkhuh."
+  },
+  {
+    "topic": "Home and Daily Routine",
+    "id": 112,
+    "german": "Das Handy liegt in dem Wohnzimmer.",
+    "english": "The phone is in the living room.",
+    "pron": "das handy leegt in dem fontsimmuh."
+  },
+  {
+    "topic": "Home and Daily Routine",
+    "id": 113,
+    "german": "Das Buch liegt in dem Schlafzimmer.",
+    "english": "The book is in the bedroom.",
+    "pron": "das bukh leegt in dem shlaftsimmuh."
+  },
+  {
+    "topic": "Home and Daily Routine",
+    "id": 114,
+    "german": "Die Jacke liegt in dem Bad.",
+    "english": "The jacket is in the bathroom.",
+    "pron": "deuh yackuh leegt in dem bat."
+  },
+  {
+    "topic": "Home and Daily Routine",
+    "id": 115,
+    "german": "Die Tasche liegt in dem Garten.",
+    "english": "The bag is in the garden.",
+    "pron": "deuh tashuh leegt in dem garten."
+  },
+  {
+    "topic": "Home and Daily Routine",
+    "id": 116,
+    "german": "Die Brille liegt in dem Balkon.",
+    "english": "The glasses is in the balcony.",
+    "pron": "deuh brilluh leegt in dem balkon."
+  },
+  {
+    "topic": "Home and Daily Routine",
+    "id": 117,
+    "german": "Die Uhr liegt in dem Flur.",
+    "english": "The watch is in the hallway.",
+    "pron": "deuh ur leegt in dem flur."
+  },
+  {
+    "topic": "Home and Daily Routine",
+    "id": 118,
+    "german": "Der Laptop liegt in dem Keller.",
+    "english": "The laptop is in the basement.",
+    "pron": "duh laptop leegt in dem kelluh."
+  },
+  {
+    "topic": "Home and Daily Routine",
+    "id": 119,
+    "german": "Der Schirm liegt in dem Arbeitszimmer.",
+    "english": "The umbrella is in the study.",
+    "pron": "duh shirm leegt in dem arbeyetstsimmuh."
+  },
+  {
+    "topic": "Home and Daily Routine",
+    "id": 120,
+    "german": "Das Foto liegt in der Garage.",
+    "english": "The photo is in the garage.",
+    "pron": "das foto leegt in duh garaguh."
+  },
+  {
+    "topic": "Food and Drink",
+    "id": 121,
+    "german": "Ich esse gern Brot.",
+    "english": "I like eating bread.",
+    "pron": "ikh essuh gern brot."
+  },
+  {
+    "topic": "Food and Drink",
+    "id": 122,
+    "german": "Ich esse gern Reis.",
+    "english": "I like eating rice.",
+    "pron": "ikh essuh gern reyes."
+  },
+  {
+    "topic": "Food and Drink",
+    "id": 123,
+    "german": "Ich esse gern Suppe.",
+    "english": "I like eating soup.",
+    "pron": "ikh essuh gern suppuh."
+  },
+  {
+    "topic": "Food and Drink",
+    "id": 124,
+    "german": "Ich esse gern Salat.",
+    "english": "I like eating salad.",
+    "pron": "ikh essuh gern salat."
+  },
+  {
+    "topic": "Food and Drink",
+    "id": 125,
+    "german": "Ich esse gern Käse.",
+    "english": "I like eating cheese.",
+    "pron": "ikh essuh gern kesuh."
+  },
+  {
+    "topic": "Food and Drink",
+    "id": 126,
+    "german": "Ich esse gern Fisch.",
+    "english": "I like eating fish.",
+    "pron": "ikh essuh gern fish."
+  },
+  {
+    "topic": "Food and Drink",
+    "id": 127,
+    "german": "Ich esse gern Hähnchen.",
+    "english": "I like eating chicken.",
+    "pron": "ikh essuh gern hehnkhen."
+  },
+  {
+    "topic": "Food and Drink",
+    "id": 128,
+    "german": "Ich esse gern Obst.",
+    "english": "I like eating fruit.",
+    "pron": "ikh essuh gern obsht."
+  },
+  {
+    "topic": "Food and Drink",
+    "id": 129,
+    "german": "Ich esse gern Gemüse.",
+    "english": "I like eating vegetables.",
+    "pron": "ikh essuh gern gemewsuh."
+  },
+  {
+    "topic": "Food and Drink",
+    "id": 130,
+    "german": "Ich esse gern Nudeln.",
+    "english": "I like eating pasta.",
+    "pron": "ikh essuh gern nudeln."
+  },
+  {
+    "topic": "Food and Drink",
+    "id": 131,
+    "german": "Ich trinke jeden Morgen Wasser.",
+    "english": "I drink water every morning.",
+    "pron": "ikh trinkuh yeden morgen fassuh."
+  },
+  {
+    "topic": "Food and Drink",
+    "id": 132,
+    "german": "Ich trinke jeden Morgen Kaffee.",
+    "english": "I drink coffee every morning.",
+    "pron": "ikh trinkuh yeden morgen kaffeuh."
+  },
+  {
+    "topic": "Food and Drink",
+    "id": 133,
+    "german": "Ich trinke jeden Morgen Tee.",
+    "english": "I drink tea every morning.",
+    "pron": "ikh trinkuh yeden morgen teuh."
+  },
+  {
+    "topic": "Food and Drink",
+    "id": 134,
+    "german": "Ich trinke jeden Morgen Milch.",
+    "english": "I drink milk every morning.",
+    "pron": "ikh trinkuh yeden morgen milkh."
+  },
+  {
+    "topic": "Food and Drink",
+    "id": 135,
+    "german": "Ich trinke jeden Morgen Saft.",
+    "english": "I drink juice every morning.",
+    "pron": "ikh trinkuh yeden morgen saft."
+  },
+  {
+    "topic": "Food and Drink",
+    "id": 136,
+    "german": "Ich trinke jeden Morgen Mineralwasser.",
+    "english": "I drink mineral water every morning.",
+    "pron": "ikh trinkuh yeden morgen mineralfassuh."
+  },
+  {
+    "topic": "Food and Drink",
+    "id": 137,
+    "german": "Ich trinke jeden Morgen heiße Schokolade.",
+    "english": "I drink hot chocolate every morning.",
+    "pron": "ikh trinkuh yeden morgen heyessuh shokoladuh."
+  },
+  {
+    "topic": "Food and Drink",
+    "id": 138,
+    "german": "Ich trinke jeden Morgen Limonade.",
+    "english": "I drink lemonade every morning.",
+    "pron": "ikh trinkuh yeden morgen limonaduh."
+  },
+  {
+    "topic": "Food and Drink",
+    "id": 139,
+    "german": "Ich trinke jeden Morgen grünen Tee.",
+    "english": "I drink green tea every morning.",
+    "pron": "ikh trinkuh yeden morgen grewnen teuh."
+  },
+  {
+    "topic": "Food and Drink",
+    "id": 140,
+    "german": "Ich trinke jeden Morgen Orangensaft.",
+    "english": "I drink orange juice every morning.",
+    "pron": "ikh trinkuh yeden morgen orangensaft."
+  },
+  {
+    "topic": "Food and Drink",
+    "id": 141,
+    "german": "Brot schmeckt gut.",
+    "english": "The bread tastes good.",
+    "pron": "brot shmeckt gut."
+  },
+  {
+    "topic": "Food and Drink",
+    "id": 142,
+    "german": "Reis schmeckt gut.",
+    "english": "The rice tastes good.",
+    "pron": "reyes shmeckt gut."
+  },
+  {
+    "topic": "Food and Drink",
+    "id": 143,
+    "german": "Suppe schmeckt gut.",
+    "english": "The soup tastes good.",
+    "pron": "suppuh shmeckt gut."
+  },
+  {
+    "topic": "Food and Drink",
+    "id": 144,
+    "german": "Salat schmeckt gut.",
+    "english": "The salad tastes good.",
+    "pron": "salat shmeckt gut."
+  },
+  {
+    "topic": "Food and Drink",
+    "id": 145,
+    "german": "Käse schmeckt gut.",
+    "english": "The cheese tastes good.",
+    "pron": "kesuh shmeckt gut."
+  },
+  {
+    "topic": "Food and Drink",
+    "id": 146,
+    "german": "Fisch schmeckt gut.",
+    "english": "The fish tastes good.",
+    "pron": "fish shmeckt gut."
+  },
+  {
+    "topic": "Food and Drink",
+    "id": 147,
+    "german": "Hähnchen schmeckt gut.",
+    "english": "The chicken tastes good.",
+    "pron": "hehnkhen shmeckt gut."
+  },
+  {
+    "topic": "Food and Drink",
+    "id": 148,
+    "german": "Obst schmeckt gut.",
+    "english": "The fruit tastes good.",
+    "pron": "obsht shmeckt gut."
+  },
+  {
+    "topic": "Food and Drink",
+    "id": 149,
+    "german": "Gemüse schmeckt gut.",
+    "english": "The vegetables tastes good.",
+    "pron": "gemewsuh shmeckt gut."
+  },
+  {
+    "topic": "Food and Drink",
+    "id": 150,
+    "german": "Nudeln schmeckt gut.",
+    "english": "The pasta tastes good.",
+    "pron": "nudeln shmeckt gut."
+  },
+  {
+    "topic": "Food and Drink",
+    "id": 151,
+    "german": "Kann ich bitte Wasser haben?",
+    "english": "Can I have water, please?",
+    "pron": "kann ikh bittuh fassuh haben?"
+  },
+  {
+    "topic": "Food and Drink",
+    "id": 152,
+    "german": "Kann ich bitte Kaffee haben?",
+    "english": "Can I have coffee, please?",
+    "pron": "kann ikh bittuh kaffeuh haben?"
+  },
+  {
+    "topic": "Food and Drink",
+    "id": 153,
+    "german": "Kann ich bitte Tee haben?",
+    "english": "Can I have tea, please?",
+    "pron": "kann ikh bittuh teuh haben?"
+  },
+  {
+    "topic": "Food and Drink",
+    "id": 154,
+    "german": "Kann ich bitte Milch haben?",
+    "english": "Can I have milk, please?",
+    "pron": "kann ikh bittuh milkh haben?"
+  },
+  {
+    "topic": "Food and Drink",
+    "id": 155,
+    "german": "Kann ich bitte Saft haben?",
+    "english": "Can I have juice, please?",
+    "pron": "kann ikh bittuh saft haben?"
+  },
+  {
+    "topic": "Food and Drink",
+    "id": 156,
+    "german": "Kann ich bitte Mineralwasser haben?",
+    "english": "Can I have mineral water, please?",
+    "pron": "kann ikh bittuh mineralfassuh haben?"
+  },
+  {
+    "topic": "Food and Drink",
+    "id": 157,
+    "german": "Kann ich bitte heiße Schokolade haben?",
+    "english": "Can I have hot chocolate, please?",
+    "pron": "kann ikh bittuh heyessuh shokoladuh haben?"
+  },
+  {
+    "topic": "Food and Drink",
+    "id": 158,
+    "german": "Kann ich bitte Limonade haben?",
+    "english": "Can I have lemonade, please?",
+    "pron": "kann ikh bittuh limonaduh haben?"
+  },
+  {
+    "topic": "Food and Drink",
+    "id": 159,
+    "german": "Kann ich bitte grünen Tee haben?",
+    "english": "Can I have green tea, please?",
+    "pron": "kann ikh bittuh grewnen teuh haben?"
+  },
+  {
+    "topic": "Food and Drink",
+    "id": 160,
+    "german": "Kann ich bitte Orangensaft haben?",
+    "english": "Can I have orange juice, please?",
+    "pron": "kann ikh bittuh orangensaft haben?"
+  },
+  {
+    "topic": "Shopping and Money",
+    "id": 161,
+    "german": "Ich möchte ein T-Shirt kaufen.",
+    "english": "I would like to buy T-shirt.",
+    "pron": "ikh murkhtuh eyen t-shirt koffen."
+  },
+  {
+    "topic": "Shopping and Money",
+    "id": 162,
+    "german": "Ich möchte eine Hose kaufen.",
+    "english": "I would like to buy trousers.",
+    "pron": "ikh murkhtuh eyenuh hosuh koffen."
+  },
+  {
+    "topic": "Shopping and Money",
+    "id": 163,
+    "german": "Ich möchte eine Jacke kaufen.",
+    "english": "I would like to buy jacket.",
+    "pron": "ikh murkhtuh eyenuh yackuh koffen."
+  },
+  {
+    "topic": "Shopping and Money",
+    "id": 164,
+    "german": "Ich möchte Schuhe kaufen.",
+    "english": "I would like to buy shoes.",
+    "pron": "ikh murkhtuh shuuh koffen."
+  },
+  {
+    "topic": "Shopping and Money",
+    "id": 165,
+    "german": "Ich möchte ein Buch kaufen.",
+    "english": "I would like to buy book.",
+    "pron": "ikh murkhtuh eyen bukh koffen."
+  },
+  {
+    "topic": "Shopping and Money",
+    "id": 166,
+    "german": "Ich möchte eine Lampe kaufen.",
+    "english": "I would like to buy lamp.",
+    "pron": "ikh murkhtuh eyenuh lampuh koffen."
+  },
+  {
+    "topic": "Shopping and Money",
+    "id": 167,
+    "german": "Ich möchte eine Tasche kaufen.",
+    "english": "I would like to buy bag.",
+    "pron": "ikh murkhtuh eyenuh tashuh koffen."
+  },
+  {
+    "topic": "Shopping and Money",
+    "id": 168,
+    "german": "Ich möchte eine Kamera kaufen.",
+    "english": "I would like to buy camera.",
+    "pron": "ikh murkhtuh eyenuh kamera koffen."
+  },
+  {
+    "topic": "Shopping and Money",
+    "id": 169,
+    "german": "Ich möchte Kopfhörer kaufen.",
+    "english": "I would like to buy headphones.",
+    "pron": "ikh murkhtuh kopfhurruh koffen."
+  },
+  {
+    "topic": "Shopping and Money",
+    "id": 170,
+    "german": "Ich möchte ein Fahrrad kaufen.",
+    "english": "I would like to buy bicycle.",
+    "pron": "ikh murkhtuh eyen farrat koffen."
+  },
+  {
+    "topic": "Shopping and Money",
+    "id": 171,
+    "german": "T-Shirt kostet 10 Euro.",
+    "english": "The T-shirt costs 10 euros.",
+    "pron": "t-shirt koshtet oyro."
+  },
+  {
+    "topic": "Shopping and Money",
+    "id": 172,
+    "german": "Hose kostet 15 Euro.",
+    "english": "The trousers costs 15 euros.",
+    "pron": "hosuh koshtet oyro."
+  },
+  {
+    "topic": "Shopping and Money",
+    "id": 173,
+    "german": "Jacke kostet 20 Euro.",
+    "english": "The jacket costs 20 euros.",
+    "pron": "yackuh koshtet oyro."
+  },
+  {
+    "topic": "Shopping and Money",
+    "id": 174,
+    "german": "Schuhe kostet 25 Euro.",
+    "english": "The shoes costs 25 euros.",
+    "pron": "shuuh koshtet oyro."
+  },
+  {
+    "topic": "Shopping and Money",
+    "id": 175,
+    "german": "Buch kostet 30 Euro.",
+    "english": "The book costs 30 euros.",
+    "pron": "bukh koshtet oyro."
+  },
+  {
+    "topic": "Shopping and Money",
+    "id": 176,
+    "german": "Lampe kostet 35 Euro.",
+    "english": "The lamp costs 35 euros.",
+    "pron": "lampuh koshtet oyro."
+  },
+  {
+    "topic": "Shopping and Money",
+    "id": 177,
+    "german": "Tasche kostet 40 Euro.",
+    "english": "The bag costs 40 euros.",
+    "pron": "tashuh koshtet oyro."
+  },
+  {
+    "topic": "Shopping and Money",
+    "id": 178,
+    "german": "Kamera kostet 50 Euro.",
+    "english": "The camera costs 50 euros.",
+    "pron": "kamera koshtet oyro."
+  },
+  {
+    "topic": "Shopping and Money",
+    "id": 179,
+    "german": "Kopfhörer kostet 75 Euro.",
+    "english": "The headphones costs 75 euros.",
+    "pron": "kopfhurruh koshtet oyro."
+  },
+  {
+    "topic": "Shopping and Money",
+    "id": 180,
+    "german": "Fahrrad kostet 100 Euro.",
+    "english": "The bicycle costs 100 euros.",
+    "pron": "farrat koshtet oyro."
+  },
+  {
+    "topic": "Shopping and Money",
+    "id": 181,
+    "german": "Haben Sie ein T-Shirt in Blau?",
+    "english": "Do you have T-shirt in blue?",
+    "pron": "haben seuh eyen t-shirt in blof?"
+  },
+  {
+    "topic": "Shopping and Money",
+    "id": 182,
+    "german": "Haben Sie eine Hose in Blau?",
+    "english": "Do you have trousers in blue?",
+    "pron": "haben seuh eyenuh hosuh in blof?"
+  },
+  {
+    "topic": "Shopping and Money",
+    "id": 183,
+    "german": "Haben Sie eine Jacke in Blau?",
+    "english": "Do you have jacket in blue?",
+    "pron": "haben seuh eyenuh yackuh in blof?"
+  },
+  {
+    "topic": "Shopping and Money",
+    "id": 184,
+    "german": "Haben Sie Schuhe in Blau?",
+    "english": "Do you have shoes in blue?",
+    "pron": "haben seuh shuuh in blof?"
+  },
+  {
+    "topic": "Shopping and Money",
+    "id": 185,
+    "german": "Haben Sie ein Buch in Blau?",
+    "english": "Do you have book in blue?",
+    "pron": "haben seuh eyen bukh in blof?"
+  },
+  {
+    "topic": "Shopping and Money",
+    "id": 186,
+    "german": "Haben Sie eine Lampe in Blau?",
+    "english": "Do you have lamp in blue?",
+    "pron": "haben seuh eyenuh lampuh in blof?"
+  },
+  {
+    "topic": "Shopping and Money",
+    "id": 187,
+    "german": "Haben Sie eine Tasche in Blau?",
+    "english": "Do you have bag in blue?",
+    "pron": "haben seuh eyenuh tashuh in blof?"
+  },
+  {
+    "topic": "Shopping and Money",
+    "id": 188,
+    "german": "Haben Sie eine Kamera in Blau?",
+    "english": "Do you have camera in blue?",
+    "pron": "haben seuh eyenuh kamera in blof?"
+  },
+  {
+    "topic": "Shopping and Money",
+    "id": 189,
+    "german": "Haben Sie Kopfhörer in Blau?",
+    "english": "Do you have headphones in blue?",
+    "pron": "haben seuh kopfhurruh in blof?"
+  },
+  {
+    "topic": "Shopping and Money",
+    "id": 190,
+    "german": "Haben Sie ein Fahrrad in Blau?",
+    "english": "Do you have bicycle in blue?",
+    "pron": "haben seuh eyen farrat in blof?"
+  },
+  {
+    "topic": "Shopping and Money",
+    "id": 191,
+    "german": "Wo kann ich ein T-Shirt bezahlen?",
+    "english": "Where can I pay for T-shirt?",
+    "pron": "fo kann ikh eyen t-shirt betsalen?"
+  },
+  {
+    "topic": "Shopping and Money",
+    "id": 192,
+    "german": "Wo kann ich eine Hose bezahlen?",
+    "english": "Where can I pay for trousers?",
+    "pron": "fo kann ikh eyenuh hosuh betsalen?"
+  },
+  {
+    "topic": "Shopping and Money",
+    "id": 193,
+    "german": "Wo kann ich eine Jacke bezahlen?",
+    "english": "Where can I pay for jacket?",
+    "pron": "fo kann ikh eyenuh yackuh betsalen?"
+  },
+  {
+    "topic": "Shopping and Money",
+    "id": 194,
+    "german": "Wo kann ich Schuhe bezahlen?",
+    "english": "Where can I pay for shoes?",
+    "pron": "fo kann ikh shuuh betsalen?"
+  },
+  {
+    "topic": "Shopping and Money",
+    "id": 195,
+    "german": "Wo kann ich ein Buch bezahlen?",
+    "english": "Where can I pay for book?",
+    "pron": "fo kann ikh eyen bukh betsalen?"
+  },
+  {
+    "topic": "Shopping and Money",
+    "id": 196,
+    "german": "Wo kann ich eine Lampe bezahlen?",
+    "english": "Where can I pay for lamp?",
+    "pron": "fo kann ikh eyenuh lampuh betsalen?"
+  },
+  {
+    "topic": "Shopping and Money",
+    "id": 197,
+    "german": "Wo kann ich eine Tasche bezahlen?",
+    "english": "Where can I pay for bag?",
+    "pron": "fo kann ikh eyenuh tashuh betsalen?"
+  },
+  {
+    "topic": "Shopping and Money",
+    "id": 198,
+    "german": "Wo kann ich eine Kamera bezahlen?",
+    "english": "Where can I pay for camera?",
+    "pron": "fo kann ikh eyenuh kamera betsalen?"
+  },
+  {
+    "topic": "Shopping and Money",
+    "id": 199,
+    "german": "Wo kann ich Kopfhörer bezahlen?",
+    "english": "Where can I pay for headphones?",
+    "pron": "fo kann ikh kopfhurruh betsalen?"
+  },
+  {
+    "topic": "Shopping and Money",
+    "id": 200,
+    "german": "Wo kann ich ein Fahrrad bezahlen?",
+    "english": "Where can I pay for bicycle?",
+    "pron": "fo kann ikh eyen farrat betsalen?"
+  },
+  {
+    "topic": "School, Study, and Work",
+    "id": 201,
+    "german": "Ich lerne heute Deutsch.",
+    "english": "I am studying German today.",
+    "pron": "ikh lernuh hoytuh doykh."
+  },
+  {
+    "topic": "School, Study, and Work",
+    "id": 202,
+    "german": "Ich lerne heute Mathematik.",
+    "english": "I am studying mathematics today.",
+    "pron": "ikh lernuh hoytuh mathematik."
+  },
+  {
+    "topic": "School, Study, and Work",
+    "id": 203,
+    "german": "Ich lerne heute Englisch.",
+    "english": "I am studying English today.",
+    "pron": "ikh lernuh hoytuh english."
+  },
+  {
+    "topic": "School, Study, and Work",
+    "id": 204,
+    "german": "Ich lerne heute Geschichte.",
+    "english": "I am studying history today.",
+    "pron": "ikh lernuh hoytuh geshikhtuh."
+  },
+  {
+    "topic": "School, Study, and Work",
+    "id": 205,
+    "german": "Ich lerne heute Biologie.",
+    "english": "I am studying biology today.",
+    "pron": "ikh lernuh hoytuh biologeuh."
+  },
+  {
+    "topic": "School, Study, and Work",
+    "id": 206,
+    "german": "Ich lerne heute Informatik.",
+    "english": "I am studying computer science today.",
+    "pron": "ikh lernuh hoytuh informatik."
+  },
+  {
+    "topic": "School, Study, and Work",
+    "id": 207,
+    "german": "Ich lerne heute Musik.",
+    "english": "I am studying music today.",
+    "pron": "ikh lernuh hoytuh musik."
+  },
+  {
+    "topic": "School, Study, and Work",
+    "id": 208,
+    "german": "Ich lerne heute Kunst.",
+    "english": "I am studying art today.",
+    "pron": "ikh lernuh hoytuh kunsht."
+  },
+  {
+    "topic": "School, Study, and Work",
+    "id": 209,
+    "german": "Ich lerne heute Geografie.",
+    "english": "I am studying geography today.",
+    "pron": "ikh lernuh hoytuh geografeuh."
+  },
+  {
+    "topic": "School, Study, and Work",
+    "id": 210,
+    "german": "Ich lerne heute Physik.",
+    "english": "I am studying physics today.",
+    "pron": "ikh lernuh hoytuh fysik."
+  },
+  {
+    "topic": "School, Study, and Work",
+    "id": 211,
+    "german": "Der Unterricht in Deutsch beginnt um neun Uhr.",
+    "english": "The German class begins at nine o'clock.",
+    "pron": "duh unterrikht in doykh beginnt um noyn ur."
+  },
+  {
+    "topic": "School, Study, and Work",
+    "id": 212,
+    "german": "Der Unterricht in Mathematik beginnt um neun Uhr.",
+    "english": "The mathematics class begins at nine o'clock.",
+    "pron": "duh unterrikht in mathematik beginnt um noyn ur."
+  },
+  {
+    "topic": "School, Study, and Work",
+    "id": 213,
+    "german": "Der Unterricht in Englisch beginnt um neun Uhr.",
+    "english": "The English class begins at nine o'clock.",
+    "pron": "duh unterrikht in english beginnt um noyn ur."
+  },
+  {
+    "topic": "School, Study, and Work",
+    "id": 214,
+    "german": "Der Unterricht in Geschichte beginnt um neun Uhr.",
+    "english": "The history class begins at nine o'clock.",
+    "pron": "duh unterrikht in geshikhtuh beginnt um noyn ur."
+  },
+  {
+    "topic": "School, Study, and Work",
+    "id": 215,
+    "german": "Der Unterricht in Biologie beginnt um neun Uhr.",
+    "english": "The biology class begins at nine o'clock.",
+    "pron": "duh unterrikht in biologeuh beginnt um noyn ur."
+  },
+  {
+    "topic": "School, Study, and Work",
+    "id": 216,
+    "german": "Der Unterricht in Informatik beginnt um neun Uhr.",
+    "english": "The computer science class begins at nine o'clock.",
+    "pron": "duh unterrikht in informatik beginnt um noyn ur."
+  },
+  {
+    "topic": "School, Study, and Work",
+    "id": 217,
+    "german": "Der Unterricht in Musik beginnt um neun Uhr.",
+    "english": "The music class begins at nine o'clock.",
+    "pron": "duh unterrikht in musik beginnt um noyn ur."
+  },
+  {
+    "topic": "School, Study, and Work",
+    "id": 218,
+    "german": "Der Unterricht in Kunst beginnt um neun Uhr.",
+    "english": "The art class begins at nine o'clock.",
+    "pron": "duh unterrikht in kunsht beginnt um noyn ur."
+  },
+  {
+    "topic": "School, Study, and Work",
+    "id": 219,
+    "german": "Der Unterricht in Geografie beginnt um neun Uhr.",
+    "english": "The geography class begins at nine o'clock.",
+    "pron": "duh unterrikht in geografeuh beginnt um noyn ur."
+  },
+  {
+    "topic": "School, Study, and Work",
+    "id": 220,
+    "german": "Der Unterricht in Physik beginnt um neun Uhr.",
+    "english": "The physics class begins at nine o'clock.",
+    "pron": "duh unterrikht in fysik beginnt um noyn ur."
+  },
+  {
+    "topic": "School, Study, and Work",
+    "id": 221,
+    "german": "Heute bearbeite ich die E-Mail.",
+    "english": "Today I am working on the email.",
+    "pron": "hoytuh bearbeyetuh ikh deuh uh-mail."
+  },
+  {
+    "topic": "School, Study, and Work",
+    "id": 222,
+    "german": "Heute bearbeite ich den Bericht.",
+    "english": "Today I am working on the report.",
+    "pron": "hoytuh bearbeyetuh ikh den berikht."
+  },
+  {
+    "topic": "School, Study, and Work",
+    "id": 223,
+    "german": "Heute bearbeite ich den Termin.",
+    "english": "Today I am working on the appointment.",
+    "pron": "hoytuh bearbeyetuh ikh den termin."
+  },
+  {
+    "topic": "School, Study, and Work",
+    "id": 224,
+    "german": "Heute bearbeite ich die Aufgabe.",
+    "english": "Today I am working on the task.",
+    "pron": "hoytuh bearbeyetuh ikh deuh offgabuh."
+  },
+  {
+    "topic": "School, Study, and Work",
+    "id": 225,
+    "german": "Heute bearbeite ich das Projekt.",
+    "english": "Today I am working on the project.",
+    "pron": "hoytuh bearbeyetuh ikh das proyekt."
+  },
+  {
+    "topic": "School, Study, and Work",
+    "id": 226,
+    "german": "Heute bearbeite ich die Besprechung.",
+    "english": "Today I am working on the meeting.",
+    "pron": "hoytuh bearbeyetuh ikh deuh beshprekhunk."
+  },
+  {
+    "topic": "School, Study, and Work",
+    "id": 227,
+    "german": "Heute bearbeite ich die Rechnung.",
+    "english": "Today I am working on the invoice.",
+    "pron": "hoytuh bearbeyetuh ikh deuh rekhnunk."
+  },
+  {
+    "topic": "School, Study, and Work",
+    "id": 228,
+    "german": "Heute bearbeite ich den Kunden.",
+    "english": "Today I am working on the customer.",
+    "pron": "hoytuh bearbeyetuh ikh den kunden."
+  },
+  {
+    "topic": "School, Study, and Work",
+    "id": 229,
+    "german": "Heute bearbeite ich den Computer.",
+    "english": "Today I am working on the computer.",
+    "pron": "hoytuh bearbeyetuh ikh den computuh."
+  },
+  {
+    "topic": "School, Study, and Work",
+    "id": 230,
+    "german": "Heute bearbeite ich meinen Arbeitsplatz.",
+    "english": "Today I am working on the workplace.",
+    "pron": "hoytuh bearbeyetuh ikh meyenen arbeyetshplatts."
+  },
+  {
+    "topic": "School, Study, and Work",
+    "id": 231,
+    "german": "Heute ist die E-Mail wichtig.",
+    "english": "The email is important today.",
+    "pron": "hoytuh isht deuh uh-mail fikhtik."
+  },
+  {
+    "topic": "School, Study, and Work",
+    "id": 232,
+    "german": "Heute ist der Bericht wichtig.",
+    "english": "The report is important today.",
+    "pron": "hoytuh isht duh berikht fikhtik."
+  },
+  {
+    "topic": "School, Study, and Work",
+    "id": 233,
+    "german": "Heute ist der Termin wichtig.",
+    "english": "The appointment is important today.",
+    "pron": "hoytuh isht duh termin fikhtik."
+  },
+  {
+    "topic": "School, Study, and Work",
+    "id": 234,
+    "german": "Heute ist die Aufgabe wichtig.",
+    "english": "The task is important today.",
+    "pron": "hoytuh isht deuh offgabuh fikhtik."
+  },
+  {
+    "topic": "School, Study, and Work",
+    "id": 235,
+    "german": "Heute ist das Projekt wichtig.",
+    "english": "The project is important today.",
+    "pron": "hoytuh isht das proyekt fikhtik."
+  },
+  {
+    "topic": "School, Study, and Work",
+    "id": 236,
+    "german": "Heute ist die Besprechung wichtig.",
+    "english": "The meeting is important today.",
+    "pron": "hoytuh isht deuh beshprekhunk fikhtik."
+  },
+  {
+    "topic": "School, Study, and Work",
+    "id": 237,
+    "german": "Heute ist die Rechnung wichtig.",
+    "english": "The invoice is important today.",
+    "pron": "hoytuh isht deuh rekhnunk fikhtik."
+  },
+  {
+    "topic": "School, Study, and Work",
+    "id": 238,
+    "german": "Heute ist der Kunde wichtig.",
+    "english": "The customer is important today.",
+    "pron": "hoytuh isht duh kunduh fikhtik."
+  },
+  {
+    "topic": "School, Study, and Work",
+    "id": 239,
+    "german": "Heute ist der Computer wichtig.",
+    "english": "The computer is important today.",
+    "pron": "hoytuh isht duh computuh fikhtik."
+  },
+  {
+    "topic": "School, Study, and Work",
+    "id": 240,
+    "german": "Heute ist der Arbeitsplatz wichtig.",
+    "english": "The workplace is important today.",
+    "pron": "hoytuh isht duh arbeyetshplatts fikhtik."
+  },
+  {
+    "topic": "Travel and Transport",
+    "id": 241,
+    "german": "Ich fahre mit dem Bus.",
+    "english": "I travel by bus.",
+    "pron": "ikh faruh mit dem bus."
+  },
+  {
+    "topic": "Travel and Transport",
+    "id": 242,
+    "german": "Ich fahre mit dem Zug.",
+    "english": "I travel by train.",
+    "pron": "ikh faruh mit dem tsuk."
+  },
+  {
+    "topic": "Travel and Transport",
+    "id": 243,
+    "german": "Ich fahre mit der Straßenbahn.",
+    "english": "I travel by tram.",
+    "pron": "ikh faruh mit duh shtrassenban."
+  },
+  {
+    "topic": "Travel and Transport",
+    "id": 244,
+    "german": "Ich fahre mit dem Taxi.",
+    "english": "I travel by taxi.",
+    "pron": "ikh faruh mit dem taxi."
+  },
+  {
+    "topic": "Travel and Transport",
+    "id": 245,
+    "german": "Ich fahre mit dem Auto.",
+    "english": "I travel by car.",
+    "pron": "ikh faruh mit dem ofto."
+  },
+  {
+    "topic": "Travel and Transport",
+    "id": 246,
+    "german": "Ich fahre mit dem Fahrrad.",
+    "english": "I travel by bicycle.",
+    "pron": "ikh faruh mit dem farrat."
+  },
+  {
+    "topic": "Travel and Transport",
+    "id": 247,
+    "german": "Ich fahre mit dem Flugzeug.",
+    "english": "I travel by airplane.",
+    "pron": "ikh faruh mit dem flugtsoyk."
+  },
+  {
+    "topic": "Travel and Transport",
+    "id": 248,
+    "german": "Ich fahre mit der U-Bahn.",
+    "english": "I travel by subway.",
+    "pron": "ikh faruh mit duh u-ban."
+  },
+  {
+    "topic": "Travel and Transport",
+    "id": 249,
+    "german": "Ich fahre mit dem Schiff.",
+    "english": "I travel by ship.",
+    "pron": "ikh faruh mit dem shiff."
+  },
+  {
+    "topic": "Travel and Transport",
+    "id": 250,
+    "german": "Ich fahre mit dem Motorrad.",
+    "english": "I travel by motorcycle.",
+    "pron": "ikh faruh mit dem motorrat."
+  },
+  {
+    "topic": "Travel and Transport",
+    "id": 251,
+    "german": "Wann kommt der Bus?",
+    "english": "When does the bus arrive?",
+    "pron": "fann kommt duh bus?"
+  },
+  {
+    "topic": "Travel and Transport",
+    "id": 252,
+    "german": "Wann kommt der Zug?",
+    "english": "When does the train arrive?",
+    "pron": "fann kommt duh tsuk?"
+  },
+  {
+    "topic": "Travel and Transport",
+    "id": 253,
+    "german": "Wann kommt die Straßenbahn?",
+    "english": "When does the tram arrive?",
+    "pron": "fann kommt deuh shtrassenban?"
+  },
+  {
+    "topic": "Travel and Transport",
+    "id": 254,
+    "german": "Wann kommt das Taxi?",
+    "english": "When does the taxi arrive?",
+    "pron": "fann kommt das taxi?"
+  },
+  {
+    "topic": "Travel and Transport",
+    "id": 255,
+    "german": "Wann kommt das Auto?",
+    "english": "When does the car arrive?",
+    "pron": "fann kommt das ofto?"
+  },
+  {
+    "topic": "Travel and Transport",
+    "id": 256,
+    "german": "Wann kommt das Fahrrad?",
+    "english": "When does the bicycle arrive?",
+    "pron": "fann kommt das farrat?"
+  },
+  {
+    "topic": "Travel and Transport",
+    "id": 257,
+    "german": "Wann kommt das Flugzeug?",
+    "english": "When does the airplane arrive?",
+    "pron": "fann kommt das flugtsoyk?"
+  },
+  {
+    "topic": "Travel and Transport",
+    "id": 258,
+    "german": "Wann kommt die U-Bahn?",
+    "english": "When does the subway arrive?",
+    "pron": "fann kommt deuh u-ban?"
+  },
+  {
+    "topic": "Travel and Transport",
+    "id": 259,
+    "german": "Wann kommt das Schiff?",
+    "english": "When does the ship arrive?",
+    "pron": "fann kommt das shiff?"
+  },
+  {
+    "topic": "Travel and Transport",
+    "id": 260,
+    "german": "Wann kommt das Motorrad?",
+    "english": "When does the motorcycle arrive?",
+    "pron": "fann kommt das motorrat?"
+  },
+  {
+    "topic": "Travel and Transport",
+    "id": 261,
+    "german": "Wie komme ich zum Bahnhof?",
+    "english": "How do I get to the station?",
+    "pron": "feuh kommuh ikh tsum banhof?"
+  },
+  {
+    "topic": "Travel and Transport",
+    "id": 262,
+    "german": "Wie komme ich zum Flughafen?",
+    "english": "How do I get to the airport?",
+    "pron": "feuh kommuh ikh tsum flughafen?"
+  },
+  {
+    "topic": "Travel and Transport",
+    "id": 263,
+    "german": "Wie komme ich zum Hotel?",
+    "english": "How do I get to the hotel?",
+    "pron": "feuh kommuh ikh tsum hotel?"
+  },
+  {
+    "topic": "Travel and Transport",
+    "id": 264,
+    "german": "Wie komme ich zum Museum?",
+    "english": "How do I get to the museum?",
+    "pron": "feuh kommuh ikh tsum musoym?"
+  },
+  {
+    "topic": "Travel and Transport",
+    "id": 265,
+    "german": "Wie komme ich zum Stadtzentrum?",
+    "english": "How do I get to the city center?",
+    "pron": "feuh kommuh ikh tsum shtadttsentrum?"
+  },
+  {
+    "topic": "Travel and Transport",
+    "id": 266,
+    "german": "Wie komme ich zum Park?",
+    "english": "How do I get to the park?",
+    "pron": "feuh kommuh ikh tsum park?"
+  },
+  {
+    "topic": "Travel and Transport",
+    "id": 267,
+    "german": "Wie komme ich zum Markt?",
+    "english": "How do I get to the market?",
+    "pron": "feuh kommuh ikh tsum markt?"
+  },
+  {
+    "topic": "Travel and Transport",
+    "id": 268,
+    "german": "Wie komme ich zum Krankenhaus?",
+    "english": "How do I get to the hospital?",
+    "pron": "feuh kommuh ikh tsum krankenhofs?"
+  },
+  {
+    "topic": "Travel and Transport",
+    "id": 269,
+    "german": "Wie komme ich zur Universität?",
+    "english": "How do I get to the university?",
+    "pron": "feuh kommuh ikh tsur unifersitet?"
+  },
+  {
+    "topic": "Travel and Transport",
+    "id": 270,
+    "german": "Wie komme ich zum Restaurant?",
+    "english": "How do I get to the restaurant?",
+    "pron": "feuh kommuh ikh tsum reshtofrant?"
+  },
+  {
+    "topic": "Travel and Transport",
+    "id": 271,
+    "german": "Der Bahnhof ist nicht weit von hier.",
+    "english": "The station is not far from here.",
+    "pron": "duh banhof isht nikht feyet fon heuh."
+  },
+  {
+    "topic": "Travel and Transport",
+    "id": 272,
+    "german": "Der Flughafen ist nicht weit von hier.",
+    "english": "The airport is not far from here.",
+    "pron": "duh flughafen isht nikht feyet fon heuh."
+  },
+  {
+    "topic": "Travel and Transport",
+    "id": 273,
+    "german": "Das Hotel ist nicht weit von hier.",
+    "english": "The hotel is not far from here.",
+    "pron": "das hotel isht nikht feyet fon heuh."
+  },
+  {
+    "topic": "Travel and Transport",
+    "id": 274,
+    "german": "Das Museum ist nicht weit von hier.",
+    "english": "The museum is not far from here.",
+    "pron": "das musoym isht nikht feyet fon heuh."
+  },
+  {
+    "topic": "Travel and Transport",
+    "id": 275,
+    "german": "Das Stadtzentrum ist nicht weit von hier.",
+    "english": "The city center is not far from here.",
+    "pron": "das shtadttsentrum isht nikht feyet fon heuh."
+  },
+  {
+    "topic": "Travel and Transport",
+    "id": 276,
+    "german": "Der Park ist nicht weit von hier.",
+    "english": "The park is not far from here.",
+    "pron": "duh park isht nikht feyet fon heuh."
+  },
+  {
+    "topic": "Travel and Transport",
+    "id": 277,
+    "german": "Der Markt ist nicht weit von hier.",
+    "english": "The market is not far from here.",
+    "pron": "duh markt isht nikht feyet fon heuh."
+  },
+  {
+    "topic": "Travel and Transport",
+    "id": 278,
+    "german": "Das Krankenhaus ist nicht weit von hier.",
+    "english": "The hospital is not far from here.",
+    "pron": "das krankenhofs isht nikht feyet fon heuh."
+  },
+  {
+    "topic": "Travel and Transport",
+    "id": 279,
+    "german": "Die Universität ist nicht weit von hier.",
+    "english": "The university is not far from here.",
+    "pron": "deuh unifersitet isht nikht feyet fon heuh."
+  },
+  {
+    "topic": "Travel and Transport",
+    "id": 280,
+    "german": "Das Restaurant ist nicht weit von hier.",
+    "english": "The restaurant is not far from here.",
+    "pron": "das reshtofrant isht nikht feyet fon heuh."
+  },
+  {
+    "topic": "Time, Dates, and Appointments",
+    "id": 281,
+    "german": "Am Montag habe ich Zeit.",
+    "english": "I have time on Monday.",
+    "pron": "am montak habuh ikh tseyet."
+  },
+  {
+    "topic": "Time, Dates, and Appointments",
+    "id": 282,
+    "german": "Am Dienstag habe ich Zeit.",
+    "english": "I have time on Tuesday.",
+    "pron": "am deenshtak habuh ikh tseyet."
+  },
+  {
+    "topic": "Time, Dates, and Appointments",
+    "id": 283,
+    "german": "Am Mittwoch habe ich Zeit.",
+    "english": "I have time on Wednesday.",
+    "pron": "am mittfokh habuh ikh tseyet."
+  },
+  {
+    "topic": "Time, Dates, and Appointments",
+    "id": 284,
+    "german": "Am Donnerstag habe ich Zeit.",
+    "english": "I have time on Thursday.",
+    "pron": "am donnershtak habuh ikh tseyet."
+  },
+  {
+    "topic": "Time, Dates, and Appointments",
+    "id": 285,
+    "german": "Am Freitag habe ich Zeit.",
+    "english": "I have time on Friday.",
+    "pron": "am freyetak habuh ikh tseyet."
+  },
+  {
+    "topic": "Time, Dates, and Appointments",
+    "id": 286,
+    "german": "Am Samstag habe ich Zeit.",
+    "english": "I have time on Saturday.",
+    "pron": "am samshtak habuh ikh tseyet."
+  },
+  {
+    "topic": "Time, Dates, and Appointments",
+    "id": 287,
+    "german": "Am Sonntag habe ich Zeit.",
+    "english": "I have time on Sunday.",
+    "pron": "am sonntak habuh ikh tseyet."
+  },
+  {
+    "topic": "Time, Dates, and Appointments",
+    "id": 288,
+    "german": "Heute habe ich Zeit.",
+    "english": "I have time today.",
+    "pron": "hoytuh habuh ikh tseyet."
+  },
+  {
+    "topic": "Time, Dates, and Appointments",
+    "id": 289,
+    "german": "Morgen habe ich Zeit.",
+    "english": "I have time tomorrow.",
+    "pron": "morgen habuh ikh tseyet."
+  },
+  {
+    "topic": "Time, Dates, and Appointments",
+    "id": 290,
+    "german": "Nächste Woche habe ich Zeit.",
+    "english": "I have time next week.",
+    "pron": "nekhshtuh fokhuh habuh ikh tseyet."
+  },
+  {
+    "topic": "Time, Dates, and Appointments",
+    "id": 291,
+    "german": "Der Termin ist um acht Uhr.",
+    "english": "The appointment is at eight.",
+    "pron": "duh termin isht um akht ur."
+  },
+  {
+    "topic": "Time, Dates, and Appointments",
+    "id": 292,
+    "german": "Der Termin ist um neun Uhr.",
+    "english": "The appointment is at nine.",
+    "pron": "duh termin isht um noyn ur."
+  },
+  {
+    "topic": "Time, Dates, and Appointments",
+    "id": 293,
+    "german": "Der Termin ist um zehn Uhr.",
+    "english": "The appointment is at ten.",
+    "pron": "duh termin isht um tsen ur."
+  },
+  {
+    "topic": "Time, Dates, and Appointments",
+    "id": 294,
+    "german": "Der Termin ist um elf Uhr.",
+    "english": "The appointment is at eleven.",
+    "pron": "duh termin isht um elf ur."
+  },
+  {
+    "topic": "Time, Dates, and Appointments",
+    "id": 295,
+    "german": "Der Termin ist um zwölf Uhr.",
+    "english": "The appointment is at twelve.",
+    "pron": "duh termin isht um tsfurlf ur."
+  },
+  {
+    "topic": "Time, Dates, and Appointments",
+    "id": 296,
+    "german": "Der Termin ist um dreizehn Uhr.",
+    "english": "The appointment is at one p.m..",
+    "pron": "duh termin isht um dreyetsen ur."
+  },
+  {
+    "topic": "Time, Dates, and Appointments",
+    "id": 297,
+    "german": "Der Termin ist um vierzehn Uhr.",
+    "english": "The appointment is at two p.m..",
+    "pron": "duh termin isht um feertsen ur."
+  },
+  {
+    "topic": "Time, Dates, and Appointments",
+    "id": 298,
+    "german": "Der Termin ist um fünfzehn Uhr.",
+    "english": "The appointment is at three p.m..",
+    "pron": "duh termin isht um fewnftsen ur."
+  },
+  {
+    "topic": "Time, Dates, and Appointments",
+    "id": 299,
+    "german": "Der Termin ist um sechzehn Uhr.",
+    "english": "The appointment is at four p.m..",
+    "pron": "duh termin isht um sekhtsen ur."
+  },
+  {
+    "topic": "Time, Dates, and Appointments",
+    "id": 300,
+    "german": "Der Termin ist um siebzehn Uhr.",
+    "english": "The appointment is at five p.m..",
+    "pron": "duh termin isht um seebtsen ur."
+  },
+  {
+    "topic": "Time, Dates, and Appointments",
+    "id": 301,
+    "german": "Können wir uns am Montag treffen?",
+    "english": "Can we meet on Monday?",
+    "pron": "kurnnen fir uns am montak treffen?"
+  },
+  {
+    "topic": "Time, Dates, and Appointments",
+    "id": 302,
+    "german": "Können wir uns am Dienstag treffen?",
+    "english": "Can we meet on Tuesday?",
+    "pron": "kurnnen fir uns am deenshtak treffen?"
+  },
+  {
+    "topic": "Time, Dates, and Appointments",
+    "id": 303,
+    "german": "Können wir uns am Mittwoch treffen?",
+    "english": "Can we meet on Wednesday?",
+    "pron": "kurnnen fir uns am mittfokh treffen?"
+  },
+  {
+    "topic": "Time, Dates, and Appointments",
+    "id": 304,
+    "german": "Können wir uns am Donnerstag treffen?",
+    "english": "Can we meet on Thursday?",
+    "pron": "kurnnen fir uns am donnershtak treffen?"
+  },
+  {
+    "topic": "Time, Dates, and Appointments",
+    "id": 305,
+    "german": "Können wir uns am Freitag treffen?",
+    "english": "Can we meet on Friday?",
+    "pron": "kurnnen fir uns am freyetak treffen?"
+  },
+  {
+    "topic": "Time, Dates, and Appointments",
+    "id": 306,
+    "german": "Können wir uns am Samstag treffen?",
+    "english": "Can we meet on Saturday?",
+    "pron": "kurnnen fir uns am samshtak treffen?"
+  },
+  {
+    "topic": "Time, Dates, and Appointments",
+    "id": 307,
+    "german": "Können wir uns am Sonntag treffen?",
+    "english": "Can we meet on Sunday?",
+    "pron": "kurnnen fir uns am sonntak treffen?"
+  },
+  {
+    "topic": "Time, Dates, and Appointments",
+    "id": 308,
+    "german": "Können wir uns heute treffen?",
+    "english": "Can we meet today?",
+    "pron": "kurnnen fir uns hoytuh treffen?"
+  },
+  {
+    "topic": "Time, Dates, and Appointments",
+    "id": 309,
+    "german": "Können wir uns morgen treffen?",
+    "english": "Can we meet tomorrow?",
+    "pron": "kurnnen fir uns morgen treffen?"
+  },
+  {
+    "topic": "Time, Dates, and Appointments",
+    "id": 310,
+    "german": "Können wir uns nächste Woche treffen?",
+    "english": "Can we meet next week?",
+    "pron": "kurnnen fir uns nekhshtuh fokhuh treffen?"
+  },
+  {
+    "topic": "Time, Dates, and Appointments",
+    "id": 311,
+    "german": "Ich muss um acht Uhr gehen.",
+    "english": "I have to leave at eight.",
+    "pron": "ikh muss um akht ur geen."
+  },
+  {
+    "topic": "Time, Dates, and Appointments",
+    "id": 312,
+    "german": "Ich muss um neun Uhr gehen.",
+    "english": "I have to leave at nine.",
+    "pron": "ikh muss um noyn ur geen."
+  },
+  {
+    "topic": "Time, Dates, and Appointments",
+    "id": 313,
+    "german": "Ich muss um zehn Uhr gehen.",
+    "english": "I have to leave at ten.",
+    "pron": "ikh muss um tsen ur geen."
+  },
+  {
+    "topic": "Time, Dates, and Appointments",
+    "id": 314,
+    "german": "Ich muss um elf Uhr gehen.",
+    "english": "I have to leave at eleven.",
+    "pron": "ikh muss um elf ur geen."
+  },
+  {
+    "topic": "Time, Dates, and Appointments",
+    "id": 315,
+    "german": "Ich muss um zwölf Uhr gehen.",
+    "english": "I have to leave at twelve.",
+    "pron": "ikh muss um tsfurlf ur geen."
+  },
+  {
+    "topic": "Time, Dates, and Appointments",
+    "id": 316,
+    "german": "Ich muss um dreizehn Uhr gehen.",
+    "english": "I have to leave at one p.m..",
+    "pron": "ikh muss um dreyetsen ur geen."
+  },
+  {
+    "topic": "Time, Dates, and Appointments",
+    "id": 317,
+    "german": "Ich muss um vierzehn Uhr gehen.",
+    "english": "I have to leave at two p.m..",
+    "pron": "ikh muss um feertsen ur geen."
+  },
+  {
+    "topic": "Time, Dates, and Appointments",
+    "id": 318,
+    "german": "Ich muss um fünfzehn Uhr gehen.",
+    "english": "I have to leave at three p.m..",
+    "pron": "ikh muss um fewnftsen ur geen."
+  },
+  {
+    "topic": "Time, Dates, and Appointments",
+    "id": 319,
+    "german": "Ich muss um sechzehn Uhr gehen.",
+    "english": "I have to leave at four p.m..",
+    "pron": "ikh muss um sekhtsen ur geen."
+  },
+  {
+    "topic": "Time, Dates, and Appointments",
+    "id": 320,
+    "german": "Ich muss um siebzehn Uhr gehen.",
+    "english": "I have to leave at five p.m..",
+    "pron": "ikh muss um seebtsen ur geen."
+  },
+  {
+    "topic": "Weather and Seasons",
+    "id": 321,
+    "german": "Heute ist es sonnig.",
+    "english": "Today it is sunny.",
+    "pron": "hoytuh isht es sonnik."
+  },
+  {
+    "topic": "Weather and Seasons",
+    "id": 322,
+    "german": "Heute ist es warm.",
+    "english": "Today it is warm.",
+    "pron": "hoytuh isht es farm."
+  },
+  {
+    "topic": "Weather and Seasons",
+    "id": 323,
+    "german": "Heute ist es kalt.",
+    "english": "Today it is cold.",
+    "pron": "hoytuh isht es kalt."
+  },
+  {
+    "topic": "Weather and Seasons",
+    "id": 324,
+    "german": "Heute ist es windig.",
+    "english": "Today it is windy.",
+    "pron": "hoytuh isht es findik."
+  },
+  {
+    "topic": "Weather and Seasons",
+    "id": 325,
+    "german": "Heute ist es bewölkt.",
+    "english": "Today it is cloudy.",
+    "pron": "hoytuh isht es befurlkt."
+  },
+  {
+    "topic": "Weather and Seasons",
+    "id": 326,
+    "german": "Heute ist es regnerisch.",
+    "english": "Today it is rainy.",
+    "pron": "hoytuh isht es regnerish."
+  },
+  {
+    "topic": "Weather and Seasons",
+    "id": 327,
+    "german": "Heute ist es trocken.",
+    "english": "Today it is dry.",
+    "pron": "hoytuh isht es trocken."
+  },
+  {
+    "topic": "Weather and Seasons",
+    "id": 328,
+    "german": "Heute ist es neblig.",
+    "english": "Today it is foggy.",
+    "pron": "hoytuh isht es neblik."
+  },
+  {
+    "topic": "Weather and Seasons",
+    "id": 329,
+    "german": "Heute ist es heiß.",
+    "english": "Today it is hot.",
+    "pron": "hoytuh isht es heyess."
+  },
+  {
+    "topic": "Weather and Seasons",
+    "id": 330,
+    "german": "Heute ist es kühl.",
+    "english": "Today it is cool.",
+    "pron": "hoytuh isht es kewhl."
+  },
+  {
+    "topic": "Weather and Seasons",
+    "id": 331,
+    "german": "Morgen wird es sonnig.",
+    "english": "Tomorrow it will be sunny.",
+    "pron": "morgen firt es sonnik."
+  },
+  {
+    "topic": "Weather and Seasons",
+    "id": 332,
+    "german": "Morgen wird es warm.",
+    "english": "Tomorrow it will be warm.",
+    "pron": "morgen firt es farm."
+  },
+  {
+    "topic": "Weather and Seasons",
+    "id": 333,
+    "german": "Morgen wird es kalt.",
+    "english": "Tomorrow it will be cold.",
+    "pron": "morgen firt es kalt."
+  },
+  {
+    "topic": "Weather and Seasons",
+    "id": 334,
+    "german": "Morgen wird es windig.",
+    "english": "Tomorrow it will be windy.",
+    "pron": "morgen firt es findik."
+  },
+  {
+    "topic": "Weather and Seasons",
+    "id": 335,
+    "german": "Morgen wird es bewölkt.",
+    "english": "Tomorrow it will be cloudy.",
+    "pron": "morgen firt es befurlkt."
+  },
+  {
+    "topic": "Weather and Seasons",
+    "id": 336,
+    "german": "Morgen wird es regnerisch.",
+    "english": "Tomorrow it will be rainy.",
+    "pron": "morgen firt es regnerish."
+  },
+  {
+    "topic": "Weather and Seasons",
+    "id": 337,
+    "german": "Morgen wird es trocken.",
+    "english": "Tomorrow it will be dry.",
+    "pron": "morgen firt es trocken."
+  },
+  {
+    "topic": "Weather and Seasons",
+    "id": 338,
+    "german": "Morgen wird es neblig.",
+    "english": "Tomorrow it will be foggy.",
+    "pron": "morgen firt es neblik."
+  },
+  {
+    "topic": "Weather and Seasons",
+    "id": 339,
+    "german": "Morgen wird es heiß.",
+    "english": "Tomorrow it will be hot.",
+    "pron": "morgen firt es heyess."
+  },
+  {
+    "topic": "Weather and Seasons",
+    "id": 340,
+    "german": "Morgen wird es kühl.",
+    "english": "Tomorrow it will be cool.",
+    "pron": "morgen firt es kewhl."
+  },
+  {
+    "topic": "Weather and Seasons",
+    "id": 341,
+    "german": "Im Frühling bin ich gern draußen.",
+    "english": "I like being outside in spring.",
+    "pron": "im frewhlink bin ikh gern drofssen."
+  },
+  {
+    "topic": "Weather and Seasons",
+    "id": 342,
+    "german": "Im Sommer bin ich gern draußen.",
+    "english": "I like being outside in summer.",
+    "pron": "im sommuh bin ikh gern drofssen."
+  },
+  {
+    "topic": "Weather and Seasons",
+    "id": 343,
+    "german": "Im Herbst bin ich gern draußen.",
+    "english": "I like being outside in autumn.",
+    "pron": "im herbsht bin ikh gern drofssen."
+  },
+  {
+    "topic": "Weather and Seasons",
+    "id": 344,
+    "german": "Im Winter bin ich gern draußen.",
+    "english": "I like being outside in winter.",
+    "pron": "im fintuh bin ikh gern drofssen."
+  },
+  {
+    "topic": "Weather and Seasons",
+    "id": 345,
+    "german": "Im Januar bin ich gern draußen.",
+    "english": "I like being outside in January.",
+    "pron": "im yanuar bin ikh gern drofssen."
+  },
+  {
+    "topic": "Weather and Seasons",
+    "id": 346,
+    "german": "Im April bin ich gern draußen.",
+    "english": "I like being outside in April.",
+    "pron": "im april bin ikh gern drofssen."
+  },
+  {
+    "topic": "Weather and Seasons",
+    "id": 347,
+    "german": "Im Juli bin ich gern draußen.",
+    "english": "I like being outside in July.",
+    "pron": "im yuli bin ikh gern drofssen."
+  },
+  {
+    "topic": "Weather and Seasons",
+    "id": 348,
+    "german": "Im Oktober bin ich gern draußen.",
+    "english": "I like being outside in October.",
+    "pron": "im oktobuh bin ikh gern drofssen."
+  },
+  {
+    "topic": "Weather and Seasons",
+    "id": 349,
+    "german": "Am Morgen bin ich gern draußen.",
+    "english": "I like being outside in the morning.",
+    "pron": "am morgen bin ikh gern drofssen."
+  },
+  {
+    "topic": "Weather and Seasons",
+    "id": 350,
+    "german": "Am Abend bin ich gern draußen.",
+    "english": "I like being outside in the evening.",
+    "pron": "am abent bin ikh gern drofssen."
+  },
+  {
+    "topic": "Weather and Seasons",
+    "id": 351,
+    "german": "Im Frühling ist das Wetter oft sonnig.",
+    "english": "In spring, the weather is often sunny.",
+    "pron": "im frewhlink isht das fettuh oft sonnik."
+  },
+  {
+    "topic": "Weather and Seasons",
+    "id": 352,
+    "german": "Im Sommer ist das Wetter oft warm.",
+    "english": "In summer, the weather is often warm.",
+    "pron": "im sommuh isht das fettuh oft farm."
+  },
+  {
+    "topic": "Weather and Seasons",
+    "id": 353,
+    "german": "Im Herbst ist das Wetter oft kalt.",
+    "english": "In autumn, the weather is often cold.",
+    "pron": "im herbsht isht das fettuh oft kalt."
+  },
+  {
+    "topic": "Weather and Seasons",
+    "id": 354,
+    "german": "Im Winter ist das Wetter oft windig.",
+    "english": "In winter, the weather is often windy.",
+    "pron": "im fintuh isht das fettuh oft findik."
+  },
+  {
+    "topic": "Weather and Seasons",
+    "id": 355,
+    "german": "Im Januar ist das Wetter oft bewölkt.",
+    "english": "In January, the weather is often cloudy.",
+    "pron": "im yanuar isht das fettuh oft befurlkt."
+  },
+  {
+    "topic": "Weather and Seasons",
+    "id": 356,
+    "german": "Im April ist das Wetter oft regnerisch.",
+    "english": "In April, the weather is often rainy.",
+    "pron": "im april isht das fettuh oft regnerish."
+  },
+  {
+    "topic": "Weather and Seasons",
+    "id": 357,
+    "german": "Im Juli ist das Wetter oft trocken.",
+    "english": "In July, the weather is often dry.",
+    "pron": "im yuli isht das fettuh oft trocken."
+  },
+  {
+    "topic": "Weather and Seasons",
+    "id": 358,
+    "german": "Im Oktober ist das Wetter oft neblig.",
+    "english": "In October, the weather is often foggy.",
+    "pron": "im oktobuh isht das fettuh oft neblik."
+  },
+  {
+    "topic": "Weather and Seasons",
+    "id": 359,
+    "german": "Am Morgen ist das Wetter oft heiß.",
+    "english": "In the morning, the weather is often hot.",
+    "pron": "am morgen isht das fettuh oft heyess."
+  },
+  {
+    "topic": "Weather and Seasons",
+    "id": 360,
+    "german": "Am Abend ist das Wetter oft kühl.",
+    "english": "In the evening, the weather is often cool.",
+    "pron": "am abent isht das fettuh oft kewhl."
+  },
+  {
+    "topic": "Health and the Body",
+    "id": 361,
+    "german": "Mein Kopf tut weh.",
+    "english": "My head hurts.",
+    "pron": "meyen kopf tut fuh."
+  },
+  {
+    "topic": "Health and the Body",
+    "id": 362,
+    "german": "Mein Bauch tut weh.",
+    "english": "My stomach hurts.",
+    "pron": "meyen bofkh tut fuh."
+  },
+  {
+    "topic": "Health and the Body",
+    "id": 363,
+    "german": "Mein Rücken tut weh.",
+    "english": "My back hurts.",
+    "pron": "meyen rewcken tut fuh."
+  },
+  {
+    "topic": "Health and the Body",
+    "id": 364,
+    "german": "Mein Hals tut weh.",
+    "english": "My throat hurts.",
+    "pron": "meyen hals tut fuh."
+  },
+  {
+    "topic": "Health and the Body",
+    "id": 365,
+    "german": "Mein Arm tut weh.",
+    "english": "My arm hurts.",
+    "pron": "meyen arm tut fuh."
+  },
+  {
+    "topic": "Health and the Body",
+    "id": 366,
+    "german": "Mein Bein tut weh.",
+    "english": "My leg hurts.",
+    "pron": "meyen beyen tut fuh."
+  },
+  {
+    "topic": "Health and the Body",
+    "id": 367,
+    "german": "Mein Fuß tut weh.",
+    "english": "My foot hurts.",
+    "pron": "meyen fuss tut fuh."
+  },
+  {
+    "topic": "Health and the Body",
+    "id": 368,
+    "german": "Meine Hand tut weh.",
+    "english": "My hand hurts.",
+    "pron": "meyenuh hant tut fuh."
+  },
+  {
+    "topic": "Health and the Body",
+    "id": 369,
+    "german": "Mein Auge tut weh.",
+    "english": "My eye hurts.",
+    "pron": "meyen ofguh tut fuh."
+  },
+  {
+    "topic": "Health and the Body",
+    "id": 370,
+    "german": "Mein Ohr tut weh.",
+    "english": "My ear hurts.",
+    "pron": "meyen or tut fuh."
+  },
+  {
+    "topic": "Health and the Body",
+    "id": 371,
+    "german": "Ich fühle mich heute müde.",
+    "english": "I feel tired today.",
+    "pron": "ikh fewhluh mikh hoytuh mewduh."
+  },
+  {
+    "topic": "Health and the Body",
+    "id": 372,
+    "german": "Ich fühle mich heute krank.",
+    "english": "I feel sick today.",
+    "pron": "ikh fewhluh mikh hoytuh krank."
+  },
+  {
+    "topic": "Health and the Body",
+    "id": 373,
+    "german": "Ich fühle mich heute fit.",
+    "english": "I feel fit today.",
+    "pron": "ikh fewhluh mikh hoytuh fit."
+  },
+  {
+    "topic": "Health and the Body",
+    "id": 374,
+    "german": "Ich fühle mich heute besser.",
+    "english": "I feel better today.",
+    "pron": "ikh fewhluh mikh hoytuh bessuh."
+  },
+  {
+    "topic": "Health and the Body",
+    "id": 375,
+    "german": "Ich fühle mich heute schwach.",
+    "english": "I feel weak today.",
+    "pron": "ikh fewhluh mikh hoytuh shfakh."
+  },
+  {
+    "topic": "Health and the Body",
+    "id": 376,
+    "german": "Ich fühle mich heute erkältet.",
+    "english": "I feel having a cold today.",
+    "pron": "ikh fewhluh mikh hoytuh erkeltet."
+  },
+  {
+    "topic": "Health and the Body",
+    "id": 377,
+    "german": "Ich fühle mich heute gesund.",
+    "english": "I feel healthy today.",
+    "pron": "ikh fewhluh mikh hoytuh gesunt."
+  },
+  {
+    "topic": "Health and the Body",
+    "id": 378,
+    "german": "Ich fühle mich heute nervös.",
+    "english": "I feel nervous today.",
+    "pron": "ikh fewhluh mikh hoytuh nerfurs."
+  },
+  {
+    "topic": "Health and the Body",
+    "id": 379,
+    "german": "Ich fühle mich heute hungrig.",
+    "english": "I feel hungry today.",
+    "pron": "ikh fewhluh mikh hoytuh hungrik."
+  },
+  {
+    "topic": "Health and the Body",
+    "id": 380,
+    "german": "Ich fühle mich heute durstig.",
+    "english": "I feel thirsty today.",
+    "pron": "ikh fewhluh mikh hoytuh durshtik."
+  },
+  {
+    "topic": "Health and the Body",
+    "id": 381,
+    "german": "Der Arzt untersucht meinen Kopf.",
+    "english": "The doctor examines my head.",
+    "pron": "duh artst untersukht meyenen kopf."
+  },
+  {
+    "topic": "Health and the Body",
+    "id": 382,
+    "german": "Der Arzt untersucht meinen Bauch.",
+    "english": "The doctor examines my stomach.",
+    "pron": "duh artst untersukht meyenen bofkh."
+  },
+  {
+    "topic": "Health and the Body",
+    "id": 383,
+    "german": "Der Arzt untersucht meinen Rücken.",
+    "english": "The doctor examines my back.",
+    "pron": "duh artst untersukht meyenen rewcken."
+  },
+  {
+    "topic": "Health and the Body",
+    "id": 384,
+    "german": "Der Arzt untersucht meinen Hals.",
+    "english": "The doctor examines my throat.",
+    "pron": "duh artst untersukht meyenen hals."
+  },
+  {
+    "topic": "Health and the Body",
+    "id": 385,
+    "german": "Der Arzt untersucht meinen Arm.",
+    "english": "The doctor examines my arm.",
+    "pron": "duh artst untersukht meyenen arm."
+  },
+  {
+    "topic": "Health and the Body",
+    "id": 386,
+    "german": "Der Arzt untersucht mein Bein.",
+    "english": "The doctor examines my leg.",
+    "pron": "duh artst untersukht meyen beyen."
+  },
+  {
+    "topic": "Health and the Body",
+    "id": 387,
+    "german": "Der Arzt untersucht meinen Fuß.",
+    "english": "The doctor examines my foot.",
+    "pron": "duh artst untersukht meyenen fuss."
+  },
+  {
+    "topic": "Health and the Body",
+    "id": 388,
+    "german": "Der Arzt untersucht meine Hand.",
+    "english": "The doctor examines my hand.",
+    "pron": "duh artst untersukht meyenuh hant."
+  },
+  {
+    "topic": "Health and the Body",
+    "id": 389,
+    "german": "Der Arzt untersucht mein Auge.",
+    "english": "The doctor examines my eye.",
+    "pron": "duh artst untersukht meyen ofguh."
+  },
+  {
+    "topic": "Health and the Body",
+    "id": 390,
+    "german": "Der Arzt untersucht mein Ohr.",
+    "english": "The doctor examines my ear.",
+    "pron": "duh artst untersukht meyen or."
+  },
+  {
+    "topic": "Health and the Body",
+    "id": 391,
+    "german": "Ich soll viel Wasser trinken.",
+    "english": "I should drink plenty of water.",
+    "pron": "ikh soll feel fassuh trinken."
+  },
+  {
+    "topic": "Health and the Body",
+    "id": 392,
+    "german": "Ich soll im Bett bleiben.",
+    "english": "I should stay in bed.",
+    "pron": "ikh soll im bett bleyeben."
+  },
+  {
+    "topic": "Health and the Body",
+    "id": 393,
+    "german": "Ich soll eine Pause machen.",
+    "english": "I should take a break.",
+    "pron": "ikh soll eyenuh pofsuh makhen."
+  },
+  {
+    "topic": "Health and the Body",
+    "id": 394,
+    "german": "Ich soll früh schlafen.",
+    "english": "I should sleep early.",
+    "pron": "ikh soll frewh shlafen."
+  },
+  {
+    "topic": "Health and the Body",
+    "id": 395,
+    "german": "Ich soll den Arzt anrufen.",
+    "english": "I should call the doctor.",
+    "pron": "ikh soll den artst anrufen."
+  },
+  {
+    "topic": "Health and the Body",
+    "id": 396,
+    "german": "Ich soll die Medizin nehmen.",
+    "english": "I should take the medicine.",
+    "pron": "ikh soll deuh meditsin nemen."
+  },
+  {
+    "topic": "Health and the Body",
+    "id": 397,
+    "german": "Ich soll langsam gehen.",
+    "english": "I should walk slowly.",
+    "pron": "ikh soll langsam geen."
+  },
+  {
+    "topic": "Health and the Body",
+    "id": 398,
+    "german": "Ich soll gesund essen.",
+    "english": "I should eat healthily.",
+    "pron": "ikh soll gesunt essen."
+  },
+  {
+    "topic": "Health and the Body",
+    "id": 399,
+    "german": "Ich soll mich ausruhen.",
+    "english": "I should rest.",
+    "pron": "ikh soll mikh ofsruen."
+  },
+  {
+    "topic": "Health and the Body",
+    "id": 400,
+    "german": "Ich soll nicht arbeiten.",
+    "english": "I should not work.",
+    "pron": "ikh soll nikht arbeyeten."
+  },
+  {
+    "topic": "Hobbies and Free Time",
+    "id": 401,
+    "german": "Ich spiele gern Fußball.",
+    "english": "I like playing football.",
+    "pron": "ikh shpeeluh gern fussball."
+  },
+  {
+    "topic": "Hobbies and Free Time",
+    "id": 402,
+    "german": "Ich spiele gern Tennis.",
+    "english": "I like playing tennis.",
+    "pron": "ikh shpeeluh gern tennis."
+  },
+  {
+    "topic": "Hobbies and Free Time",
+    "id": 403,
+    "german": "Ich spiele gern Schach.",
+    "english": "I like playing chess.",
+    "pron": "ikh shpeeluh gern shakh."
+  },
+  {
+    "topic": "Hobbies and Free Time",
+    "id": 404,
+    "german": "Ich spiele gern Gitarre.",
+    "english": "I like playing guitar.",
+    "pron": "ikh shpeeluh gern gitarruh."
+  },
+  {
+    "topic": "Hobbies and Free Time",
+    "id": 405,
+    "german": "Ich spiele gern Klavier.",
+    "english": "I like playing piano.",
+    "pron": "ikh shpeeluh gern klafeuh."
+  },
+  {
+    "topic": "Hobbies and Free Time",
+    "id": 406,
+    "german": "Ich spiele gern Computerspiele.",
+    "english": "I like playing computer games.",
+    "pron": "ikh shpeeluh gern computershpeeluh."
+  },
+  {
+    "topic": "Hobbies and Free Time",
+    "id": 407,
+    "german": "Ich spiele gern Karten.",
+    "english": "I like playing cards.",
+    "pron": "ikh shpeeluh gern karten."
+  },
+  {
+    "topic": "Hobbies and Free Time",
+    "id": 408,
+    "german": "Ich spiele gern Basketball.",
+    "english": "I like playing basketball.",
+    "pron": "ikh shpeeluh gern basketball."
+  },
+  {
+    "topic": "Hobbies and Free Time",
+    "id": 409,
+    "german": "Ich spiele gern Volleyball.",
+    "english": "I like playing volleyball.",
+    "pron": "ikh shpeeluh gern folleyball."
+  },
+  {
+    "topic": "Hobbies and Free Time",
+    "id": 410,
+    "german": "Ich spiele gern Badminton.",
+    "english": "I like playing badminton.",
+    "pron": "ikh shpeeluh gern badminton."
+  },
+  {
+    "topic": "Hobbies and Free Time",
+    "id": 411,
+    "german": "In meiner Freizeit lese ein Buch.",
+    "english": "In my free time, I read a book.",
+    "pron": "in meyenuh freyetseyet lesuh eyen bukh."
+  },
+  {
+    "topic": "Hobbies and Free Time",
+    "id": 412,
+    "german": "In meiner Freizeit höre Musik.",
+    "english": "In my free time, I listen to music.",
+    "pron": "in meyenuh freyetseyet hurruh musik."
+  },
+  {
+    "topic": "Hobbies and Free Time",
+    "id": 413,
+    "german": "In meiner Freizeit gehe spazieren.",
+    "english": "In my free time, I go for a walk.",
+    "pron": "in meyenuh freyetseyet geuh shpatseeren."
+  },
+  {
+    "topic": "Hobbies and Free Time",
+    "id": 414,
+    "german": "In meiner Freizeit sehe einen Film.",
+    "english": "In my free time, I watch a movie.",
+    "pron": "in meyenuh freyetseyet seuh eyenen film."
+  },
+  {
+    "topic": "Hobbies and Free Time",
+    "id": 415,
+    "german": "In meiner Freizeit treffe Freunde.",
+    "english": "In my free time, I meet friends.",
+    "pron": "in meyenuh freyetseyet treffuh froynduh."
+  },
+  {
+    "topic": "Hobbies and Free Time",
+    "id": 416,
+    "german": "In meiner Freizeit mache Fotos.",
+    "english": "In my free time, I take photos.",
+    "pron": "in meyenuh freyetseyet makhuh fotos."
+  },
+  {
+    "topic": "Hobbies and Free Time",
+    "id": 417,
+    "german": "In meiner Freizeit koche etwas Neues.",
+    "english": "In my free time, I cook something new.",
+    "pron": "in meyenuh freyetseyet kokhuh etfas noyes."
+  },
+  {
+    "topic": "Hobbies and Free Time",
+    "id": 418,
+    "german": "In meiner Freizeit male ein Bild.",
+    "english": "In my free time, I paint a picture.",
+    "pron": "in meyenuh freyetseyet maluh eyen bilt."
+  },
+  {
+    "topic": "Hobbies and Free Time",
+    "id": 419,
+    "german": "In meiner Freizeit fahre Fahrrad.",
+    "english": "In my free time, I ride a bicycle.",
+    "pron": "in meyenuh freyetseyet faruh farrat."
+  },
+  {
+    "topic": "Hobbies and Free Time",
+    "id": 420,
+    "german": "In meiner Freizeit schwimme im See.",
+    "english": "In my free time, I swim in the lake.",
+    "pron": "in meyenuh freyetseyet shfimmuh im seuh."
+  },
+  {
+    "topic": "Hobbies and Free Time",
+    "id": 421,
+    "german": "Am Wochenende übe ich Fußball.",
+    "english": "On the weekend, I practice football.",
+    "pron": "am fokhenenduh ewbuh ikh fussball."
+  },
+  {
+    "topic": "Hobbies and Free Time",
+    "id": 422,
+    "german": "Am Wochenende übe ich Tennis.",
+    "english": "On the weekend, I practice tennis.",
+    "pron": "am fokhenenduh ewbuh ikh tennis."
+  },
+  {
+    "topic": "Hobbies and Free Time",
+    "id": 423,
+    "german": "Am Wochenende übe ich Schach.",
+    "english": "On the weekend, I practice chess.",
+    "pron": "am fokhenenduh ewbuh ikh shakh."
+  },
+  {
+    "topic": "Hobbies and Free Time",
+    "id": 424,
+    "german": "Am Wochenende übe ich Gitarre.",
+    "english": "On the weekend, I practice guitar.",
+    "pron": "am fokhenenduh ewbuh ikh gitarruh."
+  },
+  {
+    "topic": "Hobbies and Free Time",
+    "id": 425,
+    "german": "Am Wochenende übe ich Klavier.",
+    "english": "On the weekend, I practice piano.",
+    "pron": "am fokhenenduh ewbuh ikh klafeuh."
+  },
+  {
+    "topic": "Hobbies and Free Time",
+    "id": 426,
+    "german": "Am Wochenende übe ich Computerspiele.",
+    "english": "On the weekend, I practice computer games.",
+    "pron": "am fokhenenduh ewbuh ikh computershpeeluh."
+  },
+  {
+    "topic": "Hobbies and Free Time",
+    "id": 427,
+    "german": "Am Wochenende übe ich Karten.",
+    "english": "On the weekend, I practice cards.",
+    "pron": "am fokhenenduh ewbuh ikh karten."
+  },
+  {
+    "topic": "Hobbies and Free Time",
+    "id": 428,
+    "german": "Am Wochenende übe ich Basketball.",
+    "english": "On the weekend, I practice basketball.",
+    "pron": "am fokhenenduh ewbuh ikh basketball."
+  },
+  {
+    "topic": "Hobbies and Free Time",
+    "id": 429,
+    "german": "Am Wochenende übe ich Volleyball.",
+    "english": "On the weekend, I practice volleyball.",
+    "pron": "am fokhenenduh ewbuh ikh folleyball."
+  },
+  {
+    "topic": "Hobbies and Free Time",
+    "id": 430,
+    "german": "Am Wochenende übe ich Badminton.",
+    "english": "On the weekend, I practice badminton.",
+    "pron": "am fokhenenduh ewbuh ikh badminton."
+  },
+  {
+    "topic": "Hobbies and Free Time",
+    "id": 431,
+    "german": "Wenn ich Zeit habe, lese ein Buch.",
+    "english": "When I have time, I read a book.",
+    "pron": "fenn ikh tseyet habuh, lesuh eyen bukh."
+  },
+  {
+    "topic": "Hobbies and Free Time",
+    "id": 432,
+    "german": "Wenn ich Zeit habe, höre Musik.",
+    "english": "When I have time, I listen to music.",
+    "pron": "fenn ikh tseyet habuh, hurruh musik."
+  },
+  {
+    "topic": "Hobbies and Free Time",
+    "id": 433,
+    "german": "Wenn ich Zeit habe, gehe spazieren.",
+    "english": "When I have time, I go for a walk.",
+    "pron": "fenn ikh tseyet habuh, geuh shpatseeren."
+  },
+  {
+    "topic": "Hobbies and Free Time",
+    "id": 434,
+    "german": "Wenn ich Zeit habe, sehe einen Film.",
+    "english": "When I have time, I watch a movie.",
+    "pron": "fenn ikh tseyet habuh, seuh eyenen film."
+  },
+  {
+    "topic": "Hobbies and Free Time",
+    "id": 435,
+    "german": "Wenn ich Zeit habe, treffe Freunde.",
+    "english": "When I have time, I meet friends.",
+    "pron": "fenn ikh tseyet habuh, treffuh froynduh."
+  },
+  {
+    "topic": "Hobbies and Free Time",
+    "id": 436,
+    "german": "Wenn ich Zeit habe, mache Fotos.",
+    "english": "When I have time, I take photos.",
+    "pron": "fenn ikh tseyet habuh, makhuh fotos."
+  },
+  {
+    "topic": "Hobbies and Free Time",
+    "id": 437,
+    "german": "Wenn ich Zeit habe, koche etwas Neues.",
+    "english": "When I have time, I cook something new.",
+    "pron": "fenn ikh tseyet habuh, kokhuh etfas noyes."
+  },
+  {
+    "topic": "Hobbies and Free Time",
+    "id": 438,
+    "german": "Wenn ich Zeit habe, male ein Bild.",
+    "english": "When I have time, I paint a picture.",
+    "pron": "fenn ikh tseyet habuh, maluh eyen bilt."
+  },
+  {
+    "topic": "Hobbies and Free Time",
+    "id": 439,
+    "german": "Wenn ich Zeit habe, fahre Fahrrad.",
+    "english": "When I have time, I ride a bicycle.",
+    "pron": "fenn ikh tseyet habuh, faruh farrat."
+  },
+  {
+    "topic": "Hobbies and Free Time",
+    "id": 440,
+    "german": "Wenn ich Zeit habe, schwimme im See.",
+    "english": "When I have time, I swim in the lake.",
+    "pron": "fenn ikh tseyet habuh, shfimmuh im seuh."
+  },
+  {
+    "topic": "Communication and Common Requests",
+    "id": 441,
+    "german": "Können Sie bitte langsamer sprechen?",
+    "english": "Could you please speak more slowly?",
+    "pron": "kurnnen seuh bittuh langsamuh shprekhen?"
+  },
+  {
+    "topic": "Communication and Common Requests",
+    "id": 442,
+    "german": "Können Sie bitte das wiederholen?",
+    "english": "Could you please repeat that?",
+    "pron": "kurnnen seuh bittuh das feederholen?"
+  },
+  {
+    "topic": "Communication and Common Requests",
+    "id": 443,
+    "german": "Können Sie bitte mir helfen?",
+    "english": "Could you please help me?",
+    "pron": "kurnnen seuh bittuh mir helfen?"
+  },
+  {
+    "topic": "Communication and Common Requests",
+    "id": 444,
+    "german": "Können Sie bitte die Tür öffnen?",
+    "english": "Could you please open the door?",
+    "pron": "kurnnen seuh bittuh deuh tewr urffnen?"
+  },
+  {
+    "topic": "Communication and Common Requests",
+    "id": 445,
+    "german": "Können Sie bitte das Fenster schließen?",
+    "english": "Could you please close the window?",
+    "pron": "kurnnen seuh bittuh das fenshtuh shleessen?"
+  },
+  {
+    "topic": "Communication and Common Requests",
+    "id": 446,
+    "german": "Können Sie bitte meinen Namen schreiben?",
+    "english": "Could you please write my name?",
+    "pron": "kurnnen seuh bittuh meyenen namen shreyeben?"
+  },
+  {
+    "topic": "Communication and Common Requests",
+    "id": 447,
+    "german": "Können Sie bitte hier warten?",
+    "english": "Could you please wait here?",
+    "pron": "kurnnen seuh bittuh heuh farten?"
+  },
+  {
+    "topic": "Communication and Common Requests",
+    "id": 448,
+    "german": "Können Sie bitte das erklären?",
+    "english": "Could you please explain that?",
+    "pron": "kurnnen seuh bittuh das erkleren?"
+  },
+  {
+    "topic": "Communication and Common Requests",
+    "id": 449,
+    "german": "Können Sie bitte mich anrufen?",
+    "english": "Could you please call me?",
+    "pron": "kurnnen seuh bittuh mikh anrufen?"
+  },
+  {
+    "topic": "Communication and Common Requests",
+    "id": 450,
+    "german": "Können Sie bitte eine E-Mail senden?",
+    "english": "Could you please send an email?",
+    "pron": "kurnnen seuh bittuh eyenuh uh-mail senden?"
+  },
+  {
+    "topic": "Communication and Common Requests",
+    "id": 451,
+    "german": "Wie heißt du?",
+    "english": "What is your name?",
+    "pron": "feuh heyesst du?"
+  },
+  {
+    "topic": "Communication and Common Requests",
+    "id": 452,
+    "german": "Wo wohnst du?",
+    "english": "Where do you live?",
+    "pron": "fo fonsht du?"
+  },
+  {
+    "topic": "Communication and Common Requests",
+    "id": 453,
+    "german": "Was machst du?",
+    "english": "What are you doing?",
+    "pron": "fas makhsht du?"
+  },
+  {
+    "topic": "Communication and Common Requests",
+    "id": 454,
+    "german": "Wie geht es dir?",
+    "english": "How are you?",
+    "pron": "feuh get es dir?"
+  },
+  {
+    "topic": "Communication and Common Requests",
+    "id": 455,
+    "german": "Sprichst du Englisch?",
+    "english": "Do you speak English?",
+    "pron": "shprikhsht du english?"
+  },
+  {
+    "topic": "Communication and Common Requests",
+    "id": 456,
+    "german": "Hast du heute Zeit?",
+    "english": "Do you have time today?",
+    "pron": "hasht du hoytuh tseyet?"
+  },
+  {
+    "topic": "Communication and Common Requests",
+    "id": 457,
+    "german": "Kannst du mir helfen?",
+    "english": "Can you help me?",
+    "pron": "kannsht du mir helfen?"
+  },
+  {
+    "topic": "Communication and Common Requests",
+    "id": 458,
+    "german": "Wo ist die Toilette?",
+    "english": "Where is the toilet?",
+    "pron": "fo isht deuh toilettuh?"
+  },
+  {
+    "topic": "Communication and Common Requests",
+    "id": 459,
+    "german": "Was bedeutet das?",
+    "english": "What does that mean?",
+    "pron": "fas bedoytet das?"
+  },
+  {
+    "topic": "Communication and Common Requests",
+    "id": 460,
+    "german": "Wie viel kostet das?",
+    "english": "How much does that cost?",
+    "pron": "feuh feel koshtet das?"
+  },
+  {
+    "topic": "Communication and Common Requests",
+    "id": 461,
+    "german": "Du musst nicht langsamer sprechen.",
+    "english": "You do not have to speak more slowly.",
+    "pron": "du mussht nikht langsamuh shprekhen."
+  },
+  {
+    "topic": "Communication and Common Requests",
+    "id": 462,
+    "german": "Du musst nicht das wiederholen.",
+    "english": "You do not have to repeat that.",
+    "pron": "du mussht nikht das feederholen."
+  },
+  {
+    "topic": "Communication and Common Requests",
+    "id": 463,
+    "german": "Du musst nicht mir helfen.",
+    "english": "You do not have to help me.",
+    "pron": "du mussht nikht mir helfen."
+  },
+  {
+    "topic": "Communication and Common Requests",
+    "id": 464,
+    "german": "Du musst nicht die Tür öffnen.",
+    "english": "You do not have to open the door.",
+    "pron": "du mussht nikht deuh tewr urffnen."
+  },
+  {
+    "topic": "Communication and Common Requests",
+    "id": 465,
+    "german": "Du musst nicht das Fenster schließen.",
+    "english": "You do not have to close the window.",
+    "pron": "du mussht nikht das fenshtuh shleessen."
+  },
+  {
+    "topic": "Communication and Common Requests",
+    "id": 466,
+    "german": "Du musst nicht meinen Namen schreiben.",
+    "english": "You do not have to write my name.",
+    "pron": "du mussht nikht meyenen namen shreyeben."
+  },
+  {
+    "topic": "Communication and Common Requests",
+    "id": 467,
+    "german": "Du musst nicht hier warten.",
+    "english": "You do not have to wait here.",
+    "pron": "du mussht nikht heuh farten."
+  },
+  {
+    "topic": "Communication and Common Requests",
+    "id": 468,
+    "german": "Du musst nicht das erklären.",
+    "english": "You do not have to explain that.",
+    "pron": "du mussht nikht das erkleren."
+  },
+  {
+    "topic": "Communication and Common Requests",
+    "id": 469,
+    "german": "Du musst nicht mich anrufen.",
+    "english": "You do not have to call me.",
+    "pron": "du mussht nikht mikh anrufen."
+  },
+  {
+    "topic": "Communication and Common Requests",
+    "id": 470,
+    "german": "Du musst nicht eine E-Mail senden.",
+    "english": "You do not have to send an email.",
+    "pron": "du mussht nikht eyenuh uh-mail senden."
+  },
+  {
+    "topic": "Communication and Common Requests",
+    "id": 471,
+    "german": "Ja, natürlich.",
+    "english": "Yes, of course.",
+    "pron": "ya, natewrlikh."
+  },
+  {
+    "topic": "Communication and Common Requests",
+    "id": 472,
+    "german": "Nein, leider nicht.",
+    "english": "No, unfortunately not.",
+    "pron": "neyen, leyeduh nikht."
+  },
+  {
+    "topic": "Communication and Common Requests",
+    "id": 473,
+    "german": "Das ist kein Problem.",
+    "english": "That is not a problem.",
+    "pron": "das isht keyen problem."
+  },
+  {
+    "topic": "Communication and Common Requests",
+    "id": 474,
+    "german": "Ich verstehe.",
+    "english": "I understand.",
+    "pron": "ikh fershteuh."
+  },
+  {
+    "topic": "Communication and Common Requests",
+    "id": 475,
+    "german": "Ich weiß es nicht.",
+    "english": "I do not know.",
+    "pron": "ikh feyess es nikht."
+  },
+  {
+    "topic": "Communication and Common Requests",
+    "id": 476,
+    "german": "Einen Moment, bitte.",
+    "english": "One moment, please.",
+    "pron": "eyenen moment, bittuh."
+  },
+  {
+    "topic": "Communication and Common Requests",
+    "id": 477,
+    "german": "Vielen Dank für Ihre Hilfe.",
+    "english": "Thank you very much for your help.",
+    "pron": "feelen dank fewr iruh hilfuh."
+  },
+  {
+    "topic": "Communication and Common Requests",
+    "id": 478,
+    "german": "Entschuldigung, ich bin spät.",
+    "english": "Sorry, I am late.",
+    "pron": "enkhuldigunk, ikh bin shpet."
+  },
+  {
+    "topic": "Communication and Common Requests",
+    "id": 479,
+    "german": "Bis später!",
+    "english": "See you later!",
+    "pron": "bis shpetuh!"
+  },
+  {
+    "topic": "Communication and Common Requests",
+    "id": 480,
+    "german": "Gute Idee!",
+    "english": "Good idea!",
+    "pron": "gutuh ideuh!"
+  },
+  {
+    "topic": "A2 Connectors, Plans, and Everyday Situations",
+    "id": 481,
+    "german": "Ich bleibe zu Hause, weil ich müde bin.",
+    "english": "I am staying home because I am tired.",
+    "pron": "ikh bleyebuh tsu hofsuh, feyel ikh mewduh bin."
+  },
+  {
+    "topic": "A2 Connectors, Plans, and Everyday Situations",
+    "id": 482,
+    "german": "Ich lerne Deutsch, weil ich in Deutschland studieren möchte.",
+    "english": "I am learning German because I want to study in Germany.",
+    "pron": "ikh lernuh doykh, feyel ikh in doykhlant shtudeeren murkhtuh."
+  },
+  {
+    "topic": "A2 Connectors, Plans, and Everyday Situations",
+    "id": 483,
+    "german": "Wenn es regnet, nehme ich einen Schirm.",
+    "english": "When it rains, I take an umbrella.",
+    "pron": "fenn es regnet, nemuh ikh eyenen shirm."
+  },
+  {
+    "topic": "A2 Connectors, Plans, and Everyday Situations",
+    "id": 484,
+    "german": "Wenn ich frei habe, besuche ich meine Freunde.",
+    "english": "When I am free, I visit my friends.",
+    "pron": "fenn ikh freyuh habuh, besukhuh ikh meyenuh froynduh."
+  },
+  {
+    "topic": "A2 Connectors, Plans, and Everyday Situations",
+    "id": 485,
+    "german": "Obwohl es kalt ist, gehe ich spazieren.",
+    "english": "Although it is cold, I go for a walk.",
+    "pron": "obfol es kalt isht, geuh ikh shpatseeren."
+  },
+  {
+    "topic": "A2 Connectors, Plans, and Everyday Situations",
+    "id": 486,
+    "german": "Ich koche, während meine Schwester den Tisch deckt.",
+    "english": "I cook while my sister sets the table.",
+    "pron": "ikh kokhuh, fehrent meyenuh shfeshtuh den tish deckt."
+  },
+  {
+    "topic": "A2 Connectors, Plans, and Everyday Situations",
+    "id": 487,
+    "german": "Zuerst arbeite ich, dann mache ich eine Pause.",
+    "english": "First I work, then I take a break.",
+    "pron": "tsuersht arbeyetuh ikh, dann makhuh ikh eyenuh pofsuh."
+  },
+  {
+    "topic": "A2 Connectors, Plans, and Everyday Situations",
+    "id": 488,
+    "german": "Ich glaube, dass der Kurs interessant ist.",
+    "english": "I think that the course is interesting.",
+    "pron": "ikh glofbuh, dass duh kurs interessant isht."
+  },
+  {
+    "topic": "A2 Connectors, Plans, and Everyday Situations",
+    "id": 489,
+    "german": "Er sagt, dass er morgen kommt.",
+    "english": "He says that he is coming tomorrow.",
+    "pron": "uh sagt, dass uh morgen kommt."
+  },
+  {
+    "topic": "A2 Connectors, Plans, and Everyday Situations",
+    "id": 490,
+    "german": "Wir hoffen, dass das Wetter schön bleibt.",
+    "english": "We hope that the weather stays nice.",
+    "pron": "fir hoffen, dass das fettuh shurn bleyebt."
+  },
+  {
+    "topic": "A2 Connectors, Plans, and Everyday Situations",
+    "id": 491,
+    "german": "Nächstes Jahr möchte ich nach Deutschland reisen.",
+    "english": "Next year I would like to travel to Germany.",
+    "pron": "nekhshtes yar murkhtuh ikh nakh doykhlant reyesen."
+  },
+  {
+    "topic": "A2 Connectors, Plans, and Everyday Situations",
+    "id": 492,
+    "german": "Am Samstag werde ich meine Wohnung putzen.",
+    "english": "On Saturday I will clean my apartment.",
+    "pron": "am samshtak ferduh ikh meyenuh fonunk puttsen."
+  },
+  {
+    "topic": "A2 Connectors, Plans, and Everyday Situations",
+    "id": 493,
+    "german": "Heute Abend möchte ich einen Film sehen.",
+    "english": "This evening I would like to watch a movie.",
+    "pron": "hoytuh abent murkhtuh ikh eyenen film seen."
+  },
+  {
+    "topic": "A2 Connectors, Plans, and Everyday Situations",
+    "id": 494,
+    "german": "Morgen muss ich früh aufstehen.",
+    "english": "Tomorrow I have to get up early.",
+    "pron": "morgen muss ikh frewh offshteen."
+  },
+  {
+    "topic": "A2 Connectors, Plans, and Everyday Situations",
+    "id": 495,
+    "german": "Wir wollen am Wochenende grillen.",
+    "english": "We want to barbecue on the weekend.",
+    "pron": "fir follen am fokhenenduh grillen."
+  },
+  {
+    "topic": "A2 Connectors, Plans, and Everyday Situations",
+    "id": 496,
+    "german": "Ich kann dich nach der Arbeit treffen.",
+    "english": "I can meet you after work.",
+    "pron": "ikh kann dikh nakh duh arbeyet treffen."
+  },
+  {
+    "topic": "A2 Connectors, Plans, and Everyday Situations",
+    "id": 497,
+    "german": "Du solltest mehr Wasser trinken.",
+    "english": "You should drink more water.",
+    "pron": "du solltesht muh fassuh trinken."
+  },
+  {
+    "topic": "A2 Connectors, Plans, and Everyday Situations",
+    "id": 498,
+    "german": "Ich würde gern einen Deutschkurs besuchen.",
+    "english": "I would like to attend a German course.",
+    "pron": "ikh fewrduh gern eyenen doykhkurs besukhen."
+  },
+  {
+    "topic": "A2 Connectors, Plans, and Everyday Situations",
+    "id": 499,
+    "german": "Vielleicht fahre ich im Sommer ans Meer.",
+    "english": "Maybe I will go to the sea in summer.",
+    "pron": "feelleyekht faruh ikh im sommuh ans meuh."
+  },
+  {
+    "topic": "A2 Connectors, Plans, and Everyday Situations",
+    "id": 500,
+    "german": "Bald beginne ich eine neue Arbeit.",
+    "english": "Soon I will start a new job.",
+    "pron": "balt beginnuh ikh eyenuh noyuh arbeyet."
+  },
+  {
+    "topic": "A2 Connectors, Plans, and Everyday Situations",
+    "id": 501,
+    "german": "Gestern habe ich lange gearbeitet.",
+    "english": "Yesterday I worked for a long time.",
+    "pron": "geshtern habuh ikh languh gearbeyetet."
+  },
+  {
+    "topic": "A2 Connectors, Plans, and Everyday Situations",
+    "id": 502,
+    "german": "Letzte Woche habe ich meine Familie besucht.",
+    "english": "Last week I visited my family.",
+    "pron": "lettstuh fokhuh habuh ikh meyenuh famileuh besukht."
+  },
+  {
+    "topic": "A2 Connectors, Plans, and Everyday Situations",
+    "id": 503,
+    "german": "Am Morgen habe ich Kaffee getrunken.",
+    "english": "In the morning I drank coffee.",
+    "pron": "am morgen habuh ikh kaffeuh getrunken."
+  },
+  {
+    "topic": "A2 Connectors, Plans, and Everyday Situations",
+    "id": 504,
+    "german": "Wir sind mit dem Zug gefahren.",
+    "english": "We traveled by train.",
+    "pron": "fir sint mit dem tsuk gefaren."
+  },
+  {
+    "topic": "A2 Connectors, Plans, and Everyday Situations",
+    "id": 505,
+    "german": "Sie hat ein neues Handy gekauft.",
+    "english": "She bought a new phone.",
+    "pron": "seuh hat eyen noyes handy gekofft."
+  },
+  {
+    "topic": "A2 Connectors, Plans, and Everyday Situations",
+    "id": 506,
+    "german": "Er hat die Hausaufgaben gemacht.",
+    "english": "He did the homework.",
+    "pron": "uh hat deuh hofsoffgaben gemakht."
+  },
+  {
+    "topic": "A2 Connectors, Plans, and Everyday Situations",
+    "id": 507,
+    "german": "Ich bin um acht Uhr angekommen.",
+    "english": "I arrived at eight o'clock.",
+    "pron": "ikh bin um akht ur angekommen."
+  },
+  {
+    "topic": "A2 Connectors, Plans, and Everyday Situations",
+    "id": 508,
+    "german": "Am Sonntag haben wir Fußball gespielt.",
+    "english": "On Sunday we played football.",
+    "pron": "am sonntak haben fir fussball geshpeelt."
+  },
+  {
+    "topic": "A2 Connectors, Plans, and Everyday Situations",
+    "id": 509,
+    "german": "Der Film hat mir gut gefallen.",
+    "english": "I liked the movie.",
+    "pron": "duh film hat mir gut gefallen."
+  },
+  {
+    "topic": "A2 Connectors, Plans, and Everyday Situations",
+    "id": 510,
+    "german": "Ich habe die E-Mail schon geschickt.",
+    "english": "I have already sent the email.",
+    "pron": "ikh habuh deuh uh-mail shon geshickt."
+  },
+  {
+    "topic": "A2 Connectors, Plans, and Everyday Situations",
+    "id": 511,
+    "german": "Könnten Sie mir den Weg zeigen?",
+    "english": "Could you show me the way?",
+    "pron": "kurnnten seuh mir den fek tseyegen?"
+  },
+  {
+    "topic": "A2 Connectors, Plans, and Everyday Situations",
+    "id": 512,
+    "german": "Ich hätte gern ein Zimmer für zwei Nächte.",
+    "english": "I would like a room for two nights.",
+    "pron": "ikh hettuh gern eyen tsimmuh fewr tsfeyuh nekhtuh."
+  },
+  {
+    "topic": "A2 Connectors, Plans, and Everyday Situations",
+    "id": 513,
+    "german": "Darf ich hier mein Fahrrad abstellen?",
+    "english": "May I park my bicycle here?",
+    "pron": "darf ikh heuh meyen farrat abshtellen?"
+  },
+  {
+    "topic": "A2 Connectors, Plans, and Everyday Situations",
+    "id": 514,
+    "german": "Ich interessiere mich für deutsche Musik.",
+    "english": "I am interested in German music.",
+    "pron": "ikh interesseeruh mikh fewr doykhuh musik."
+  },
+  {
+    "topic": "A2 Connectors, Plans, and Everyday Situations",
+    "id": 515,
+    "german": "Der Bus ist schneller als das Fahrrad.",
+    "english": "The bus is faster than the bicycle.",
+    "pron": "duh bus isht shnelluh als das farrat."
+  },
+  {
+    "topic": "A2 Connectors, Plans, and Everyday Situations",
+    "id": 516,
+    "german": "Dieses Buch ist besser als das andere.",
+    "english": "This book is better than the other one.",
+    "pron": "deeses bukh isht bessuh als das anderuh."
+  },
+  {
+    "topic": "A2 Connectors, Plans, and Everyday Situations",
+    "id": 517,
+    "german": "Bitte sagen Sie mir, wann der Kurs beginnt.",
+    "english": "Please tell me when the course begins.",
+    "pron": "bittuh sagen seuh mir, fann duh kurs beginnt."
+  },
+  {
+    "topic": "A2 Connectors, Plans, and Everyday Situations",
+    "id": 518,
+    "german": "Ich weiß nicht, ob das Geschäft geöffnet ist.",
+    "english": "I do not know whether the shop is open.",
+    "pron": "ikh feyess nikht, ob das gesheft geurffnet isht."
+  },
+  {
+    "topic": "A2 Connectors, Plans, and Everyday Situations",
+    "id": 519,
+    "german": "Seit zwei Monaten lerne ich jeden Tag Deutsch.",
+    "english": "I have been learning German every day for two months.",
+    "pron": "seyet tsfeyuh monaten lernuh ikh yeden tak doykh."
+  },
+  {
+    "topic": "A2 Connectors, Plans, and Everyday Situations",
+    "id": 520,
+    "german": "Vor dem Essen wasche ich meine Hände.",
+    "english": "Before eating, I wash my hands.",
+    "pron": "for dem essen fashuh ikh meyenuh henduh."
+  }
+]
