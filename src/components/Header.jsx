@@ -117,7 +117,7 @@ export default function Header({
           return (
             <button
               key={tab.id}
-              onClick={() => setActiveTab(tab.id)}
+              onClick={() => { setActiveTab(tab.id); localStorage.setItem('german_active_tab', tab.id); }}
               className={`btn ${isActive ? 'btn-primary' : 'btn-secondary'}`}
               style={{
                 flexShrink: 0,

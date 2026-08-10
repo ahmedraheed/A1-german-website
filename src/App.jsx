@@ -13,7 +13,13 @@ import DocScannerModal from './components/DocScannerModal';
 import germanData from './data/germanData.json';
 
 export default function App() {
-  const [activeTab, setActiveTab] = useState('sentences');
+  const [activeTab, setActiveTab] = useState(() => {
+    try {
+      return localStorage.getItem('german_active_tab') || 'sentences';
+    } catch {
+      return 'sentences';
+    }
+  });
   const [isScannerOpen, setIsScannerOpen] = useState(false);
 
   // Custom uploaded verbs stored in localStorage
