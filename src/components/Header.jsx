@@ -1,5 +1,5 @@
 import React from 'react';
-import { BookOpen, Layers, Zap, HelpCircle, Volume2, Calendar, Flame, RotateCcw, CheckCircle2, Upload } from 'lucide-react';
+import { BookOpen, Layers, Zap, HelpCircle, Volume2, Calendar, Flame, RotateCcw, CheckCircle2, Upload, Package } from 'lucide-react';
 
 export default function Header({ 
   activeTab, 
@@ -13,6 +13,7 @@ export default function Header({
   const percent = totalVerbs > 0 ? Math.round((masteredCount / totalVerbs) * 100) : 0;
 
   const tabs = [
+    { id: 'nouns', label: 'German A1 Nouns (577)', icon: Package },
     { id: 'vocab', label: 'Verbs & Words', icon: BookOpen },
     { id: 'flashcards', label: 'Flashcards', icon: Layers },
     { id: 'speedmatch', label: 'Speed Match', icon: Zap },

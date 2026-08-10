@@ -1,0 +1,5772 @@
+[
+  {
+    "id": 1,
+    "germanNoun": "der Mensch",
+    "article": "der",
+    "word": "Mensch",
+    "plural": "Menschen",
+    "english": "person / human",
+    "pronunciation": "dair muhnsh",
+    "topic": "People and family"
+  },
+  {
+    "id": 2,
+    "germanNoun": "die Person",
+    "article": "die",
+    "word": "Person",
+    "plural": "Personen",
+    "english": "person",
+    "pronunciation": "dee pairson",
+    "topic": "People and family"
+  },
+  {
+    "id": 3,
+    "germanNoun": "der Mann",
+    "article": "der",
+    "word": "Mann",
+    "plural": "Männer",
+    "english": "man / husband",
+    "pronunciation": "dair mann",
+    "topic": "People and family"
+  },
+  {
+    "id": 4,
+    "germanNoun": "die Frau",
+    "article": "die",
+    "word": "Frau",
+    "plural": "Frauen",
+    "english": "woman / wife",
+    "pronunciation": "dee frow",
+    "topic": "People and family"
+  },
+  {
+    "id": 5,
+    "germanNoun": "das Kind",
+    "article": "das",
+    "word": "Kind",
+    "plural": "Kinder",
+    "english": "child",
+    "pronunciation": "das kind",
+    "topic": "People and family"
+  },
+  {
+    "id": 6,
+    "germanNoun": "das Baby",
+    "article": "das",
+    "word": "Baby",
+    "plural": "Babys",
+    "english": "baby",
+    "pronunciation": "das baby",
+    "topic": "People and family"
+  },
+  {
+    "id": 7,
+    "germanNoun": "der Junge",
+    "article": "der",
+    "word": "Junge",
+    "plural": "Jungen",
+    "english": "boy",
+    "pronunciation": "dair yunguh",
+    "topic": "People and family"
+  },
+  {
+    "id": 8,
+    "germanNoun": "das Mädchen",
+    "article": "das",
+    "word": "Mädchen",
+    "plural": "Mädchen",
+    "english": "girl",
+    "pronunciation": "das mehdkhuhn",
+    "topic": "People and family"
+  },
+  {
+    "id": 9,
+    "germanNoun": "die Familie",
+    "article": "die",
+    "word": "Familie",
+    "plural": "Familien",
+    "english": "family",
+    "pronunciation": "dee familee",
+    "topic": "People and family"
+  },
+  {
+    "id": 10,
+    "germanNoun": "die Eltern",
+    "article": "die",
+    "word": "Eltern",
+    "plural": "—",
+    "english": "parents",
+    "pronunciation": "dee uhltairn",
+    "topic": "People and family"
+  },
+  {
+    "id": 11,
+    "germanNoun": "der Vater",
+    "article": "der",
+    "word": "Vater",
+    "plural": "Väter",
+    "english": "father",
+    "pronunciation": "dair fatair",
+    "topic": "People and family"
+  },
+  {
+    "id": 12,
+    "germanNoun": "die Mutter",
+    "article": "die",
+    "word": "Mutter",
+    "plural": "Mütter",
+    "english": "mother",
+    "pronunciation": "dee muttair",
+    "topic": "People and family"
+  },
+  {
+    "id": 13,
+    "germanNoun": "der Papa",
+    "article": "der",
+    "word": "Papa",
+    "plural": "Papas",
+    "english": "dad",
+    "pronunciation": "dair papa",
+    "topic": "People and family"
+  },
+  {
+    "id": 14,
+    "germanNoun": "die Mama",
+    "article": "die",
+    "word": "Mama",
+    "plural": "Mamas",
+    "english": "mom",
+    "pronunciation": "dee mama",
+    "topic": "People and family"
+  },
+  {
+    "id": 15,
+    "germanNoun": "der Sohn",
+    "article": "der",
+    "word": "Sohn",
+    "plural": "Söhne",
+    "english": "son",
+    "pronunciation": "dair sohn",
+    "topic": "People and family"
+  },
+  {
+    "id": 16,
+    "germanNoun": "die Tochter",
+    "article": "die",
+    "word": "Tochter",
+    "plural": "Töchter",
+    "english": "daughter",
+    "pronunciation": "dee tokhtair",
+    "topic": "People and family"
+  },
+  {
+    "id": 17,
+    "germanNoun": "der Bruder",
+    "article": "der",
+    "word": "Bruder",
+    "plural": "Brüder",
+    "english": "brother",
+    "pronunciation": "dair brudair",
+    "topic": "People and family"
+  },
+  {
+    "id": 18,
+    "germanNoun": "die Schwester",
+    "article": "die",
+    "word": "Schwester",
+    "plural": "Schwestern",
+    "english": "sister",
+    "pronunciation": "dee shfuhshtair",
+    "topic": "People and family"
+  },
+  {
+    "id": 19,
+    "germanNoun": "der Großvater",
+    "article": "der",
+    "word": "Großvater",
+    "plural": "Großväter",
+    "english": "grandfather",
+    "pronunciation": "dair grossfatair",
+    "topic": "People and family"
+  },
+  {
+    "id": 20,
+    "germanNoun": "die Großmutter",
+    "article": "die",
+    "word": "Großmutter",
+    "plural": "Großmütter",
+    "english": "grandmother",
+    "pronunciation": "dee grossmuttair",
+    "topic": "People and family"
+  },
+  {
+    "id": 21,
+    "germanNoun": "der Opa",
+    "article": "der",
+    "word": "Opa",
+    "plural": "Opas",
+    "english": "grandpa",
+    "pronunciation": "dair opa",
+    "topic": "People and family"
+  },
+  {
+    "id": 22,
+    "germanNoun": "die Oma",
+    "article": "die",
+    "word": "Oma",
+    "plural": "Omas",
+    "english": "grandma",
+    "pronunciation": "dee oma",
+    "topic": "People and family"
+  },
+  {
+    "id": 23,
+    "germanNoun": "der Onkel",
+    "article": "der",
+    "word": "Onkel",
+    "plural": "Onkel",
+    "english": "uncle",
+    "pronunciation": "dair onkuhl",
+    "topic": "People and family"
+  },
+  {
+    "id": 24,
+    "germanNoun": "die Tante",
+    "article": "die",
+    "word": "Tante",
+    "plural": "Tanten",
+    "english": "aunt",
+    "pronunciation": "dee tantuh",
+    "topic": "People and family"
+  },
+  {
+    "id": 25,
+    "germanNoun": "der Cousin",
+    "article": "der",
+    "word": "Cousin",
+    "plural": "Cousins",
+    "english": "male cousin",
+    "pronunciation": "dair cousin",
+    "topic": "People and family"
+  },
+  {
+    "id": 26,
+    "germanNoun": "die Cousine",
+    "article": "die",
+    "word": "Cousine",
+    "plural": "Cousinen",
+    "english": "female cousin",
+    "pronunciation": "dee cousinuh",
+    "topic": "People and family"
+  },
+  {
+    "id": 27,
+    "germanNoun": "der Enkel",
+    "article": "der",
+    "word": "Enkel",
+    "plural": "Enkel",
+    "english": "grandson",
+    "pronunciation": "dair uhnkuhl",
+    "topic": "People and family"
+  },
+  {
+    "id": 28,
+    "germanNoun": "die Enkelin",
+    "article": "die",
+    "word": "Enkelin",
+    "plural": "Enkelinnen",
+    "english": "granddaughter",
+    "pronunciation": "dee uhnkuhlin",
+    "topic": "People and family"
+  },
+  {
+    "id": 29,
+    "germanNoun": "der Freund",
+    "article": "der",
+    "word": "Freund",
+    "plural": "Freunde",
+    "english": "male friend / boyfriend",
+    "pronunciation": "dair froynd",
+    "topic": "People and family"
+  },
+  {
+    "id": 30,
+    "germanNoun": "die Freundin",
+    "article": "die",
+    "word": "Freundin",
+    "plural": "Freundinnen",
+    "english": "female friend / girlfriend",
+    "pronunciation": "dee froyndin",
+    "topic": "People and family"
+  },
+  {
+    "id": 31,
+    "germanNoun": "der Nachbar",
+    "article": "der",
+    "word": "Nachbar",
+    "plural": "Nachbarn",
+    "english": "male neighbor",
+    "pronunciation": "dair nakhbar",
+    "topic": "People and family"
+  },
+  {
+    "id": 32,
+    "germanNoun": "die Nachbarin",
+    "article": "die",
+    "word": "Nachbarin",
+    "plural": "Nachbarinnen",
+    "english": "female neighbor",
+    "pronunciation": "dee nakhbarin",
+    "topic": "People and family"
+  },
+  {
+    "id": 33,
+    "germanNoun": "der Gast",
+    "article": "der",
+    "word": "Gast",
+    "plural": "Gäste",
+    "english": "guest",
+    "pronunciation": "dair gasht",
+    "topic": "People and family"
+  },
+  {
+    "id": 34,
+    "germanNoun": "der Name",
+    "article": "der",
+    "word": "Name",
+    "plural": "Namen",
+    "english": "name",
+    "pronunciation": "dair namuh",
+    "topic": "People and family"
+  },
+  {
+    "id": 35,
+    "germanNoun": "der Vorname",
+    "article": "der",
+    "word": "Vorname",
+    "plural": "Vornamen",
+    "english": "first name",
+    "pronunciation": "dair fornamuh",
+    "topic": "People and family"
+  },
+  {
+    "id": 36,
+    "germanNoun": "der Familienname",
+    "article": "der",
+    "word": "Familienname",
+    "plural": "Familiennamen",
+    "english": "family name",
+    "pronunciation": "dair famileennamuh",
+    "topic": "People and family"
+  },
+  {
+    "id": 37,
+    "germanNoun": "der Nachname",
+    "article": "der",
+    "word": "Nachname",
+    "plural": "Nachnamen",
+    "english": "last name",
+    "pronunciation": "dair nakhnamuh",
+    "topic": "People and family"
+  },
+  {
+    "id": 38,
+    "germanNoun": "das Alter",
+    "article": "das",
+    "word": "Alter",
+    "plural": "—",
+    "english": "age",
+    "pronunciation": "das altair",
+    "topic": "People and family"
+  },
+  {
+    "id": 39,
+    "germanNoun": "der Geburtstag",
+    "article": "der",
+    "word": "Geburtstag",
+    "plural": "Geburtstage",
+    "english": "birthday",
+    "pronunciation": "dair guhburtshtag",
+    "topic": "People and family"
+  },
+  {
+    "id": 40,
+    "germanNoun": "die Adresse",
+    "article": "die",
+    "word": "Adresse",
+    "plural": "Adressen",
+    "english": "address",
+    "pronunciation": "dee adruhssuh",
+    "topic": "People and family"
+  },
+  {
+    "id": 41,
+    "germanNoun": "die Telefonnummer",
+    "article": "die",
+    "word": "Telefonnummer",
+    "plural": "Telefonnummern",
+    "english": "telephone number",
+    "pronunciation": "dee tuhluhfonnummair",
+    "topic": "People and family"
+  },
+  {
+    "id": 42,
+    "germanNoun": "das Haus",
+    "article": "das",
+    "word": "Haus",
+    "plural": "Häuser",
+    "english": "house",
+    "pronunciation": "das hows",
+    "topic": "Home and rooms"
+  },
+  {
+    "id": 43,
+    "germanNoun": "die Wohnung",
+    "article": "die",
+    "word": "Wohnung",
+    "plural": "Wohnungen",
+    "english": "apartment",
+    "pronunciation": "dee fohnung",
+    "topic": "Home and rooms"
+  },
+  {
+    "id": 44,
+    "germanNoun": "das Zimmer",
+    "article": "das",
+    "word": "Zimmer",
+    "plural": "Zimmer",
+    "english": "room",
+    "pronunciation": "das tsimmair",
+    "topic": "Home and rooms"
+  },
+  {
+    "id": 45,
+    "germanNoun": "das Wohnzimmer",
+    "article": "das",
+    "word": "Wohnzimmer",
+    "plural": "Wohnzimmer",
+    "english": "living room",
+    "pronunciation": "das fohntsimmair",
+    "topic": "Home and rooms"
+  },
+  {
+    "id": 46,
+    "germanNoun": "das Schlafzimmer",
+    "article": "das",
+    "word": "Schlafzimmer",
+    "plural": "Schlafzimmer",
+    "english": "bedroom",
+    "pronunciation": "das shlaftsimmair",
+    "topic": "Home and rooms"
+  },
+  {
+    "id": 47,
+    "germanNoun": "das Kinderzimmer",
+    "article": "das",
+    "word": "Kinderzimmer",
+    "plural": "Kinderzimmer",
+    "english": "children's room",
+    "pronunciation": "das kindairtsimmair",
+    "topic": "Home and rooms"
+  },
+  {
+    "id": 48,
+    "germanNoun": "das Badezimmer",
+    "article": "das",
+    "word": "Badezimmer",
+    "plural": "Badezimmer",
+    "english": "bathroom",
+    "pronunciation": "das baduhtsimmair",
+    "topic": "Home and rooms"
+  },
+  {
+    "id": 49,
+    "germanNoun": "die Küche",
+    "article": "die",
+    "word": "Küche",
+    "plural": "Küchen",
+    "english": "kitchen",
+    "pronunciation": "dee kuekhuh",
+    "topic": "Home and rooms"
+  },
+  {
+    "id": 50,
+    "germanNoun": "der Flur",
+    "article": "der",
+    "word": "Flur",
+    "plural": "Flure",
+    "english": "hallway",
+    "pronunciation": "dair flur",
+    "topic": "Home and rooms"
+  },
+  {
+    "id": 51,
+    "germanNoun": "der Balkon",
+    "article": "der",
+    "word": "Balkon",
+    "plural": "Balkone",
+    "english": "balcony",
+    "pronunciation": "dair balkon",
+    "topic": "Home and rooms"
+  },
+  {
+    "id": 52,
+    "germanNoun": "der Garten",
+    "article": "der",
+    "word": "Garten",
+    "plural": "Gärten",
+    "english": "garden",
+    "pronunciation": "dair gartuhn",
+    "topic": "Home and rooms"
+  },
+  {
+    "id": 53,
+    "germanNoun": "die Garage",
+    "article": "die",
+    "word": "Garage",
+    "plural": "Garagen",
+    "english": "garage",
+    "pronunciation": "dee garaguh",
+    "topic": "Home and rooms"
+  },
+  {
+    "id": 54,
+    "germanNoun": "der Keller",
+    "article": "der",
+    "word": "Keller",
+    "plural": "Keller",
+    "english": "cellar / basement",
+    "pronunciation": "dair kuhllair",
+    "topic": "Home and rooms"
+  },
+  {
+    "id": 55,
+    "germanNoun": "der Stock",
+    "article": "der",
+    "word": "Stock",
+    "plural": "Stockwerke",
+    "english": "floor / storey",
+    "pronunciation": "dair shtock",
+    "topic": "Home and rooms"
+  },
+  {
+    "id": 56,
+    "germanNoun": "das Erdgeschoss",
+    "article": "das",
+    "word": "Erdgeschoss",
+    "plural": "Erdgeschosse",
+    "english": "ground floor",
+    "pronunciation": "das airdguhshoss",
+    "topic": "Home and rooms"
+  },
+  {
+    "id": 57,
+    "germanNoun": "die Etage",
+    "article": "die",
+    "word": "Etage",
+    "plural": "Etagen",
+    "english": "floor / storey",
+    "pronunciation": "dee uhtaguh",
+    "topic": "Home and rooms"
+  },
+  {
+    "id": 58,
+    "germanNoun": "die Treppe",
+    "article": "die",
+    "word": "Treppe",
+    "plural": "Treppen",
+    "english": "stairs",
+    "pronunciation": "dee truhppuh",
+    "topic": "Home and rooms"
+  },
+  {
+    "id": 59,
+    "germanNoun": "der Aufzug",
+    "article": "der",
+    "word": "Aufzug",
+    "plural": "Aufzüge",
+    "english": "elevator",
+    "pronunciation": "dair owftsug",
+    "topic": "Home and rooms"
+  },
+  {
+    "id": 60,
+    "germanNoun": "die Tür",
+    "article": "die",
+    "word": "Tür",
+    "plural": "Türen",
+    "english": "door",
+    "pronunciation": "dee tuer",
+    "topic": "Home and rooms"
+  },
+  {
+    "id": 61,
+    "germanNoun": "das Fenster",
+    "article": "das",
+    "word": "Fenster",
+    "plural": "Fenster",
+    "english": "window",
+    "pronunciation": "das fuhnshtair",
+    "topic": "Home and rooms"
+  },
+  {
+    "id": 62,
+    "germanNoun": "die Wand",
+    "article": "die",
+    "word": "Wand",
+    "plural": "Wände",
+    "english": "wall",
+    "pronunciation": "dee fand",
+    "topic": "Home and rooms"
+  },
+  {
+    "id": 63,
+    "germanNoun": "der Boden",
+    "article": "der",
+    "word": "Boden",
+    "plural": "Böden",
+    "english": "floor / ground",
+    "pronunciation": "dair boduhn",
+    "topic": "Home and rooms"
+  },
+  {
+    "id": 64,
+    "germanNoun": "die Decke",
+    "article": "die",
+    "word": "Decke",
+    "plural": "Decken",
+    "english": "ceiling / blanket",
+    "pronunciation": "dee duhckuh",
+    "topic": "Home and rooms"
+  },
+  {
+    "id": 65,
+    "germanNoun": "das Dach",
+    "article": "das",
+    "word": "Dach",
+    "plural": "Dächer",
+    "english": "roof",
+    "pronunciation": "das dakh",
+    "topic": "Home and rooms"
+  },
+  {
+    "id": 66,
+    "germanNoun": "der Schlüssel",
+    "article": "der",
+    "word": "Schlüssel",
+    "plural": "Schlüssel",
+    "english": "key",
+    "pronunciation": "dair shluessuhl",
+    "topic": "Home and rooms"
+  },
+  {
+    "id": 67,
+    "germanNoun": "das Schloss",
+    "article": "das",
+    "word": "Schloss",
+    "plural": "Schlösser",
+    "english": "lock / castle",
+    "pronunciation": "das shloss",
+    "topic": "Home and rooms"
+  },
+  {
+    "id": 68,
+    "germanNoun": "die Miete",
+    "article": "die",
+    "word": "Miete",
+    "plural": "Mieten",
+    "english": "rent",
+    "pronunciation": "dee meetuh",
+    "topic": "Home and rooms"
+  },
+  {
+    "id": 69,
+    "germanNoun": "der Vermieter",
+    "article": "der",
+    "word": "Vermieter",
+    "plural": "Vermieter",
+    "english": "landlord",
+    "pronunciation": "dair fairmeetair",
+    "topic": "Home and rooms"
+  },
+  {
+    "id": 70,
+    "germanNoun": "die Vermieterin",
+    "article": "die",
+    "word": "Vermieterin",
+    "plural": "Vermieterinnen",
+    "english": "landlady",
+    "pronunciation": "dee fairmeetairin",
+    "topic": "Home and rooms"
+  },
+  {
+    "id": 71,
+    "germanNoun": "der Mieter",
+    "article": "der",
+    "word": "Mieter",
+    "plural": "Mieter",
+    "english": "tenant",
+    "pronunciation": "dair meetair",
+    "topic": "Home and rooms"
+  },
+  {
+    "id": 72,
+    "germanNoun": "die Mieterin",
+    "article": "die",
+    "word": "Mieterin",
+    "plural": "Mieterinnen",
+    "english": "female tenant",
+    "pronunciation": "dee meetairin",
+    "topic": "Home and rooms"
+  },
+  {
+    "id": 73,
+    "germanNoun": "die Nebenkosten",
+    "article": "die",
+    "word": "Nebenkosten",
+    "plural": "—",
+    "english": "additional housing costs",
+    "pronunciation": "dee nuhbuhnkoshtuhn",
+    "topic": "Home and rooms"
+  },
+  {
+    "id": 74,
+    "germanNoun": "der Strom",
+    "article": "der",
+    "word": "Strom",
+    "plural": "—",
+    "english": "electricity",
+    "pronunciation": "dair shtrom",
+    "topic": "Home and rooms"
+  },
+  {
+    "id": 75,
+    "germanNoun": "das Gas",
+    "article": "das",
+    "word": "Gas",
+    "plural": "—",
+    "english": "gas",
+    "pronunciation": "das gas",
+    "topic": "Home and rooms"
+  },
+  {
+    "id": 76,
+    "germanNoun": "das Wasser",
+    "article": "das",
+    "word": "Wasser",
+    "plural": "—",
+    "english": "water",
+    "pronunciation": "das fassair",
+    "topic": "Home and rooms"
+  },
+  {
+    "id": 77,
+    "germanNoun": "die Heizung",
+    "article": "die",
+    "word": "Heizung",
+    "plural": "Heizungen",
+    "english": "heating",
+    "pronunciation": "dee heyetsung",
+    "topic": "Home and rooms"
+  },
+  {
+    "id": 78,
+    "germanNoun": "die Mülltonne",
+    "article": "die",
+    "word": "Mülltonne",
+    "plural": "Mülltonnen",
+    "english": "trash bin",
+    "pronunciation": "dee muelltonnuh",
+    "topic": "Home and rooms"
+  },
+  {
+    "id": 79,
+    "germanNoun": "der Tisch",
+    "article": "der",
+    "word": "Tisch",
+    "plural": "Tische",
+    "english": "table",
+    "pronunciation": "dair tish",
+    "topic": "Furniture and household objects"
+  },
+  {
+    "id": 80,
+    "germanNoun": "der Stuhl",
+    "article": "der",
+    "word": "Stuhl",
+    "plural": "Stühle",
+    "english": "chair",
+    "pronunciation": "dair shtuhl",
+    "topic": "Furniture and household objects"
+  },
+  {
+    "id": 81,
+    "germanNoun": "das Sofa",
+    "article": "das",
+    "word": "Sofa",
+    "plural": "Sofas",
+    "english": "sofa",
+    "pronunciation": "das sofa",
+    "topic": "Furniture and household objects"
+  },
+  {
+    "id": 82,
+    "germanNoun": "der Sessel",
+    "article": "der",
+    "word": "Sessel",
+    "plural": "Sessel",
+    "english": "armchair",
+    "pronunciation": "dair suhssuhl",
+    "topic": "Furniture and household objects"
+  },
+  {
+    "id": 83,
+    "germanNoun": "das Bett",
+    "article": "das",
+    "word": "Bett",
+    "plural": "Betten",
+    "english": "bed",
+    "pronunciation": "das buhtt",
+    "topic": "Furniture and household objects"
+  },
+  {
+    "id": 84,
+    "germanNoun": "der Schrank",
+    "article": "der",
+    "word": "Schrank",
+    "plural": "Schränke",
+    "english": "cupboard / wardrobe",
+    "pronunciation": "dair shrank",
+    "topic": "Furniture and household objects"
+  },
+  {
+    "id": 85,
+    "germanNoun": "das Regal",
+    "article": "das",
+    "word": "Regal",
+    "plural": "Regale",
+    "english": "shelf",
+    "pronunciation": "das ruhgal",
+    "topic": "Furniture and household objects"
+  },
+  {
+    "id": 86,
+    "germanNoun": "die Kommode",
+    "article": "die",
+    "word": "Kommode",
+    "plural": "Kommoden",
+    "english": "chest of drawers",
+    "pronunciation": "dee kommoduh",
+    "topic": "Furniture and household objects"
+  },
+  {
+    "id": 87,
+    "germanNoun": "die Lampe",
+    "article": "die",
+    "word": "Lampe",
+    "plural": "Lampen",
+    "english": "lamp",
+    "pronunciation": "dee lampuh",
+    "topic": "Furniture and household objects"
+  },
+  {
+    "id": 88,
+    "germanNoun": "das Licht",
+    "article": "das",
+    "word": "Licht",
+    "plural": "Lichter",
+    "english": "light",
+    "pronunciation": "das likht",
+    "topic": "Furniture and household objects"
+  },
+  {
+    "id": 89,
+    "germanNoun": "der Teppich",
+    "article": "der",
+    "word": "Teppich",
+    "plural": "Teppiche",
+    "english": "carpet",
+    "pronunciation": "dair tuhppikh",
+    "topic": "Furniture and household objects"
+  },
+  {
+    "id": 90,
+    "germanNoun": "der Spiegel",
+    "article": "der",
+    "word": "Spiegel",
+    "plural": "Spiegel",
+    "english": "mirror",
+    "pronunciation": "dair shpeeguhl",
+    "topic": "Furniture and household objects"
+  },
+  {
+    "id": 91,
+    "germanNoun": "das Bild",
+    "article": "das",
+    "word": "Bild",
+    "plural": "Bilder",
+    "english": "picture",
+    "pronunciation": "das bild",
+    "topic": "Furniture and household objects"
+  },
+  {
+    "id": 92,
+    "germanNoun": "die Uhr",
+    "article": "die",
+    "word": "Uhr",
+    "plural": "Uhren",
+    "english": "clock / watch",
+    "pronunciation": "dee uhr",
+    "topic": "Furniture and household objects"
+  },
+  {
+    "id": 93,
+    "germanNoun": "der Fernseher",
+    "article": "der",
+    "word": "Fernseher",
+    "plural": "Fernseher",
+    "english": "television",
+    "pronunciation": "dair fairnsuhhair",
+    "topic": "Furniture and household objects"
+  },
+  {
+    "id": 94,
+    "germanNoun": "das Radio",
+    "article": "das",
+    "word": "Radio",
+    "plural": "Radios",
+    "english": "radio",
+    "pronunciation": "das radio",
+    "topic": "Furniture and household objects"
+  },
+  {
+    "id": 95,
+    "germanNoun": "der Computer",
+    "article": "der",
+    "word": "Computer",
+    "plural": "Computer",
+    "english": "computer",
+    "pronunciation": "dair computair",
+    "topic": "Furniture and household objects"
+  },
+  {
+    "id": 96,
+    "germanNoun": "der Laptop",
+    "article": "der",
+    "word": "Laptop",
+    "plural": "Laptops",
+    "english": "laptop",
+    "pronunciation": "dair laptop",
+    "topic": "Furniture and household objects"
+  },
+  {
+    "id": 97,
+    "germanNoun": "das Telefon",
+    "article": "das",
+    "word": "Telefon",
+    "plural": "Telefone",
+    "english": "telephone",
+    "pronunciation": "das tuhluhfon",
+    "topic": "Furniture and household objects"
+  },
+  {
+    "id": 98,
+    "germanNoun": "das Handy",
+    "article": "das",
+    "word": "Handy",
+    "plural": "Handys",
+    "english": "mobile phone",
+    "pronunciation": "das handy",
+    "topic": "Furniture and household objects"
+  },
+  {
+    "id": 99,
+    "germanNoun": "der Kühlschrank",
+    "article": "der",
+    "word": "Kühlschrank",
+    "plural": "Kühlschränke",
+    "english": "refrigerator",
+    "pronunciation": "dair kuehlshrank",
+    "topic": "Furniture and household objects"
+  },
+  {
+    "id": 100,
+    "germanNoun": "der Herd",
+    "article": "der",
+    "word": "Herd",
+    "plural": "Herde",
+    "english": "stove",
+    "pronunciation": "dair haird",
+    "topic": "Furniture and household objects"
+  },
+  {
+    "id": 101,
+    "germanNoun": "der Ofen",
+    "article": "der",
+    "word": "Ofen",
+    "plural": "Öfen",
+    "english": "oven",
+    "pronunciation": "dair ofuhn",
+    "topic": "Furniture and household objects"
+  },
+  {
+    "id": 102,
+    "germanNoun": "die Mikrowelle",
+    "article": "die",
+    "word": "Mikrowelle",
+    "plural": "Mikrowellen",
+    "english": "microwave",
+    "pronunciation": "dee mikrofuhlluh",
+    "topic": "Furniture and household objects"
+  },
+  {
+    "id": 103,
+    "germanNoun": "die Spülmaschine",
+    "article": "die",
+    "word": "Spülmaschine",
+    "plural": "Spülmaschinen",
+    "english": "dishwasher",
+    "pronunciation": "dee shpuelmashinuh",
+    "topic": "Furniture and household objects"
+  },
+  {
+    "id": 104,
+    "germanNoun": "die Waschmaschine",
+    "article": "die",
+    "word": "Waschmaschine",
+    "plural": "Waschmaschinen",
+    "english": "washing machine",
+    "pronunciation": "dee fashmashinuh",
+    "topic": "Furniture and household objects"
+  },
+  {
+    "id": 105,
+    "germanNoun": "der Staubsauger",
+    "article": "der",
+    "word": "Staubsauger",
+    "plural": "Staubsauger",
+    "english": "vacuum cleaner",
+    "pronunciation": "dair shtowbsowgair",
+    "topic": "Furniture and household objects"
+  },
+  {
+    "id": 106,
+    "germanNoun": "die Dusche",
+    "article": "die",
+    "word": "Dusche",
+    "plural": "Duschen",
+    "english": "shower",
+    "pronunciation": "dee dushuh",
+    "topic": "Furniture and household objects"
+  },
+  {
+    "id": 107,
+    "germanNoun": "die Badewanne",
+    "article": "die",
+    "word": "Badewanne",
+    "plural": "Badewannen",
+    "english": "bathtub",
+    "pronunciation": "dee baduhfannuh",
+    "topic": "Furniture and household objects"
+  },
+  {
+    "id": 108,
+    "germanNoun": "die Toilette",
+    "article": "die",
+    "word": "Toilette",
+    "plural": "Toiletten",
+    "english": "toilet",
+    "pronunciation": "dee toiluhttuh",
+    "topic": "Furniture and household objects"
+  },
+  {
+    "id": 109,
+    "germanNoun": "das Handtuch",
+    "article": "das",
+    "word": "Handtuch",
+    "plural": "Handtücher",
+    "english": "towel",
+    "pronunciation": "das handtukh",
+    "topic": "Furniture and household objects"
+  },
+  {
+    "id": 110,
+    "germanNoun": "die Seife",
+    "article": "die",
+    "word": "Seife",
+    "plural": "Seifen",
+    "english": "soap",
+    "pronunciation": "dee seyefuh",
+    "topic": "Furniture and household objects"
+  },
+  {
+    "id": 111,
+    "germanNoun": "die Zahnbürste",
+    "article": "die",
+    "word": "Zahnbürste",
+    "plural": "Zahnbürsten",
+    "english": "toothbrush",
+    "pronunciation": "dee tsahnbuershtuh",
+    "topic": "Furniture and household objects"
+  },
+  {
+    "id": 112,
+    "germanNoun": "die Zahnpasta",
+    "article": "die",
+    "word": "Zahnpasta",
+    "plural": "—",
+    "english": "toothpaste",
+    "pronunciation": "dee tsahnpashta",
+    "topic": "Furniture and household objects"
+  },
+  {
+    "id": 113,
+    "germanNoun": "der Kamm",
+    "article": "der",
+    "word": "Kamm",
+    "plural": "Kämme",
+    "english": "comb",
+    "pronunciation": "dair kamm",
+    "topic": "Furniture and household objects"
+  },
+  {
+    "id": 114,
+    "germanNoun": "die Bürste",
+    "article": "die",
+    "word": "Bürste",
+    "plural": "Bürsten",
+    "english": "brush",
+    "pronunciation": "dee buershtuh",
+    "topic": "Furniture and household objects"
+  },
+  {
+    "id": 115,
+    "germanNoun": "das Glas",
+    "article": "das",
+    "word": "Glas",
+    "plural": "Gläser",
+    "english": "glass",
+    "pronunciation": "das glas",
+    "topic": "Furniture and household objects"
+  },
+  {
+    "id": 116,
+    "germanNoun": "die Tasse",
+    "article": "die",
+    "word": "Tasse",
+    "plural": "Tassen",
+    "english": "cup",
+    "pronunciation": "dee tassuh",
+    "topic": "Furniture and household objects"
+  },
+  {
+    "id": 117,
+    "germanNoun": "der Becher",
+    "article": "der",
+    "word": "Becher",
+    "plural": "Becher",
+    "english": "mug / cup",
+    "pronunciation": "dair buhkhair",
+    "topic": "Furniture and household objects"
+  },
+  {
+    "id": 118,
+    "germanNoun": "der Teller",
+    "article": "der",
+    "word": "Teller",
+    "plural": "Teller",
+    "english": "plate",
+    "pronunciation": "dair tuhllair",
+    "topic": "Furniture and household objects"
+  },
+  {
+    "id": 119,
+    "germanNoun": "die Schüssel",
+    "article": "die",
+    "word": "Schüssel",
+    "plural": "Schüsseln",
+    "english": "bowl",
+    "pronunciation": "dee shuessuhl",
+    "topic": "Furniture and household objects"
+  },
+  {
+    "id": 120,
+    "germanNoun": "das Messer",
+    "article": "das",
+    "word": "Messer",
+    "plural": "Messer",
+    "english": "knife",
+    "pronunciation": "das muhssair",
+    "topic": "Furniture and household objects"
+  },
+  {
+    "id": 121,
+    "germanNoun": "die Gabel",
+    "article": "die",
+    "word": "Gabel",
+    "plural": "Gabeln",
+    "english": "fork",
+    "pronunciation": "dee gabuhl",
+    "topic": "Furniture and household objects"
+  },
+  {
+    "id": 122,
+    "germanNoun": "der Löffel",
+    "article": "der",
+    "word": "Löffel",
+    "plural": "Löffel",
+    "english": "spoon",
+    "pronunciation": "dair lurffuhl",
+    "topic": "Furniture and household objects"
+  },
+  {
+    "id": 123,
+    "germanNoun": "der Topf",
+    "article": "der",
+    "word": "Topf",
+    "plural": "Töpfe",
+    "english": "pot",
+    "pronunciation": "dair topf",
+    "topic": "Furniture and household objects"
+  },
+  {
+    "id": 124,
+    "germanNoun": "die Pfanne",
+    "article": "die",
+    "word": "Pfanne",
+    "plural": "Pfannen",
+    "english": "pan",
+    "pronunciation": "dee pfannuh",
+    "topic": "Furniture and household objects"
+  },
+  {
+    "id": 125,
+    "germanNoun": "die Flasche",
+    "article": "die",
+    "word": "Flasche",
+    "plural": "Flaschen",
+    "english": "bottle",
+    "pronunciation": "dee flashuh",
+    "topic": "Furniture and household objects"
+  },
+  {
+    "id": 126,
+    "germanNoun": "die Dose",
+    "article": "die",
+    "word": "Dose",
+    "plural": "Dosen",
+    "english": "can / tin",
+    "pronunciation": "dee dosuh",
+    "topic": "Furniture and household objects"
+  },
+  {
+    "id": 127,
+    "germanNoun": "die Packung",
+    "article": "die",
+    "word": "Packung",
+    "plural": "Packungen",
+    "english": "packet / package",
+    "pronunciation": "dee packung",
+    "topic": "Furniture and household objects"
+  },
+  {
+    "id": 128,
+    "germanNoun": "die Tüte",
+    "article": "die",
+    "word": "Tüte",
+    "plural": "Tüten",
+    "english": "bag",
+    "pronunciation": "dee tuetuh",
+    "topic": "Furniture and household objects"
+  },
+  {
+    "id": 129,
+    "germanNoun": "der Müll",
+    "article": "der",
+    "word": "Müll",
+    "plural": "—",
+    "english": "rubbish",
+    "pronunciation": "dair muell",
+    "topic": "Furniture and household objects"
+  },
+  {
+    "id": 130,
+    "germanNoun": "das Essen",
+    "article": "das",
+    "word": "Essen",
+    "plural": "—",
+    "english": "food / meal",
+    "pronunciation": "das uhssuhn",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 131,
+    "germanNoun": "das Getränk",
+    "article": "das",
+    "word": "Getränk",
+    "plural": "Getränke",
+    "english": "drink / beverage",
+    "pronunciation": "das guhtrehnk",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 132,
+    "germanNoun": "das Frühstück",
+    "article": "das",
+    "word": "Frühstück",
+    "plural": "Frühstücke",
+    "english": "breakfast",
+    "pronunciation": "das fruehshtueck",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 133,
+    "germanNoun": "das Mittagessen",
+    "article": "das",
+    "word": "Mittagessen",
+    "plural": "—",
+    "english": "lunch",
+    "pronunciation": "das mittaguhssuhn",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 134,
+    "germanNoun": "das Abendessen",
+    "article": "das",
+    "word": "Abendessen",
+    "plural": "—",
+    "english": "dinner",
+    "pronunciation": "das abuhnduhssuhn",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 135,
+    "germanNoun": "das Brot",
+    "article": "das",
+    "word": "Brot",
+    "plural": "Brote",
+    "english": "bread",
+    "pronunciation": "das brot",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 136,
+    "germanNoun": "das Brötchen",
+    "article": "das",
+    "word": "Brötchen",
+    "plural": "Brötchen",
+    "english": "bread roll",
+    "pronunciation": "das brurtkhuhn",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 137,
+    "germanNoun": "der Toast",
+    "article": "der",
+    "word": "Toast",
+    "plural": "Toasts",
+    "english": "toast",
+    "pronunciation": "dair toasht",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 138,
+    "germanNoun": "der Kuchen",
+    "article": "der",
+    "word": "Kuchen",
+    "plural": "Kuchen",
+    "english": "cake",
+    "pronunciation": "dair kukhuhn",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 139,
+    "germanNoun": "der Keks",
+    "article": "der",
+    "word": "Keks",
+    "plural": "Kekse",
+    "english": "cookie",
+    "pronunciation": "dair kuhks",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 140,
+    "germanNoun": "die Torte",
+    "article": "die",
+    "word": "Torte",
+    "plural": "Torten",
+    "english": "cream cake",
+    "pronunciation": "dee tortuh",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 141,
+    "germanNoun": "das Mehl",
+    "article": "das",
+    "word": "Mehl",
+    "plural": "—",
+    "english": "flour",
+    "pronunciation": "das muhhl",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 142,
+    "germanNoun": "der Zucker",
+    "article": "der",
+    "word": "Zucker",
+    "plural": "—",
+    "english": "sugar",
+    "pronunciation": "dair tsuckair",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 143,
+    "germanNoun": "das Salz",
+    "article": "das",
+    "word": "Salz",
+    "plural": "—",
+    "english": "salt",
+    "pronunciation": "das salts",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 144,
+    "germanNoun": "der Pfeffer",
+    "article": "der",
+    "word": "Pfeffer",
+    "plural": "—",
+    "english": "pepper",
+    "pronunciation": "dair pfuhffair",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 145,
+    "germanNoun": "die Butter",
+    "article": "die",
+    "word": "Butter",
+    "plural": "—",
+    "english": "butter",
+    "pronunciation": "dee buttair",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 146,
+    "germanNoun": "der Käse",
+    "article": "der",
+    "word": "Käse",
+    "plural": "—",
+    "english": "cheese",
+    "pronunciation": "dair kehsuh",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 147,
+    "germanNoun": "die Milch",
+    "article": "die",
+    "word": "Milch",
+    "plural": "—",
+    "english": "milk",
+    "pronunciation": "dee milkh",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 148,
+    "germanNoun": "der Joghurt",
+    "article": "der",
+    "word": "Joghurt",
+    "plural": "Joghurts",
+    "english": "yogurt",
+    "pronunciation": "dair yoghurt",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 149,
+    "germanNoun": "das Ei",
+    "article": "das",
+    "word": "Ei",
+    "plural": "Eier",
+    "english": "egg",
+    "pronunciation": "das eye",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 150,
+    "germanNoun": "das Fleisch",
+    "article": "das",
+    "word": "Fleisch",
+    "plural": "—",
+    "english": "meat",
+    "pronunciation": "das fleyesh",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 151,
+    "germanNoun": "das Hähnchen",
+    "article": "das",
+    "word": "Hähnchen",
+    "plural": "Hähnchen",
+    "english": "chicken",
+    "pronunciation": "das hehhnkhuhn",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 152,
+    "germanNoun": "das Huhn",
+    "article": "das",
+    "word": "Huhn",
+    "plural": "Hühner",
+    "english": "chicken / hen",
+    "pronunciation": "das huhn",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 153,
+    "germanNoun": "der Fisch",
+    "article": "der",
+    "word": "Fisch",
+    "plural": "Fische",
+    "english": "fish",
+    "pronunciation": "dair fish",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 154,
+    "germanNoun": "die Wurst",
+    "article": "die",
+    "word": "Wurst",
+    "plural": "Würste",
+    "english": "sausage",
+    "pronunciation": "dee fursht",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 155,
+    "germanNoun": "der Schinken",
+    "article": "der",
+    "word": "Schinken",
+    "plural": "—",
+    "english": "ham",
+    "pronunciation": "dair shinkuhn",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 156,
+    "germanNoun": "der Reis",
+    "article": "der",
+    "word": "Reis",
+    "plural": "—",
+    "english": "rice",
+    "pronunciation": "dair reyes",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 157,
+    "germanNoun": "die Nudel",
+    "article": "die",
+    "word": "Nudel",
+    "plural": "Nudeln",
+    "english": "noodle / pasta",
+    "pronunciation": "dee nuduhl",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 158,
+    "germanNoun": "die Suppe",
+    "article": "die",
+    "word": "Suppe",
+    "plural": "Suppen",
+    "english": "soup",
+    "pronunciation": "dee suppuh",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 159,
+    "germanNoun": "der Salat",
+    "article": "der",
+    "word": "Salat",
+    "plural": "Salate",
+    "english": "salad",
+    "pronunciation": "dair salat",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 160,
+    "germanNoun": "das Gemüse",
+    "article": "das",
+    "word": "Gemüse",
+    "plural": "—",
+    "english": "vegetables",
+    "pronunciation": "das guhmuesuh",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 161,
+    "germanNoun": "die Kartoffel",
+    "article": "die",
+    "word": "Kartoffel",
+    "plural": "Kartoffeln",
+    "english": "potato",
+    "pronunciation": "dee kartoffuhl",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 162,
+    "germanNoun": "die Tomate",
+    "article": "die",
+    "word": "Tomate",
+    "plural": "Tomaten",
+    "english": "tomato",
+    "pronunciation": "dee tomatuh",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 163,
+    "germanNoun": "die Gurke",
+    "article": "die",
+    "word": "Gurke",
+    "plural": "Gurken",
+    "english": "cucumber",
+    "pronunciation": "dee gurkuh",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 164,
+    "germanNoun": "die Zwiebel",
+    "article": "die",
+    "word": "Zwiebel",
+    "plural": "Zwiebeln",
+    "english": "onion",
+    "pronunciation": "dee tsfeebuhl",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 165,
+    "germanNoun": "die Karotte",
+    "article": "die",
+    "word": "Karotte",
+    "plural": "Karotten",
+    "english": "carrot",
+    "pronunciation": "dee karottuh",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 166,
+    "germanNoun": "die Möhre",
+    "article": "die",
+    "word": "Möhre",
+    "plural": "Möhren",
+    "english": "carrot",
+    "pronunciation": "dee murhruh",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 167,
+    "germanNoun": "der Pilz",
+    "article": "der",
+    "word": "Pilz",
+    "plural": "Pilze",
+    "english": "mushroom",
+    "pronunciation": "dair pilts",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 168,
+    "germanNoun": "die Bohne",
+    "article": "die",
+    "word": "Bohne",
+    "plural": "Bohnen",
+    "english": "bean",
+    "pronunciation": "dee bohnuh",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 169,
+    "germanNoun": "die Erbse",
+    "article": "die",
+    "word": "Erbse",
+    "plural": "Erbsen",
+    "english": "pea",
+    "pronunciation": "dee airbsuh",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 170,
+    "germanNoun": "der Mais",
+    "article": "der",
+    "word": "Mais",
+    "plural": "—",
+    "english": "corn",
+    "pronunciation": "dair mais",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 171,
+    "germanNoun": "das Obst",
+    "article": "das",
+    "word": "Obst",
+    "plural": "—",
+    "english": "fruit",
+    "pronunciation": "das obsht",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 172,
+    "germanNoun": "der Apfel",
+    "article": "der",
+    "word": "Apfel",
+    "plural": "Äpfel",
+    "english": "apple",
+    "pronunciation": "dair apfuhl",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 173,
+    "germanNoun": "die Banane",
+    "article": "die",
+    "word": "Banane",
+    "plural": "Bananen",
+    "english": "banana",
+    "pronunciation": "dee bananuh",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 174,
+    "germanNoun": "die Orange",
+    "article": "die",
+    "word": "Orange",
+    "plural": "Orangen",
+    "english": "orange",
+    "pronunciation": "dee oranguh",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 175,
+    "germanNoun": "die Zitrone",
+    "article": "die",
+    "word": "Zitrone",
+    "plural": "Zitronen",
+    "english": "lemon",
+    "pronunciation": "dee tsitronuh",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 176,
+    "germanNoun": "die Birne",
+    "article": "die",
+    "word": "Birne",
+    "plural": "Birnen",
+    "english": "pear",
+    "pronunciation": "dee birnuh",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 177,
+    "germanNoun": "die Erdbeere",
+    "article": "die",
+    "word": "Erdbeere",
+    "plural": "Erdbeeren",
+    "english": "strawberry",
+    "pronunciation": "dee airdbuhairuh",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 178,
+    "germanNoun": "die Traube",
+    "article": "die",
+    "word": "Traube",
+    "plural": "Trauben",
+    "english": "grape",
+    "pronunciation": "dee trowbuh",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 179,
+    "germanNoun": "die Kirsche",
+    "article": "die",
+    "word": "Kirsche",
+    "plural": "Kirschen",
+    "english": "cherry",
+    "pronunciation": "dee kirshuh",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 180,
+    "germanNoun": "die Melone",
+    "article": "die",
+    "word": "Melone",
+    "plural": "Melonen",
+    "english": "melon",
+    "pronunciation": "dee muhlonuh",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 181,
+    "germanNoun": "das Öl",
+    "article": "das",
+    "word": "Öl",
+    "plural": "Öle",
+    "english": "oil",
+    "pronunciation": "das url",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 182,
+    "germanNoun": "die Marmelade",
+    "article": "die",
+    "word": "Marmelade",
+    "plural": "Marmeladen",
+    "english": "jam",
+    "pronunciation": "dee marmuhladuh",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 183,
+    "germanNoun": "der Honig",
+    "article": "der",
+    "word": "Honig",
+    "plural": "—",
+    "english": "honey",
+    "pronunciation": "dair honig",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 184,
+    "germanNoun": "die Schokolade",
+    "article": "die",
+    "word": "Schokolade",
+    "plural": "Schokoladen",
+    "english": "chocolate",
+    "pronunciation": "dee shokoladuh",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 185,
+    "germanNoun": "das Eis",
+    "article": "das",
+    "word": "Eis",
+    "plural": "—",
+    "english": "ice cream / ice",
+    "pronunciation": "das eyes",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 186,
+    "germanNoun": "die Pizza",
+    "article": "die",
+    "word": "Pizza",
+    "plural": "Pizzen",
+    "english": "pizza",
+    "pronunciation": "dee pitstsa",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 187,
+    "germanNoun": "der Hamburger",
+    "article": "der",
+    "word": "Hamburger",
+    "plural": "Hamburger",
+    "english": "hamburger",
+    "pronunciation": "dair hamburgair",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 188,
+    "germanNoun": "das Sandwich",
+    "article": "das",
+    "word": "Sandwich",
+    "plural": "Sandwiches",
+    "english": "sandwich",
+    "pronunciation": "das sandfikh",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 189,
+    "germanNoun": "der Kaffee",
+    "article": "der",
+    "word": "Kaffee",
+    "plural": "Kaffees",
+    "english": "coffee",
+    "pronunciation": "dair kaffuhuh",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 190,
+    "germanNoun": "der Tee",
+    "article": "der",
+    "word": "Tee",
+    "plural": "Tees",
+    "english": "tea",
+    "pronunciation": "dair tuhuh",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 191,
+    "germanNoun": "der Saft",
+    "article": "der",
+    "word": "Saft",
+    "plural": "Säfte",
+    "english": "juice",
+    "pronunciation": "dair saft",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 192,
+    "germanNoun": "das Mineralwasser",
+    "article": "das",
+    "word": "Mineralwasser",
+    "plural": "—",
+    "english": "mineral water",
+    "pronunciation": "das minairalfassair",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 193,
+    "germanNoun": "das Bier",
+    "article": "das",
+    "word": "Bier",
+    "plural": "Biere",
+    "english": "beer",
+    "pronunciation": "das beer",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 194,
+    "germanNoun": "der Wein",
+    "article": "der",
+    "word": "Wein",
+    "plural": "Weine",
+    "english": "wine",
+    "pronunciation": "dair feyen",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 195,
+    "germanNoun": "der Hunger",
+    "article": "der",
+    "word": "Hunger",
+    "plural": "—",
+    "english": "hunger",
+    "pronunciation": "dair hungair",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 196,
+    "germanNoun": "der Durst",
+    "article": "der",
+    "word": "Durst",
+    "plural": "—",
+    "english": "thirst",
+    "pronunciation": "dair dursht",
+    "topic": "Food and drink"
+  },
+  {
+    "id": 197,
+    "germanNoun": "die Kleidung",
+    "article": "die",
+    "word": "Kleidung",
+    "plural": "—",
+    "english": "clothing",
+    "pronunciation": "dee kleyedung",
+    "topic": "Clothing and personal items"
+  },
+  {
+    "id": 198,
+    "germanNoun": "die Hose",
+    "article": "die",
+    "word": "Hose",
+    "plural": "Hosen",
+    "english": "trousers",
+    "pronunciation": "dee hosuh",
+    "topic": "Clothing and personal items"
+  },
+  {
+    "id": 199,
+    "germanNoun": "die Jeans",
+    "article": "die",
+    "word": "Jeans",
+    "plural": "—",
+    "english": "jeans",
+    "pronunciation": "dee yuhans",
+    "topic": "Clothing and personal items"
+  },
+  {
+    "id": 200,
+    "germanNoun": "das Kleid",
+    "article": "das",
+    "word": "Kleid",
+    "plural": "Kleider",
+    "english": "dress",
+    "pronunciation": "das kleyed",
+    "topic": "Clothing and personal items"
+  },
+  {
+    "id": 201,
+    "germanNoun": "der Rock",
+    "article": "der",
+    "word": "Rock",
+    "plural": "Röcke",
+    "english": "skirt",
+    "pronunciation": "dair rock",
+    "topic": "Clothing and personal items"
+  },
+  {
+    "id": 202,
+    "germanNoun": "das Hemd",
+    "article": "das",
+    "word": "Hemd",
+    "plural": "Hemden",
+    "english": "shirt",
+    "pronunciation": "das huhmd",
+    "topic": "Clothing and personal items"
+  },
+  {
+    "id": 203,
+    "germanNoun": "die Bluse",
+    "article": "die",
+    "word": "Bluse",
+    "plural": "Blusen",
+    "english": "blouse",
+    "pronunciation": "dee blusuh",
+    "topic": "Clothing and personal items"
+  },
+  {
+    "id": 204,
+    "germanNoun": "das T-Shirt",
+    "article": "das",
+    "word": "T-Shirt",
+    "plural": "T-Shirts",
+    "english": "T-shirt",
+    "pronunciation": "das t-shirt",
+    "topic": "Clothing and personal items"
+  },
+  {
+    "id": 205,
+    "germanNoun": "der Pullover",
+    "article": "der",
+    "word": "Pullover",
+    "plural": "Pullover",
+    "english": "sweater",
+    "pronunciation": "dair pullofair",
+    "topic": "Clothing and personal items"
+  },
+  {
+    "id": 206,
+    "germanNoun": "die Jacke",
+    "article": "die",
+    "word": "Jacke",
+    "plural": "Jacken",
+    "english": "jacket",
+    "pronunciation": "dee yackuh",
+    "topic": "Clothing and personal items"
+  },
+  {
+    "id": 207,
+    "germanNoun": "der Mantel",
+    "article": "der",
+    "word": "Mantel",
+    "plural": "Mäntel",
+    "english": "coat",
+    "pronunciation": "dair mantuhl",
+    "topic": "Clothing and personal items"
+  },
+  {
+    "id": 208,
+    "germanNoun": "der Anzug",
+    "article": "der",
+    "word": "Anzug",
+    "plural": "Anzüge",
+    "english": "suit",
+    "pronunciation": "dair antsug",
+    "topic": "Clothing and personal items"
+  },
+  {
+    "id": 209,
+    "germanNoun": "die Socke",
+    "article": "die",
+    "word": "Socke",
+    "plural": "Socken",
+    "english": "sock",
+    "pronunciation": "dee sockuh",
+    "topic": "Clothing and personal items"
+  },
+  {
+    "id": 210,
+    "germanNoun": "der Schuh",
+    "article": "der",
+    "word": "Schuh",
+    "plural": "Schuhe",
+    "english": "shoe",
+    "pronunciation": "dair shuh",
+    "topic": "Clothing and personal items"
+  },
+  {
+    "id": 211,
+    "germanNoun": "der Stiefel",
+    "article": "der",
+    "word": "Stiefel",
+    "plural": "Stiefel",
+    "english": "boot",
+    "pronunciation": "dair shteefuhl",
+    "topic": "Clothing and personal items"
+  },
+  {
+    "id": 212,
+    "germanNoun": "der Hut",
+    "article": "der",
+    "word": "Hut",
+    "plural": "Hüte",
+    "english": "hat",
+    "pronunciation": "dair hut",
+    "topic": "Clothing and personal items"
+  },
+  {
+    "id": 213,
+    "germanNoun": "die Mütze",
+    "article": "die",
+    "word": "Mütze",
+    "plural": "Mützen",
+    "english": "cap / beanie",
+    "pronunciation": "dee muettsuh",
+    "topic": "Clothing and personal items"
+  },
+  {
+    "id": 214,
+    "germanNoun": "der Schal",
+    "article": "der",
+    "word": "Schal",
+    "plural": "Schals",
+    "english": "scarf",
+    "pronunciation": "dair shal",
+    "topic": "Clothing and personal items"
+  },
+  {
+    "id": 215,
+    "germanNoun": "der Gürtel",
+    "article": "der",
+    "word": "Gürtel",
+    "plural": "Gürtel",
+    "english": "belt",
+    "pronunciation": "dair guertuhl",
+    "topic": "Clothing and personal items"
+  },
+  {
+    "id": 216,
+    "germanNoun": "die Brille",
+    "article": "die",
+    "word": "Brille",
+    "plural": "Brillen",
+    "english": "glasses",
+    "pronunciation": "dee brilluh",
+    "topic": "Clothing and personal items"
+  },
+  {
+    "id": 217,
+    "germanNoun": "die Sonnenbrille",
+    "article": "die",
+    "word": "Sonnenbrille",
+    "plural": "Sonnenbrillen",
+    "english": "sunglasses",
+    "pronunciation": "dee sonnuhnbrilluh",
+    "topic": "Clothing and personal items"
+  },
+  {
+    "id": 218,
+    "germanNoun": "die Tasche",
+    "article": "die",
+    "word": "Tasche",
+    "plural": "Taschen",
+    "english": "bag",
+    "pronunciation": "dee tashuh",
+    "topic": "Clothing and personal items"
+  },
+  {
+    "id": 219,
+    "germanNoun": "der Koffer",
+    "article": "der",
+    "word": "Koffer",
+    "plural": "Koffer",
+    "english": "suitcase",
+    "pronunciation": "dair koffair",
+    "topic": "Clothing and personal items"
+  },
+  {
+    "id": 220,
+    "germanNoun": "der Rucksack",
+    "article": "der",
+    "word": "Rucksack",
+    "plural": "Rucksäcke",
+    "english": "backpack",
+    "pronunciation": "dair rucksack",
+    "topic": "Clothing and personal items"
+  },
+  {
+    "id": 221,
+    "germanNoun": "der Regenschirm",
+    "article": "der",
+    "word": "Regenschirm",
+    "plural": "Regenschirme",
+    "english": "umbrella",
+    "pronunciation": "dair ruhguhnshirm",
+    "topic": "Clothing and personal items"
+  },
+  {
+    "id": 222,
+    "germanNoun": "die Größe",
+    "article": "die",
+    "word": "Größe",
+    "plural": "Größen",
+    "english": "size",
+    "pronunciation": "dee grurssuh",
+    "topic": "Clothing and personal items"
+  },
+  {
+    "id": 223,
+    "germanNoun": "die Farbe",
+    "article": "die",
+    "word": "Farbe",
+    "plural": "Farben",
+    "english": "color",
+    "pronunciation": "dee farbuh",
+    "topic": "Clothing and personal items"
+  },
+  {
+    "id": 224,
+    "germanNoun": "der Körper",
+    "article": "der",
+    "word": "Körper",
+    "plural": "Körper",
+    "english": "body",
+    "pronunciation": "dair kurrpair",
+    "topic": "Body and health"
+  },
+  {
+    "id": 225,
+    "germanNoun": "der Kopf",
+    "article": "der",
+    "word": "Kopf",
+    "plural": "Köpfe",
+    "english": "head",
+    "pronunciation": "dair kopf",
+    "topic": "Body and health"
+  },
+  {
+    "id": 226,
+    "germanNoun": "das Gesicht",
+    "article": "das",
+    "word": "Gesicht",
+    "plural": "Gesichter",
+    "english": "face",
+    "pronunciation": "das guhsikht",
+    "topic": "Body and health"
+  },
+  {
+    "id": 227,
+    "germanNoun": "das Haar",
+    "article": "das",
+    "word": "Haar",
+    "plural": "Haare",
+    "english": "hair",
+    "pronunciation": "das haar",
+    "topic": "Body and health"
+  },
+  {
+    "id": 228,
+    "germanNoun": "das Auge",
+    "article": "das",
+    "word": "Auge",
+    "plural": "Augen",
+    "english": "eye",
+    "pronunciation": "das owguh",
+    "topic": "Body and health"
+  },
+  {
+    "id": 229,
+    "germanNoun": "das Ohr",
+    "article": "das",
+    "word": "Ohr",
+    "plural": "Ohren",
+    "english": "ear",
+    "pronunciation": "das ohr",
+    "topic": "Body and health"
+  },
+  {
+    "id": 230,
+    "germanNoun": "die Nase",
+    "article": "die",
+    "word": "Nase",
+    "plural": "Nasen",
+    "english": "nose",
+    "pronunciation": "dee nasuh",
+    "topic": "Body and health"
+  },
+  {
+    "id": 231,
+    "germanNoun": "der Mund",
+    "article": "der",
+    "word": "Mund",
+    "plural": "Münder",
+    "english": "mouth",
+    "pronunciation": "dair mund",
+    "topic": "Body and health"
+  },
+  {
+    "id": 232,
+    "germanNoun": "der Zahn",
+    "article": "der",
+    "word": "Zahn",
+    "plural": "Zähne",
+    "english": "tooth",
+    "pronunciation": "dair tsahn",
+    "topic": "Body and health"
+  },
+  {
+    "id": 233,
+    "germanNoun": "der Hals",
+    "article": "der",
+    "word": "Hals",
+    "plural": "Hälse",
+    "english": "neck / throat",
+    "pronunciation": "dair hals",
+    "topic": "Body and health"
+  },
+  {
+    "id": 234,
+    "germanNoun": "die Schulter",
+    "article": "die",
+    "word": "Schulter",
+    "plural": "Schultern",
+    "english": "shoulder",
+    "pronunciation": "dee shultair",
+    "topic": "Body and health"
+  },
+  {
+    "id": 235,
+    "germanNoun": "der Arm",
+    "article": "der",
+    "word": "Arm",
+    "plural": "Arme",
+    "english": "arm",
+    "pronunciation": "dair arm",
+    "topic": "Body and health"
+  },
+  {
+    "id": 236,
+    "germanNoun": "die Hand",
+    "article": "die",
+    "word": "Hand",
+    "plural": "Hände",
+    "english": "hand",
+    "pronunciation": "dee hand",
+    "topic": "Body and health"
+  },
+  {
+    "id": 237,
+    "germanNoun": "der Finger",
+    "article": "der",
+    "word": "Finger",
+    "plural": "Finger",
+    "english": "finger",
+    "pronunciation": "dair fingair",
+    "topic": "Body and health"
+  },
+  {
+    "id": 238,
+    "germanNoun": "der Bauch",
+    "article": "der",
+    "word": "Bauch",
+    "plural": "Bäuche",
+    "english": "stomach / belly",
+    "pronunciation": "dair bowkh",
+    "topic": "Body and health"
+  },
+  {
+    "id": 239,
+    "germanNoun": "der Rücken",
+    "article": "der",
+    "word": "Rücken",
+    "plural": "Rücken",
+    "english": "back",
+    "pronunciation": "dair rueckuhn",
+    "topic": "Body and health"
+  },
+  {
+    "id": 240,
+    "germanNoun": "das Bein",
+    "article": "das",
+    "word": "Bein",
+    "plural": "Beine",
+    "english": "leg",
+    "pronunciation": "das beyen",
+    "topic": "Body and health"
+  },
+  {
+    "id": 241,
+    "germanNoun": "das Knie",
+    "article": "das",
+    "word": "Knie",
+    "plural": "Knie",
+    "english": "knee",
+    "pronunciation": "das knee",
+    "topic": "Body and health"
+  },
+  {
+    "id": 242,
+    "germanNoun": "der Fuß",
+    "article": "der",
+    "word": "Fuß",
+    "plural": "Füße",
+    "english": "foot",
+    "pronunciation": "dair fuss",
+    "topic": "Body and health"
+  },
+  {
+    "id": 243,
+    "germanNoun": "das Herz",
+    "article": "das",
+    "word": "Herz",
+    "plural": "Herzen",
+    "english": "heart",
+    "pronunciation": "das hairts",
+    "topic": "Body and health"
+  },
+  {
+    "id": 244,
+    "germanNoun": "die Gesundheit",
+    "article": "die",
+    "word": "Gesundheit",
+    "plural": "—",
+    "english": "health",
+    "pronunciation": "dee guhsundheyet",
+    "topic": "Body and health"
+  },
+  {
+    "id": 245,
+    "germanNoun": "die Krankheit",
+    "article": "die",
+    "word": "Krankheit",
+    "plural": "Krankheiten",
+    "english": "illness",
+    "pronunciation": "dee krankheyet",
+    "topic": "Body and health"
+  },
+  {
+    "id": 246,
+    "germanNoun": "der Schmerz",
+    "article": "der",
+    "word": "Schmerz",
+    "plural": "Schmerzen",
+    "english": "pain",
+    "pronunciation": "dair shmairts",
+    "topic": "Body and health"
+  },
+  {
+    "id": 247,
+    "germanNoun": "der Kopfschmerz",
+    "article": "der",
+    "word": "Kopfschmerz",
+    "plural": "Kopfschmerzen",
+    "english": "headache",
+    "pronunciation": "dair kopfshmairts",
+    "topic": "Body and health"
+  },
+  {
+    "id": 248,
+    "germanNoun": "der Bauchschmerz",
+    "article": "der",
+    "word": "Bauchschmerz",
+    "plural": "Bauchschmerzen",
+    "english": "stomachache",
+    "pronunciation": "dair bowkhshmairts",
+    "topic": "Body and health"
+  },
+  {
+    "id": 249,
+    "germanNoun": "die Erkältung",
+    "article": "die",
+    "word": "Erkältung",
+    "plural": "Erkältungen",
+    "english": "cold",
+    "pronunciation": "dee airkehltung",
+    "topic": "Body and health"
+  },
+  {
+    "id": 250,
+    "germanNoun": "der Husten",
+    "article": "der",
+    "word": "Husten",
+    "plural": "—",
+    "english": "cough",
+    "pronunciation": "dair hushtuhn",
+    "topic": "Body and health"
+  },
+  {
+    "id": 251,
+    "germanNoun": "der Schnupfen",
+    "article": "der",
+    "word": "Schnupfen",
+    "plural": "—",
+    "english": "runny nose / cold",
+    "pronunciation": "dair shnupfuhn",
+    "topic": "Body and health"
+  },
+  {
+    "id": 252,
+    "germanNoun": "das Fieber",
+    "article": "das",
+    "word": "Fieber",
+    "plural": "—",
+    "english": "fever",
+    "pronunciation": "das feebair",
+    "topic": "Body and health"
+  },
+  {
+    "id": 253,
+    "germanNoun": "der Arzt",
+    "article": "der",
+    "word": "Arzt",
+    "plural": "Ärzte",
+    "english": "doctor",
+    "pronunciation": "dair artst",
+    "topic": "Body and health"
+  },
+  {
+    "id": 254,
+    "germanNoun": "die Ärztin",
+    "article": "die",
+    "word": "Ärztin",
+    "plural": "Ärztinnen",
+    "english": "female doctor",
+    "pronunciation": "dee ehrtstin",
+    "topic": "Body and health"
+  },
+  {
+    "id": 255,
+    "germanNoun": "der Zahnarzt",
+    "article": "der",
+    "word": "Zahnarzt",
+    "plural": "Zahnärzte",
+    "english": "dentist",
+    "pronunciation": "dair tsahnartst",
+    "topic": "Body and health"
+  },
+  {
+    "id": 256,
+    "germanNoun": "die Zahnärztin",
+    "article": "die",
+    "word": "Zahnärztin",
+    "plural": "Zahnärztinnen",
+    "english": "female dentist",
+    "pronunciation": "dee tsahnehrtstin",
+    "topic": "Body and health"
+  },
+  {
+    "id": 257,
+    "germanNoun": "das Krankenhaus",
+    "article": "das",
+    "word": "Krankenhaus",
+    "plural": "Krankenhäuser",
+    "english": "hospital",
+    "pronunciation": "das krankuhnhows",
+    "topic": "Body and health"
+  },
+  {
+    "id": 258,
+    "germanNoun": "die Praxis",
+    "article": "die",
+    "word": "Praxis",
+    "plural": "Praxen",
+    "english": "doctor's office",
+    "pronunciation": "dee praxis",
+    "topic": "Body and health"
+  },
+  {
+    "id": 259,
+    "germanNoun": "die Apotheke",
+    "article": "die",
+    "word": "Apotheke",
+    "plural": "Apotheken",
+    "english": "pharmacy",
+    "pronunciation": "dee apothuhkuh",
+    "topic": "Body and health"
+  },
+  {
+    "id": 260,
+    "germanNoun": "die Medizin",
+    "article": "die",
+    "word": "Medizin",
+    "plural": "—",
+    "english": "medicine",
+    "pronunciation": "dee muhditsin",
+    "topic": "Body and health"
+  },
+  {
+    "id": 261,
+    "germanNoun": "das Medikament",
+    "article": "das",
+    "word": "Medikament",
+    "plural": "Medikamente",
+    "english": "medication",
+    "pronunciation": "das muhdikamuhnt",
+    "topic": "Body and health"
+  },
+  {
+    "id": 262,
+    "germanNoun": "die Tablette",
+    "article": "die",
+    "word": "Tablette",
+    "plural": "Tabletten",
+    "english": "tablet / pill",
+    "pronunciation": "dee tabluhttuh",
+    "topic": "Body and health"
+  },
+  {
+    "id": 263,
+    "germanNoun": "das Rezept",
+    "article": "das",
+    "word": "Rezept",
+    "plural": "Rezepte",
+    "english": "prescription / recipe",
+    "pronunciation": "das ruhtsuhpt",
+    "topic": "Body and health"
+  },
+  {
+    "id": 264,
+    "germanNoun": "der Termin",
+    "article": "der",
+    "word": "Termin",
+    "plural": "Termine",
+    "english": "appointment",
+    "pronunciation": "dair tairmin",
+    "topic": "Body and health"
+  },
+  {
+    "id": 265,
+    "germanNoun": "die Schule",
+    "article": "die",
+    "word": "Schule",
+    "plural": "Schulen",
+    "english": "school",
+    "pronunciation": "dee shuluh",
+    "topic": "School and learning"
+  },
+  {
+    "id": 266,
+    "germanNoun": "der Kindergarten",
+    "article": "der",
+    "word": "Kindergarten",
+    "plural": "Kindergärten",
+    "english": "kindergarten",
+    "pronunciation": "dair kindairgartuhn",
+    "topic": "School and learning"
+  },
+  {
+    "id": 267,
+    "germanNoun": "die Universität",
+    "article": "die",
+    "word": "Universität",
+    "plural": "Universitäten",
+    "english": "university",
+    "pronunciation": "dee unifairsiteht",
+    "topic": "School and learning"
+  },
+  {
+    "id": 268,
+    "germanNoun": "der Kurs",
+    "article": "der",
+    "word": "Kurs",
+    "plural": "Kurse",
+    "english": "course",
+    "pronunciation": "dair kurs",
+    "topic": "School and learning"
+  },
+  {
+    "id": 269,
+    "germanNoun": "die Klasse",
+    "article": "die",
+    "word": "Klasse",
+    "plural": "Klassen",
+    "english": "class",
+    "pronunciation": "dee klassuh",
+    "topic": "School and learning"
+  },
+  {
+    "id": 270,
+    "germanNoun": "der Unterricht",
+    "article": "der",
+    "word": "Unterricht",
+    "plural": "—",
+    "english": "lesson / instruction",
+    "pronunciation": "dair untairrikht",
+    "topic": "School and learning"
+  },
+  {
+    "id": 271,
+    "germanNoun": "die Pause",
+    "article": "die",
+    "word": "Pause",
+    "plural": "Pausen",
+    "english": "break",
+    "pronunciation": "dee powsuh",
+    "topic": "School and learning"
+  },
+  {
+    "id": 272,
+    "germanNoun": "der Lehrer",
+    "article": "der",
+    "word": "Lehrer",
+    "plural": "Lehrer",
+    "english": "male teacher",
+    "pronunciation": "dair luhhrair",
+    "topic": "School and learning"
+  },
+  {
+    "id": 273,
+    "germanNoun": "die Lehrerin",
+    "article": "die",
+    "word": "Lehrerin",
+    "plural": "Lehrerinnen",
+    "english": "female teacher",
+    "pronunciation": "dee luhhrairin",
+    "topic": "School and learning"
+  },
+  {
+    "id": 274,
+    "germanNoun": "der Schüler",
+    "article": "der",
+    "word": "Schüler",
+    "plural": "Schüler",
+    "english": "male pupil",
+    "pronunciation": "dair shuelair",
+    "topic": "School and learning"
+  },
+  {
+    "id": 275,
+    "germanNoun": "die Schülerin",
+    "article": "die",
+    "word": "Schülerin",
+    "plural": "Schülerinnen",
+    "english": "female pupil",
+    "pronunciation": "dee shuelairin",
+    "topic": "School and learning"
+  },
+  {
+    "id": 276,
+    "germanNoun": "der Student",
+    "article": "der",
+    "word": "Student",
+    "plural": "Studenten",
+    "english": "male student",
+    "pronunciation": "dair shtuduhnt",
+    "topic": "School and learning"
+  },
+  {
+    "id": 277,
+    "germanNoun": "die Studentin",
+    "article": "die",
+    "word": "Studentin",
+    "plural": "Studentinnen",
+    "english": "female student",
+    "pronunciation": "dee shtuduhntin",
+    "topic": "School and learning"
+  },
+  {
+    "id": 278,
+    "germanNoun": "das Buch",
+    "article": "das",
+    "word": "Buch",
+    "plural": "Bücher",
+    "english": "book",
+    "pronunciation": "das bukh",
+    "topic": "School and learning"
+  },
+  {
+    "id": 279,
+    "germanNoun": "das Wörterbuch",
+    "article": "das",
+    "word": "Wörterbuch",
+    "plural": "Wörterbücher",
+    "english": "dictionary",
+    "pronunciation": "das furrtairbukh",
+    "topic": "School and learning"
+  },
+  {
+    "id": 280,
+    "germanNoun": "das Heft",
+    "article": "das",
+    "word": "Heft",
+    "plural": "Hefte",
+    "english": "exercise book",
+    "pronunciation": "das huhft",
+    "topic": "School and learning"
+  },
+  {
+    "id": 281,
+    "germanNoun": "das Papier",
+    "article": "das",
+    "word": "Papier",
+    "plural": "Papiere",
+    "english": "paper",
+    "pronunciation": "das papeer",
+    "topic": "School and learning"
+  },
+  {
+    "id": 282,
+    "germanNoun": "der Stift",
+    "article": "der",
+    "word": "Stift",
+    "plural": "Stifte",
+    "english": "pen",
+    "pronunciation": "dair shtift",
+    "topic": "School and learning"
+  },
+  {
+    "id": 283,
+    "germanNoun": "der Kugelschreiber",
+    "article": "der",
+    "word": "Kugelschreiber",
+    "plural": "Kugelschreiber",
+    "english": "ballpoint pen",
+    "pronunciation": "dair kuguhlshreyebair",
+    "topic": "School and learning"
+  },
+  {
+    "id": 284,
+    "germanNoun": "der Bleistift",
+    "article": "der",
+    "word": "Bleistift",
+    "plural": "Bleistifte",
+    "english": "pencil",
+    "pronunciation": "dair bleyeshtift",
+    "topic": "School and learning"
+  },
+  {
+    "id": 285,
+    "germanNoun": "der Radiergummi",
+    "article": "der",
+    "word": "Radiergummi",
+    "plural": "Radiergummis",
+    "english": "eraser",
+    "pronunciation": "dair radeergummi",
+    "topic": "School and learning"
+  },
+  {
+    "id": 286,
+    "germanNoun": "die Tafel",
+    "article": "die",
+    "word": "Tafel",
+    "plural": "Tafeln",
+    "english": "board",
+    "pronunciation": "dee tafuhl",
+    "topic": "School and learning"
+  },
+  {
+    "id": 287,
+    "germanNoun": "die Aufgabe",
+    "article": "die",
+    "word": "Aufgabe",
+    "plural": "Aufgaben",
+    "english": "task / exercise",
+    "pronunciation": "dee owfgabuh",
+    "topic": "School and learning"
+  },
+  {
+    "id": 288,
+    "germanNoun": "die Hausaufgabe",
+    "article": "die",
+    "word": "Hausaufgabe",
+    "plural": "Hausaufgaben",
+    "english": "homework",
+    "pronunciation": "dee howsowfgabuh",
+    "topic": "School and learning"
+  },
+  {
+    "id": 289,
+    "germanNoun": "die Übung",
+    "article": "die",
+    "word": "Übung",
+    "plural": "Übungen",
+    "english": "exercise",
+    "pronunciation": "dee uebung",
+    "topic": "School and learning"
+  },
+  {
+    "id": 290,
+    "germanNoun": "die Prüfung",
+    "article": "die",
+    "word": "Prüfung",
+    "plural": "Prüfungen",
+    "english": "exam",
+    "pronunciation": "dee pruefung",
+    "topic": "School and learning"
+  },
+  {
+    "id": 291,
+    "germanNoun": "die Frage",
+    "article": "die",
+    "word": "Frage",
+    "plural": "Fragen",
+    "english": "question",
+    "pronunciation": "dee fraguh",
+    "topic": "School and learning"
+  },
+  {
+    "id": 292,
+    "germanNoun": "die Antwort",
+    "article": "die",
+    "word": "Antwort",
+    "plural": "Antworten",
+    "english": "answer",
+    "pronunciation": "dee antfort",
+    "topic": "School and learning"
+  },
+  {
+    "id": 293,
+    "germanNoun": "das Beispiel",
+    "article": "das",
+    "word": "Beispiel",
+    "plural": "Beispiele",
+    "english": "example",
+    "pronunciation": "das beyeshpeel",
+    "topic": "School and learning"
+  },
+  {
+    "id": 294,
+    "germanNoun": "das Wort",
+    "article": "das",
+    "word": "Wort",
+    "plural": "Wörter",
+    "english": "word",
+    "pronunciation": "das fort",
+    "topic": "School and learning"
+  },
+  {
+    "id": 295,
+    "germanNoun": "der Satz",
+    "article": "der",
+    "word": "Satz",
+    "plural": "Sätze",
+    "english": "sentence",
+    "pronunciation": "dair satts",
+    "topic": "School and learning"
+  },
+  {
+    "id": 296,
+    "germanNoun": "der Text",
+    "article": "der",
+    "word": "Text",
+    "plural": "Texte",
+    "english": "text",
+    "pronunciation": "dair tuhxt",
+    "topic": "School and learning"
+  },
+  {
+    "id": 297,
+    "germanNoun": "die Sprache",
+    "article": "die",
+    "word": "Sprache",
+    "plural": "Sprachen",
+    "english": "language",
+    "pronunciation": "dee shprakhuh",
+    "topic": "School and learning"
+  },
+  {
+    "id": 298,
+    "germanNoun": "das Deutsch",
+    "article": "das",
+    "word": "Deutsch",
+    "plural": "—",
+    "english": "German language",
+    "pronunciation": "das doych",
+    "topic": "School and learning"
+  },
+  {
+    "id": 299,
+    "germanNoun": "der Buchstabe",
+    "article": "der",
+    "word": "Buchstabe",
+    "plural": "Buchstaben",
+    "english": "letter of alphabet",
+    "pronunciation": "dair bukhshtabuh",
+    "topic": "School and learning"
+  },
+  {
+    "id": 300,
+    "germanNoun": "die Zahl",
+    "article": "die",
+    "word": "Zahl",
+    "plural": "Zahlen",
+    "english": "number",
+    "pronunciation": "dee tsahl",
+    "topic": "School and learning"
+  },
+  {
+    "id": 301,
+    "germanNoun": "die Note",
+    "article": "die",
+    "word": "Note",
+    "plural": "Noten",
+    "english": "grade / note",
+    "pronunciation": "dee notuh",
+    "topic": "School and learning"
+  },
+  {
+    "id": 302,
+    "germanNoun": "der Fehler",
+    "article": "der",
+    "word": "Fehler",
+    "plural": "Fehler",
+    "english": "mistake",
+    "pronunciation": "dair fuhhlair",
+    "topic": "School and learning"
+  },
+  {
+    "id": 303,
+    "germanNoun": "die Arbeit",
+    "article": "die",
+    "word": "Arbeit",
+    "plural": "Arbeiten",
+    "english": "work / job",
+    "pronunciation": "dee arbeyet",
+    "topic": "Work and occupations"
+  },
+  {
+    "id": 304,
+    "germanNoun": "der Beruf",
+    "article": "der",
+    "word": "Beruf",
+    "plural": "Berufe",
+    "english": "profession",
+    "pronunciation": "dair bairuf",
+    "topic": "Work and occupations"
+  },
+  {
+    "id": 305,
+    "germanNoun": "die Firma",
+    "article": "die",
+    "word": "Firma",
+    "plural": "Firmen",
+    "english": "company",
+    "pronunciation": "dee firma",
+    "topic": "Work and occupations"
+  },
+  {
+    "id": 306,
+    "germanNoun": "das Büro",
+    "article": "das",
+    "word": "Büro",
+    "plural": "Büros",
+    "english": "office",
+    "pronunciation": "das buero",
+    "topic": "Work and occupations"
+  },
+  {
+    "id": 307,
+    "germanNoun": "der Arbeitsplatz",
+    "article": "der",
+    "word": "Arbeitsplatz",
+    "plural": "Arbeitsplätze",
+    "english": "workplace",
+    "pronunciation": "dair arbeyetshplatts",
+    "topic": "Work and occupations"
+  },
+  {
+    "id": 308,
+    "germanNoun": "der Chef",
+    "article": "der",
+    "word": "Chef",
+    "plural": "Chefs",
+    "english": "male boss",
+    "pronunciation": "dair khuhf",
+    "topic": "Work and occupations"
+  },
+  {
+    "id": 309,
+    "germanNoun": "die Chefin",
+    "article": "die",
+    "word": "Chefin",
+    "plural": "Chefinnen",
+    "english": "female boss",
+    "pronunciation": "dee khuhfin",
+    "topic": "Work and occupations"
+  },
+  {
+    "id": 310,
+    "germanNoun": "der Kollege",
+    "article": "der",
+    "word": "Kollege",
+    "plural": "Kollegen",
+    "english": "male colleague",
+    "pronunciation": "dair kolluhguh",
+    "topic": "Work and occupations"
+  },
+  {
+    "id": 311,
+    "germanNoun": "die Kollegin",
+    "article": "die",
+    "word": "Kollegin",
+    "plural": "Kolleginnen",
+    "english": "female colleague",
+    "pronunciation": "dee kolluhgin",
+    "topic": "Work and occupations"
+  },
+  {
+    "id": 312,
+    "germanNoun": "der Mitarbeiter",
+    "article": "der",
+    "word": "Mitarbeiter",
+    "plural": "Mitarbeiter",
+    "english": "male employee",
+    "pronunciation": "dair mitarbeyetair",
+    "topic": "Work and occupations"
+  },
+  {
+    "id": 313,
+    "germanNoun": "die Mitarbeiterin",
+    "article": "die",
+    "word": "Mitarbeiterin",
+    "plural": "Mitarbeiterinnen",
+    "english": "female employee",
+    "pronunciation": "dee mitarbeyetairin",
+    "topic": "Work and occupations"
+  },
+  {
+    "id": 314,
+    "germanNoun": "der Kunde",
+    "article": "der",
+    "word": "Kunde",
+    "plural": "Kunden",
+    "english": "male customer",
+    "pronunciation": "dair kunduh",
+    "topic": "Work and occupations"
+  },
+  {
+    "id": 315,
+    "germanNoun": "die Kundin",
+    "article": "die",
+    "word": "Kundin",
+    "plural": "Kundinnen",
+    "english": "female customer",
+    "pronunciation": "dee kundin",
+    "topic": "Work and occupations"
+  },
+  {
+    "id": 316,
+    "germanNoun": "der Verkäufer",
+    "article": "der",
+    "word": "Verkäufer",
+    "plural": "Verkäufer",
+    "english": "salesman",
+    "pronunciation": "dair fairkoyfair",
+    "topic": "Work and occupations"
+  },
+  {
+    "id": 317,
+    "germanNoun": "die Verkäuferin",
+    "article": "die",
+    "word": "Verkäuferin",
+    "plural": "Verkäuferinnen",
+    "english": "saleswoman",
+    "pronunciation": "dee fairkoyfairin",
+    "topic": "Work and occupations"
+  },
+  {
+    "id": 318,
+    "germanNoun": "der Kellner",
+    "article": "der",
+    "word": "Kellner",
+    "plural": "Kellner",
+    "english": "waiter",
+    "pronunciation": "dair kuhllnair",
+    "topic": "Work and occupations"
+  },
+  {
+    "id": 319,
+    "germanNoun": "die Kellnerin",
+    "article": "die",
+    "word": "Kellnerin",
+    "plural": "Kellnerinnen",
+    "english": "waitress",
+    "pronunciation": "dee kuhllnairin",
+    "topic": "Work and occupations"
+  },
+  {
+    "id": 320,
+    "germanNoun": "der Koch",
+    "article": "der",
+    "word": "Koch",
+    "plural": "Köche",
+    "english": "cook / chef",
+    "pronunciation": "dair kokh",
+    "topic": "Work and occupations"
+  },
+  {
+    "id": 321,
+    "germanNoun": "die Köchin",
+    "article": "die",
+    "word": "Köchin",
+    "plural": "Köchinnen",
+    "english": "female cook",
+    "pronunciation": "dee kurkhin",
+    "topic": "Work and occupations"
+  },
+  {
+    "id": 322,
+    "germanNoun": "der Fahrer",
+    "article": "der",
+    "word": "Fahrer",
+    "plural": "Fahrer",
+    "english": "driver",
+    "pronunciation": "dair fahrair",
+    "topic": "Work and occupations"
+  },
+  {
+    "id": 323,
+    "germanNoun": "die Fahrerin",
+    "article": "die",
+    "word": "Fahrerin",
+    "plural": "Fahrerinnen",
+    "english": "female driver",
+    "pronunciation": "dee fahrairin",
+    "topic": "Work and occupations"
+  },
+  {
+    "id": 324,
+    "germanNoun": "der Polizist",
+    "article": "der",
+    "word": "Polizist",
+    "plural": "Polizisten",
+    "english": "policeman",
+    "pronunciation": "dair politsisht",
+    "topic": "Work and occupations"
+  },
+  {
+    "id": 325,
+    "germanNoun": "die Polizistin",
+    "article": "die",
+    "word": "Polizistin",
+    "plural": "Polizistinnen",
+    "english": "policewoman",
+    "pronunciation": "dee politsishtin",
+    "topic": "Work and occupations"
+  },
+  {
+    "id": 326,
+    "germanNoun": "der Mechaniker",
+    "article": "der",
+    "word": "Mechaniker",
+    "plural": "Mechaniker",
+    "english": "mechanic",
+    "pronunciation": "dair muhkhanikair",
+    "topic": "Work and occupations"
+  },
+  {
+    "id": 327,
+    "germanNoun": "die Sekretärin",
+    "article": "die",
+    "word": "Sekretärin",
+    "plural": "Sekretärinnen",
+    "english": "secretary",
+    "pronunciation": "dee suhkruhtehrin",
+    "topic": "Work and occupations"
+  },
+  {
+    "id": 328,
+    "germanNoun": "der Friseur",
+    "article": "der",
+    "word": "Friseur",
+    "plural": "Friseure",
+    "english": "hairdresser",
+    "pronunciation": "dair frisoyr",
+    "topic": "Work and occupations"
+  },
+  {
+    "id": 329,
+    "germanNoun": "die Friseurin",
+    "article": "die",
+    "word": "Friseurin",
+    "plural": "Friseurinnen",
+    "english": "female hairdresser",
+    "pronunciation": "dee frisoyrin",
+    "topic": "Work and occupations"
+  },
+  {
+    "id": 330,
+    "germanNoun": "der Ingenieur",
+    "article": "der",
+    "word": "Ingenieur",
+    "plural": "Ingenieure",
+    "english": "engineer",
+    "pronunciation": "dair inguhneeur",
+    "topic": "Work and occupations"
+  },
+  {
+    "id": 331,
+    "germanNoun": "die Ingenieurin",
+    "article": "die",
+    "word": "Ingenieurin",
+    "plural": "Ingenieurinnen",
+    "english": "female engineer",
+    "pronunciation": "dee inguhneeurin",
+    "topic": "Work and occupations"
+  },
+  {
+    "id": 332,
+    "germanNoun": "der Vertrag",
+    "article": "der",
+    "word": "Vertrag",
+    "plural": "Verträge",
+    "english": "contract",
+    "pronunciation": "dair fairtrag",
+    "topic": "Work and occupations"
+  },
+  {
+    "id": 333,
+    "germanNoun": "die Stelle",
+    "article": "die",
+    "word": "Stelle",
+    "plural": "Stellen",
+    "english": "position / job",
+    "pronunciation": "dee shtuhlluh",
+    "topic": "Work and occupations"
+  },
+  {
+    "id": 334,
+    "germanNoun": "die Bewerbung",
+    "article": "die",
+    "word": "Bewerbung",
+    "plural": "Bewerbungen",
+    "english": "application",
+    "pronunciation": "dee buhfairbung",
+    "topic": "Work and occupations"
+  },
+  {
+    "id": 335,
+    "germanNoun": "der Lebenslauf",
+    "article": "der",
+    "word": "Lebenslauf",
+    "plural": "Lebensläufe",
+    "english": "CV / résumé",
+    "pronunciation": "dair luhbuhnslowf",
+    "topic": "Work and occupations"
+  },
+  {
+    "id": 336,
+    "germanNoun": "das Gehalt",
+    "article": "das",
+    "word": "Gehalt",
+    "plural": "Gehälter",
+    "english": "salary",
+    "pronunciation": "das guhhalt",
+    "topic": "Work and occupations"
+  },
+  {
+    "id": 337,
+    "germanNoun": "das Geld",
+    "article": "das",
+    "word": "Geld",
+    "plural": "—",
+    "english": "money",
+    "pronunciation": "das guhld",
+    "topic": "Work and occupations"
+  },
+  {
+    "id": 338,
+    "germanNoun": "das Geschäft",
+    "article": "das",
+    "word": "Geschäft",
+    "plural": "Geschäfte",
+    "english": "shop / business",
+    "pronunciation": "das guhshehft",
+    "topic": "Shopping and services"
+  },
+  {
+    "id": 339,
+    "germanNoun": "der Laden",
+    "article": "der",
+    "word": "Laden",
+    "plural": "Läden",
+    "english": "shop",
+    "pronunciation": "dair laduhn",
+    "topic": "Shopping and services"
+  },
+  {
+    "id": 340,
+    "germanNoun": "der Supermarkt",
+    "article": "der",
+    "word": "Supermarkt",
+    "plural": "Supermärkte",
+    "english": "supermarket",
+    "pronunciation": "dair supairmarkt",
+    "topic": "Shopping and services"
+  },
+  {
+    "id": 341,
+    "germanNoun": "der Markt",
+    "article": "der",
+    "word": "Markt",
+    "plural": "Märkte",
+    "english": "market",
+    "pronunciation": "dair markt",
+    "topic": "Shopping and services"
+  },
+  {
+    "id": 342,
+    "germanNoun": "die Bäckerei",
+    "article": "die",
+    "word": "Bäckerei",
+    "plural": "Bäckereien",
+    "english": "bakery",
+    "pronunciation": "dee behckaireye",
+    "topic": "Shopping and services"
+  },
+  {
+    "id": 343,
+    "germanNoun": "die Metzgerei",
+    "article": "die",
+    "word": "Metzgerei",
+    "plural": "Metzgereien",
+    "english": "butcher's shop",
+    "pronunciation": "dee muhttsgaireye",
+    "topic": "Shopping and services"
+  },
+  {
+    "id": 344,
+    "germanNoun": "das Kaufhaus",
+    "article": "das",
+    "word": "Kaufhaus",
+    "plural": "Kaufhäuser",
+    "english": "department store",
+    "pronunciation": "das kowfhows",
+    "topic": "Shopping and services"
+  },
+  {
+    "id": 345,
+    "germanNoun": "das Einkaufszentrum",
+    "article": "das",
+    "word": "Einkaufszentrum",
+    "plural": "Einkaufszentren",
+    "english": "shopping center",
+    "pronunciation": "das eyenkowfstsuhntrum",
+    "topic": "Shopping and services"
+  },
+  {
+    "id": 346,
+    "germanNoun": "die Kasse",
+    "article": "die",
+    "word": "Kasse",
+    "plural": "Kassen",
+    "english": "checkout / cash desk",
+    "pronunciation": "dee kassuh",
+    "topic": "Shopping and services"
+  },
+  {
+    "id": 347,
+    "germanNoun": "der Preis",
+    "article": "der",
+    "word": "Preis",
+    "plural": "Preise",
+    "english": "price",
+    "pronunciation": "dair preyes",
+    "topic": "Shopping and services"
+  },
+  {
+    "id": 348,
+    "germanNoun": "der Euro",
+    "article": "der",
+    "word": "Euro",
+    "plural": "Euro",
+    "english": "euro",
+    "pronunciation": "dair oyro",
+    "topic": "Shopping and services"
+  },
+  {
+    "id": 349,
+    "germanNoun": "der Cent",
+    "article": "der",
+    "word": "Cent",
+    "plural": "Cent",
+    "english": "cent",
+    "pronunciation": "dair cuhnt",
+    "topic": "Shopping and services"
+  },
+  {
+    "id": 350,
+    "germanNoun": "die Rechnung",
+    "article": "die",
+    "word": "Rechnung",
+    "plural": "Rechnungen",
+    "english": "bill / invoice",
+    "pronunciation": "dee ruhkhnung",
+    "topic": "Shopping and services"
+  },
+  {
+    "id": 351,
+    "germanNoun": "der Kassenbon",
+    "article": "der",
+    "word": "Kassenbon",
+    "plural": "Kassenbons",
+    "english": "receipt",
+    "pronunciation": "dair kassuhnbon",
+    "topic": "Shopping and services"
+  },
+  {
+    "id": 352,
+    "germanNoun": "das Angebot",
+    "article": "das",
+    "word": "Angebot",
+    "plural": "Angebote",
+    "english": "offer / special",
+    "pronunciation": "das anguhbot",
+    "topic": "Shopping and services"
+  },
+  {
+    "id": 353,
+    "germanNoun": "der Rabatt",
+    "article": "der",
+    "word": "Rabatt",
+    "plural": "Rabatte",
+    "english": "discount",
+    "pronunciation": "dair rabatt",
+    "topic": "Shopping and services"
+  },
+  {
+    "id": 354,
+    "germanNoun": "die Kreditkarte",
+    "article": "die",
+    "word": "Kreditkarte",
+    "plural": "Kreditkarten",
+    "english": "credit card",
+    "pronunciation": "dee kruhditkartuh",
+    "topic": "Shopping and services"
+  },
+  {
+    "id": 355,
+    "germanNoun": "die Bankkarte",
+    "article": "die",
+    "word": "Bankkarte",
+    "plural": "Bankkarten",
+    "english": "bank card",
+    "pronunciation": "dee bankkartuh",
+    "topic": "Shopping and services"
+  },
+  {
+    "id": 356,
+    "germanNoun": "das Bargeld",
+    "article": "das",
+    "word": "Bargeld",
+    "plural": "—",
+    "english": "cash",
+    "pronunciation": "das barguhld",
+    "topic": "Shopping and services"
+  },
+  {
+    "id": 357,
+    "germanNoun": "die Bank",
+    "article": "die",
+    "word": "Bank",
+    "plural": "Banken",
+    "english": "bank",
+    "pronunciation": "dee bank",
+    "topic": "Shopping and services"
+  },
+  {
+    "id": 358,
+    "germanNoun": "das Konto",
+    "article": "das",
+    "word": "Konto",
+    "plural": "Konten",
+    "english": "account",
+    "pronunciation": "das konto",
+    "topic": "Shopping and services"
+  },
+  {
+    "id": 359,
+    "germanNoun": "der Geldautomat",
+    "article": "der",
+    "word": "Geldautomat",
+    "plural": "Geldautomaten",
+    "english": "ATM",
+    "pronunciation": "dair guhldowtomat",
+    "topic": "Shopping and services"
+  },
+  {
+    "id": 360,
+    "germanNoun": "die Post",
+    "article": "die",
+    "word": "Post",
+    "plural": "—",
+    "english": "post office / mail",
+    "pronunciation": "dee posht",
+    "topic": "Shopping and services"
+  },
+  {
+    "id": 361,
+    "germanNoun": "das Paket",
+    "article": "das",
+    "word": "Paket",
+    "plural": "Pakete",
+    "english": "parcel",
+    "pronunciation": "das pakuht",
+    "topic": "Shopping and services"
+  },
+  {
+    "id": 362,
+    "germanNoun": "der Brief",
+    "article": "der",
+    "word": "Brief",
+    "plural": "Briefe",
+    "english": "letter",
+    "pronunciation": "dair breef",
+    "topic": "Shopping and services"
+  },
+  {
+    "id": 363,
+    "germanNoun": "die Briefmarke",
+    "article": "die",
+    "word": "Briefmarke",
+    "plural": "Briefmarken",
+    "english": "postage stamp",
+    "pronunciation": "dee breefmarkuh",
+    "topic": "Shopping and services"
+  },
+  {
+    "id": 364,
+    "germanNoun": "der Umschlag",
+    "article": "der",
+    "word": "Umschlag",
+    "plural": "Umschläge",
+    "english": "envelope",
+    "pronunciation": "dair umshlag",
+    "topic": "Shopping and services"
+  },
+  {
+    "id": 365,
+    "germanNoun": "der Friseurtermin",
+    "article": "der",
+    "word": "Friseurtermin",
+    "plural": "Friseurtermine",
+    "english": "hair appointment",
+    "pronunciation": "dair frisoyrtairmin",
+    "topic": "Shopping and services"
+  },
+  {
+    "id": 366,
+    "germanNoun": "die Reinigung",
+    "article": "die",
+    "word": "Reinigung",
+    "plural": "Reinigungen",
+    "english": "cleaning / dry cleaner's",
+    "pronunciation": "dee reyenigung",
+    "topic": "Shopping and services"
+  },
+  {
+    "id": 367,
+    "germanNoun": "die Stadt",
+    "article": "die",
+    "word": "Stadt",
+    "plural": "Städte",
+    "english": "city",
+    "pronunciation": "dee shtadt",
+    "topic": "Town and public places"
+  },
+  {
+    "id": 368,
+    "germanNoun": "das Dorf",
+    "article": "das",
+    "word": "Dorf",
+    "plural": "Dörfer",
+    "english": "village",
+    "pronunciation": "das dorf",
+    "topic": "Town and public places"
+  },
+  {
+    "id": 369,
+    "germanNoun": "das Land",
+    "article": "das",
+    "word": "Land",
+    "plural": "Länder",
+    "english": "country",
+    "pronunciation": "das land",
+    "topic": "Town and public places"
+  },
+  {
+    "id": 370,
+    "germanNoun": "die Straße",
+    "article": "die",
+    "word": "Straße",
+    "plural": "Straßen",
+    "english": "street",
+    "pronunciation": "dee shtrassuh",
+    "topic": "Town and public places"
+  },
+  {
+    "id": 371,
+    "germanNoun": "der Weg",
+    "article": "der",
+    "word": "Weg",
+    "plural": "Wege",
+    "english": "way / path",
+    "pronunciation": "dair fuhg",
+    "topic": "Town and public places"
+  },
+  {
+    "id": 372,
+    "germanNoun": "der Platz",
+    "article": "der",
+    "word": "Platz",
+    "plural": "Plätze",
+    "english": "place / square",
+    "pronunciation": "dair platts",
+    "topic": "Town and public places"
+  },
+  {
+    "id": 373,
+    "germanNoun": "die Kreuzung",
+    "article": "die",
+    "word": "Kreuzung",
+    "plural": "Kreuzungen",
+    "english": "intersection",
+    "pronunciation": "dee kroytsung",
+    "topic": "Town and public places"
+  },
+  {
+    "id": 374,
+    "germanNoun": "die Ampel",
+    "article": "die",
+    "word": "Ampel",
+    "plural": "Ampeln",
+    "english": "traffic light",
+    "pronunciation": "dee ampuhl",
+    "topic": "Town and public places"
+  },
+  {
+    "id": 375,
+    "germanNoun": "die Brücke",
+    "article": "die",
+    "word": "Brücke",
+    "plural": "Brücken",
+    "english": "bridge",
+    "pronunciation": "dee brueckuh",
+    "topic": "Town and public places"
+  },
+  {
+    "id": 376,
+    "germanNoun": "der Park",
+    "article": "der",
+    "word": "Park",
+    "plural": "Parks",
+    "english": "park",
+    "pronunciation": "dair park",
+    "topic": "Town and public places"
+  },
+  {
+    "id": 377,
+    "germanNoun": "der Spielplatz",
+    "article": "der",
+    "word": "Spielplatz",
+    "plural": "Spielplätze",
+    "english": "playground",
+    "pronunciation": "dair shpeelplatts",
+    "topic": "Town and public places"
+  },
+  {
+    "id": 378,
+    "germanNoun": "das Rathaus",
+    "article": "das",
+    "word": "Rathaus",
+    "plural": "Rathäuser",
+    "english": "town hall",
+    "pronunciation": "das rathows",
+    "topic": "Town and public places"
+  },
+  {
+    "id": 379,
+    "germanNoun": "das Amt",
+    "article": "das",
+    "word": "Amt",
+    "plural": "Ämter",
+    "english": "public office",
+    "pronunciation": "das amt",
+    "topic": "Town and public places"
+  },
+  {
+    "id": 380,
+    "germanNoun": "die Polizei",
+    "article": "die",
+    "word": "Polizei",
+    "plural": "—",
+    "english": "police",
+    "pronunciation": "dee politseye",
+    "topic": "Town and public places"
+  },
+  {
+    "id": 381,
+    "germanNoun": "die Feuerwehr",
+    "article": "die",
+    "word": "Feuerwehr",
+    "plural": "Feuerwehren",
+    "english": "fire brigade",
+    "pronunciation": "dee foyairfuhhr",
+    "topic": "Town and public places"
+  },
+  {
+    "id": 382,
+    "germanNoun": "die Kirche",
+    "article": "die",
+    "word": "Kirche",
+    "plural": "Kirchen",
+    "english": "church",
+    "pronunciation": "dee kirkhuh",
+    "topic": "Town and public places"
+  },
+  {
+    "id": 383,
+    "germanNoun": "die Moschee",
+    "article": "die",
+    "word": "Moschee",
+    "plural": "Moscheen",
+    "english": "mosque",
+    "pronunciation": "dee moshuhuh",
+    "topic": "Town and public places"
+  },
+  {
+    "id": 384,
+    "germanNoun": "das Museum",
+    "article": "das",
+    "word": "Museum",
+    "plural": "Museen",
+    "english": "museum",
+    "pronunciation": "das musoym",
+    "topic": "Town and public places"
+  },
+  {
+    "id": 385,
+    "germanNoun": "das Theater",
+    "article": "das",
+    "word": "Theater",
+    "plural": "Theater",
+    "english": "theater",
+    "pronunciation": "das thuhatair",
+    "topic": "Town and public places"
+  },
+  {
+    "id": 386,
+    "germanNoun": "das Kino",
+    "article": "das",
+    "word": "Kino",
+    "plural": "Kinos",
+    "english": "cinema",
+    "pronunciation": "das kino",
+    "topic": "Town and public places"
+  },
+  {
+    "id": 387,
+    "germanNoun": "die Bibliothek",
+    "article": "die",
+    "word": "Bibliothek",
+    "plural": "Bibliotheken",
+    "english": "library",
+    "pronunciation": "dee bibliothuhk",
+    "topic": "Town and public places"
+  },
+  {
+    "id": 388,
+    "germanNoun": "das Restaurant",
+    "article": "das",
+    "word": "Restaurant",
+    "plural": "Restaurants",
+    "english": "restaurant",
+    "pronunciation": "das ruhshtowrant",
+    "topic": "Town and public places"
+  },
+  {
+    "id": 389,
+    "germanNoun": "das Café",
+    "article": "das",
+    "word": "Café",
+    "plural": "Cafés",
+    "english": "café",
+    "pronunciation": "das café",
+    "topic": "Town and public places"
+  },
+  {
+    "id": 390,
+    "germanNoun": "die Bar",
+    "article": "die",
+    "word": "Bar",
+    "plural": "Bars",
+    "english": "bar",
+    "pronunciation": "dee bar",
+    "topic": "Town and public places"
+  },
+  {
+    "id": 391,
+    "germanNoun": "das Hotel",
+    "article": "das",
+    "word": "Hotel",
+    "plural": "Hotels",
+    "english": "hotel",
+    "pronunciation": "das hotuhl",
+    "topic": "Town and public places"
+  },
+  {
+    "id": 392,
+    "germanNoun": "die Rezeption",
+    "article": "die",
+    "word": "Rezeption",
+    "plural": "Rezeptionen",
+    "english": "reception desk",
+    "pronunciation": "dee ruhtsuhption",
+    "topic": "Town and public places"
+  },
+  {
+    "id": 393,
+    "germanNoun": "das Schwimmbad",
+    "article": "das",
+    "word": "Schwimmbad",
+    "plural": "Schwimmbäder",
+    "english": "swimming pool",
+    "pronunciation": "das shfimmbad",
+    "topic": "Town and public places"
+  },
+  {
+    "id": 394,
+    "germanNoun": "das Stadion",
+    "article": "das",
+    "word": "Stadion",
+    "plural": "Stadien",
+    "english": "stadium",
+    "pronunciation": "das shtadion",
+    "topic": "Town and public places"
+  },
+  {
+    "id": 395,
+    "germanNoun": "der Bahnhof",
+    "article": "der",
+    "word": "Bahnhof",
+    "plural": "Bahnhöfe",
+    "english": "train station",
+    "pronunciation": "dair bahnhof",
+    "topic": "Town and public places"
+  },
+  {
+    "id": 396,
+    "germanNoun": "die Haltestelle",
+    "article": "die",
+    "word": "Haltestelle",
+    "plural": "Haltestellen",
+    "english": "stop / station",
+    "pronunciation": "dee haltuhshtuhlluh",
+    "topic": "Town and public places"
+  },
+  {
+    "id": 397,
+    "germanNoun": "der Flughafen",
+    "article": "der",
+    "word": "Flughafen",
+    "plural": "Flughäfen",
+    "english": "airport",
+    "pronunciation": "dair flughafuhn",
+    "topic": "Town and public places"
+  },
+  {
+    "id": 398,
+    "germanNoun": "der Hafen",
+    "article": "der",
+    "word": "Hafen",
+    "plural": "Häfen",
+    "english": "harbor",
+    "pronunciation": "dair hafuhn",
+    "topic": "Town and public places"
+  },
+  {
+    "id": 399,
+    "germanNoun": "die Reise",
+    "article": "die",
+    "word": "Reise",
+    "plural": "Reisen",
+    "english": "journey / trip",
+    "pronunciation": "dee reyesuh",
+    "topic": "Transport and travel"
+  },
+  {
+    "id": 400,
+    "germanNoun": "der Urlaub",
+    "article": "der",
+    "word": "Urlaub",
+    "plural": "Urlaube",
+    "english": "vacation",
+    "pronunciation": "dair urlowb",
+    "topic": "Transport and travel"
+  },
+  {
+    "id": 401,
+    "germanNoun": "das Auto",
+    "article": "das",
+    "word": "Auto",
+    "plural": "Autos",
+    "english": "car",
+    "pronunciation": "das owto",
+    "topic": "Transport and travel"
+  },
+  {
+    "id": 402,
+    "germanNoun": "der Wagen",
+    "article": "der",
+    "word": "Wagen",
+    "plural": "Wagen",
+    "english": "car / carriage",
+    "pronunciation": "dair faguhn",
+    "topic": "Transport and travel"
+  },
+  {
+    "id": 403,
+    "germanNoun": "der Bus",
+    "article": "der",
+    "word": "Bus",
+    "plural": "Busse",
+    "english": "bus",
+    "pronunciation": "dair bus",
+    "topic": "Transport and travel"
+  },
+  {
+    "id": 404,
+    "germanNoun": "die Straßenbahn",
+    "article": "die",
+    "word": "Straßenbahn",
+    "plural": "Straßenbahnen",
+    "english": "tram",
+    "pronunciation": "dee shtrassuhnbahn",
+    "topic": "Transport and travel"
+  },
+  {
+    "id": 405,
+    "germanNoun": "die U-Bahn",
+    "article": "die",
+    "word": "U-Bahn",
+    "plural": "U-Bahnen",
+    "english": "subway",
+    "pronunciation": "dee u-bahn",
+    "topic": "Transport and travel"
+  },
+  {
+    "id": 406,
+    "germanNoun": "die S-Bahn",
+    "article": "die",
+    "word": "S-Bahn",
+    "plural": "S-Bahnen",
+    "english": "city train",
+    "pronunciation": "dee s-bahn",
+    "topic": "Transport and travel"
+  },
+  {
+    "id": 407,
+    "germanNoun": "der Zug",
+    "article": "der",
+    "word": "Zug",
+    "plural": "Züge",
+    "english": "train",
+    "pronunciation": "dair tsug",
+    "topic": "Transport and travel"
+  },
+  {
+    "id": 408,
+    "germanNoun": "das Taxi",
+    "article": "das",
+    "word": "Taxi",
+    "plural": "Taxis",
+    "english": "taxi",
+    "pronunciation": "das taxi",
+    "topic": "Transport and travel"
+  },
+  {
+    "id": 409,
+    "germanNoun": "das Fahrrad",
+    "article": "das",
+    "word": "Fahrrad",
+    "plural": "Fahrräder",
+    "english": "bicycle",
+    "pronunciation": "das fahrrad",
+    "topic": "Transport and travel"
+  },
+  {
+    "id": 410,
+    "germanNoun": "das Motorrad",
+    "article": "das",
+    "word": "Motorrad",
+    "plural": "Motorräder",
+    "english": "motorcycle",
+    "pronunciation": "das motorrad",
+    "topic": "Transport and travel"
+  },
+  {
+    "id": 411,
+    "germanNoun": "das Flugzeug",
+    "article": "das",
+    "word": "Flugzeug",
+    "plural": "Flugzeuge",
+    "english": "airplane",
+    "pronunciation": "das flugtsoyg",
+    "topic": "Transport and travel"
+  },
+  {
+    "id": 412,
+    "germanNoun": "das Schiff",
+    "article": "das",
+    "word": "Schiff",
+    "plural": "Schiffe",
+    "english": "ship",
+    "pronunciation": "das shiff",
+    "topic": "Transport and travel"
+  },
+  {
+    "id": 413,
+    "germanNoun": "die Fahrkarte",
+    "article": "die",
+    "word": "Fahrkarte",
+    "plural": "Fahrkarten",
+    "english": "ticket",
+    "pronunciation": "dee fahrkartuh",
+    "topic": "Transport and travel"
+  },
+  {
+    "id": 414,
+    "germanNoun": "das Ticket",
+    "article": "das",
+    "word": "Ticket",
+    "plural": "Tickets",
+    "english": "ticket",
+    "pronunciation": "das tickuht",
+    "topic": "Transport and travel"
+  },
+  {
+    "id": 415,
+    "germanNoun": "der Fahrplan",
+    "article": "der",
+    "word": "Fahrplan",
+    "plural": "Fahrpläne",
+    "english": "timetable",
+    "pronunciation": "dair fahrplan",
+    "topic": "Transport and travel"
+  },
+  {
+    "id": 416,
+    "germanNoun": "die Abfahrt",
+    "article": "die",
+    "word": "Abfahrt",
+    "plural": "Abfahrten",
+    "english": "departure",
+    "pronunciation": "dee abfahrt",
+    "topic": "Transport and travel"
+  },
+  {
+    "id": 417,
+    "germanNoun": "die Ankunft",
+    "article": "die",
+    "word": "Ankunft",
+    "plural": "Ankünfte",
+    "english": "arrival",
+    "pronunciation": "dee ankunft",
+    "topic": "Transport and travel"
+  },
+  {
+    "id": 418,
+    "germanNoun": "das Gleis",
+    "article": "das",
+    "word": "Gleis",
+    "plural": "Gleise",
+    "english": "platform / track",
+    "pronunciation": "das gleyes",
+    "topic": "Transport and travel"
+  },
+  {
+    "id": 419,
+    "germanNoun": "der Bahnsteig",
+    "article": "der",
+    "word": "Bahnsteig",
+    "plural": "Bahnsteige",
+    "english": "platform",
+    "pronunciation": "dair bahnshteyeg",
+    "topic": "Transport and travel"
+  },
+  {
+    "id": 420,
+    "germanNoun": "der Ausgang",
+    "article": "der",
+    "word": "Ausgang",
+    "plural": "Ausgänge",
+    "english": "exit",
+    "pronunciation": "dair owsgang",
+    "topic": "Transport and travel"
+  },
+  {
+    "id": 421,
+    "germanNoun": "der Eingang",
+    "article": "der",
+    "word": "Eingang",
+    "plural": "Eingänge",
+    "english": "entrance",
+    "pronunciation": "dair eyengang",
+    "topic": "Transport and travel"
+  },
+  {
+    "id": 422,
+    "germanNoun": "die Richtung",
+    "article": "die",
+    "word": "Richtung",
+    "plural": "Richtungen",
+    "english": "direction",
+    "pronunciation": "dee rikhtung",
+    "topic": "Transport and travel"
+  },
+  {
+    "id": 423,
+    "germanNoun": "die Fahrt",
+    "article": "die",
+    "word": "Fahrt",
+    "plural": "Fahrten",
+    "english": "ride / journey",
+    "pronunciation": "dee fahrt",
+    "topic": "Transport and travel"
+  },
+  {
+    "id": 424,
+    "germanNoun": "der Flug",
+    "article": "der",
+    "word": "Flug",
+    "plural": "Flüge",
+    "english": "flight",
+    "pronunciation": "dair flug",
+    "topic": "Transport and travel"
+  },
+  {
+    "id": 425,
+    "germanNoun": "der Pass",
+    "article": "der",
+    "word": "Pass",
+    "plural": "Pässe",
+    "english": "passport",
+    "pronunciation": "dair pass",
+    "topic": "Transport and travel"
+  },
+  {
+    "id": 426,
+    "germanNoun": "der Ausweis",
+    "article": "der",
+    "word": "Ausweis",
+    "plural": "Ausweise",
+    "english": "identity card",
+    "pronunciation": "dair owsfeyes",
+    "topic": "Transport and travel"
+  },
+  {
+    "id": 427,
+    "germanNoun": "das Visum",
+    "article": "das",
+    "word": "Visum",
+    "plural": "Visa",
+    "english": "visa",
+    "pronunciation": "das fisum",
+    "topic": "Transport and travel"
+  },
+  {
+    "id": 428,
+    "germanNoun": "die Grenze",
+    "article": "die",
+    "word": "Grenze",
+    "plural": "Grenzen",
+    "english": "border",
+    "pronunciation": "dee gruhntsuh",
+    "topic": "Transport and travel"
+  },
+  {
+    "id": 429,
+    "germanNoun": "die Tankstelle",
+    "article": "die",
+    "word": "Tankstelle",
+    "plural": "Tankstellen",
+    "english": "gas station",
+    "pronunciation": "dee tankshtuhlluh",
+    "topic": "Transport and travel"
+  },
+  {
+    "id": 430,
+    "germanNoun": "das Benzin",
+    "article": "das",
+    "word": "Benzin",
+    "plural": "—",
+    "english": "gasoline",
+    "pronunciation": "das buhntsin",
+    "topic": "Transport and travel"
+  },
+  {
+    "id": 431,
+    "germanNoun": "der Verkehr",
+    "article": "der",
+    "word": "Verkehr",
+    "plural": "—",
+    "english": "traffic",
+    "pronunciation": "dair fairkuhhr",
+    "topic": "Transport and travel"
+  },
+  {
+    "id": 432,
+    "germanNoun": "der Stau",
+    "article": "der",
+    "word": "Stau",
+    "plural": "Staus",
+    "english": "traffic jam",
+    "pronunciation": "dair shtow",
+    "topic": "Transport and travel"
+  },
+  {
+    "id": 433,
+    "germanNoun": "die Zeit",
+    "article": "die",
+    "word": "Zeit",
+    "plural": "Zeiten",
+    "english": "time",
+    "pronunciation": "dee tseyet",
+    "topic": "Time, calendar, and events"
+  },
+  {
+    "id": 434,
+    "germanNoun": "die Sekunde",
+    "article": "die",
+    "word": "Sekunde",
+    "plural": "Sekunden",
+    "english": "second",
+    "pronunciation": "dee suhkunduh",
+    "topic": "Time, calendar, and events"
+  },
+  {
+    "id": 435,
+    "germanNoun": "die Minute",
+    "article": "die",
+    "word": "Minute",
+    "plural": "Minuten",
+    "english": "minute",
+    "pronunciation": "dee minutuh",
+    "topic": "Time, calendar, and events"
+  },
+  {
+    "id": 436,
+    "germanNoun": "die Stunde",
+    "article": "die",
+    "word": "Stunde",
+    "plural": "Stunden",
+    "english": "hour",
+    "pronunciation": "dee shtunduh",
+    "topic": "Time, calendar, and events"
+  },
+  {
+    "id": 437,
+    "germanNoun": "der Tag",
+    "article": "der",
+    "word": "Tag",
+    "plural": "Tage",
+    "english": "day",
+    "pronunciation": "dair tag",
+    "topic": "Time, calendar, and events"
+  },
+  {
+    "id": 438,
+    "germanNoun": "die Woche",
+    "article": "die",
+    "word": "Woche",
+    "plural": "Wochen",
+    "english": "week",
+    "pronunciation": "dee fokhuh",
+    "topic": "Time, calendar, and events"
+  },
+  {
+    "id": 439,
+    "germanNoun": "das Wochenende",
+    "article": "das",
+    "word": "Wochenende",
+    "plural": "Wochenenden",
+    "english": "weekend",
+    "pronunciation": "das fokhuhnuhnduh",
+    "topic": "Time, calendar, and events"
+  },
+  {
+    "id": 440,
+    "germanNoun": "der Monat",
+    "article": "der",
+    "word": "Monat",
+    "plural": "Monate",
+    "english": "month",
+    "pronunciation": "dair monat",
+    "topic": "Time, calendar, and events"
+  },
+  {
+    "id": 441,
+    "germanNoun": "das Jahr",
+    "article": "das",
+    "word": "Jahr",
+    "plural": "Jahre",
+    "english": "year",
+    "pronunciation": "das yahr",
+    "topic": "Time, calendar, and events"
+  },
+  {
+    "id": 442,
+    "germanNoun": "der Morgen",
+    "article": "der",
+    "word": "Morgen",
+    "plural": "Morgen",
+    "english": "morning",
+    "pronunciation": "dair morguhn",
+    "topic": "Time, calendar, and events"
+  },
+  {
+    "id": 443,
+    "germanNoun": "der Vormittag",
+    "article": "der",
+    "word": "Vormittag",
+    "plural": "Vormittage",
+    "english": "late morning",
+    "pronunciation": "dair formittag",
+    "topic": "Time, calendar, and events"
+  },
+  {
+    "id": 444,
+    "germanNoun": "der Mittag",
+    "article": "der",
+    "word": "Mittag",
+    "plural": "Mittage",
+    "english": "noon",
+    "pronunciation": "dair mittag",
+    "topic": "Time, calendar, and events"
+  },
+  {
+    "id": 445,
+    "germanNoun": "der Nachmittag",
+    "article": "der",
+    "word": "Nachmittag",
+    "plural": "Nachmittage",
+    "english": "afternoon",
+    "pronunciation": "dair nakhmittag",
+    "topic": "Time, calendar, and events"
+  },
+  {
+    "id": 446,
+    "germanNoun": "der Abend",
+    "article": "der",
+    "word": "Abend",
+    "plural": "Abende",
+    "english": "evening",
+    "pronunciation": "dair abuhnd",
+    "topic": "Time, calendar, and events"
+  },
+  {
+    "id": 447,
+    "germanNoun": "die Nacht",
+    "article": "die",
+    "word": "Nacht",
+    "plural": "Nächte",
+    "english": "night",
+    "pronunciation": "dee nakht",
+    "topic": "Time, calendar, and events"
+  },
+  {
+    "id": 448,
+    "germanNoun": "der Montag",
+    "article": "der",
+    "word": "Montag",
+    "plural": "Montage",
+    "english": "Monday",
+    "pronunciation": "dair montag",
+    "topic": "Time, calendar, and events"
+  },
+  {
+    "id": 449,
+    "germanNoun": "der Dienstag",
+    "article": "der",
+    "word": "Dienstag",
+    "plural": "Dienstage",
+    "english": "Tuesday",
+    "pronunciation": "dair deenshtag",
+    "topic": "Time, calendar, and events"
+  },
+  {
+    "id": 450,
+    "germanNoun": "der Mittwoch",
+    "article": "der",
+    "word": "Mittwoch",
+    "plural": "Mittwoche",
+    "english": "Wednesday",
+    "pronunciation": "dair mittfokh",
+    "topic": "Time, calendar, and events"
+  },
+  {
+    "id": 451,
+    "germanNoun": "der Donnerstag",
+    "article": "der",
+    "word": "Donnerstag",
+    "plural": "Donnerstage",
+    "english": "Thursday",
+    "pronunciation": "dair donnairshtag",
+    "topic": "Time, calendar, and events"
+  },
+  {
+    "id": 452,
+    "germanNoun": "der Freitag",
+    "article": "der",
+    "word": "Freitag",
+    "plural": "Freitage",
+    "english": "Friday",
+    "pronunciation": "dair freyetag",
+    "topic": "Time, calendar, and events"
+  },
+  {
+    "id": 453,
+    "germanNoun": "der Samstag",
+    "article": "der",
+    "word": "Samstag",
+    "plural": "Samstage",
+    "english": "Saturday",
+    "pronunciation": "dair samshtag",
+    "topic": "Time, calendar, and events"
+  },
+  {
+    "id": 454,
+    "germanNoun": "der Sonntag",
+    "article": "der",
+    "word": "Sonntag",
+    "plural": "Sonntage",
+    "english": "Sunday",
+    "pronunciation": "dair sonntag",
+    "topic": "Time, calendar, and events"
+  },
+  {
+    "id": 455,
+    "germanNoun": "der Januar",
+    "article": "der",
+    "word": "Januar",
+    "plural": "—",
+    "english": "January",
+    "pronunciation": "dair yanuar",
+    "topic": "Time, calendar, and events"
+  },
+  {
+    "id": 456,
+    "germanNoun": "der Februar",
+    "article": "der",
+    "word": "Februar",
+    "plural": "—",
+    "english": "February",
+    "pronunciation": "dair fuhbruar",
+    "topic": "Time, calendar, and events"
+  },
+  {
+    "id": 457,
+    "germanNoun": "der März",
+    "article": "der",
+    "word": "März",
+    "plural": "—",
+    "english": "March",
+    "pronunciation": "dair mehrts",
+    "topic": "Time, calendar, and events"
+  },
+  {
+    "id": 458,
+    "germanNoun": "der April",
+    "article": "der",
+    "word": "April",
+    "plural": "—",
+    "english": "April",
+    "pronunciation": "dair april",
+    "topic": "Time, calendar, and events"
+  },
+  {
+    "id": 459,
+    "germanNoun": "der Mai",
+    "article": "der",
+    "word": "Mai",
+    "plural": "—",
+    "english": "May",
+    "pronunciation": "dair mai",
+    "topic": "Time, calendar, and events"
+  },
+  {
+    "id": 460,
+    "germanNoun": "der Juni",
+    "article": "der",
+    "word": "Juni",
+    "plural": "—",
+    "english": "June",
+    "pronunciation": "dair yuni",
+    "topic": "Time, calendar, and events"
+  },
+  {
+    "id": 461,
+    "germanNoun": "der Juli",
+    "article": "der",
+    "word": "Juli",
+    "plural": "—",
+    "english": "July",
+    "pronunciation": "dair yuli",
+    "topic": "Time, calendar, and events"
+  },
+  {
+    "id": 462,
+    "germanNoun": "der August",
+    "article": "der",
+    "word": "August",
+    "plural": "—",
+    "english": "August",
+    "pronunciation": "dair owgusht",
+    "topic": "Time, calendar, and events"
+  },
+  {
+    "id": 463,
+    "germanNoun": "der September",
+    "article": "der",
+    "word": "September",
+    "plural": "—",
+    "english": "September",
+    "pronunciation": "dair suhptuhmbair",
+    "topic": "Time, calendar, and events"
+  },
+  {
+    "id": 464,
+    "germanNoun": "der Oktober",
+    "article": "der",
+    "word": "Oktober",
+    "plural": "—",
+    "english": "October",
+    "pronunciation": "dair oktobair",
+    "topic": "Time, calendar, and events"
+  },
+  {
+    "id": 465,
+    "germanNoun": "der November",
+    "article": "der",
+    "word": "November",
+    "plural": "—",
+    "english": "November",
+    "pronunciation": "dair nofuhmbair",
+    "topic": "Time, calendar, and events"
+  },
+  {
+    "id": 466,
+    "germanNoun": "der Dezember",
+    "article": "der",
+    "word": "Dezember",
+    "plural": "—",
+    "english": "December",
+    "pronunciation": "dair duhtsuhmbair",
+    "topic": "Time, calendar, and events"
+  },
+  {
+    "id": 467,
+    "germanNoun": "das Datum",
+    "article": "das",
+    "word": "Datum",
+    "plural": "Daten",
+    "english": "date",
+    "pronunciation": "das datum",
+    "topic": "Time, calendar, and events"
+  },
+  {
+    "id": 468,
+    "germanNoun": "der Kalender",
+    "article": "der",
+    "word": "Kalender",
+    "plural": "Kalender",
+    "english": "calendar",
+    "pronunciation": "dair kaluhndair",
+    "topic": "Time, calendar, and events"
+  },
+  {
+    "id": 469,
+    "germanNoun": "die Ferien",
+    "article": "die",
+    "word": "Ferien",
+    "plural": "—",
+    "english": "holidays",
+    "pronunciation": "dee faireen",
+    "topic": "Time, calendar, and events"
+  },
+  {
+    "id": 470,
+    "germanNoun": "das Fest",
+    "article": "das",
+    "word": "Fest",
+    "plural": "Feste",
+    "english": "celebration / festival",
+    "pronunciation": "das fuhsht",
+    "topic": "Time, calendar, and events"
+  },
+  {
+    "id": 471,
+    "germanNoun": "die Party",
+    "article": "die",
+    "word": "Party",
+    "plural": "Partys",
+    "english": "party",
+    "pronunciation": "dee party",
+    "topic": "Time, calendar, and events"
+  },
+  {
+    "id": 472,
+    "germanNoun": "die Hochzeit",
+    "article": "die",
+    "word": "Hochzeit",
+    "plural": "Hochzeiten",
+    "english": "wedding",
+    "pronunciation": "dee hokhtseyet",
+    "topic": "Time, calendar, and events"
+  },
+  {
+    "id": 473,
+    "germanNoun": "die Einladung",
+    "article": "die",
+    "word": "Einladung",
+    "plural": "Einladungen",
+    "english": "invitation",
+    "pronunciation": "dee eyenladung",
+    "topic": "Time, calendar, and events"
+  },
+  {
+    "id": 474,
+    "germanNoun": "das Geschenk",
+    "article": "das",
+    "word": "Geschenk",
+    "plural": "Geschenke",
+    "english": "gift",
+    "pronunciation": "das guhshuhnk",
+    "topic": "Time, calendar, and events"
+  },
+  {
+    "id": 475,
+    "germanNoun": "das Wetter",
+    "article": "das",
+    "word": "Wetter",
+    "plural": "—",
+    "english": "weather",
+    "pronunciation": "das fuhttair",
+    "topic": "Weather and nature"
+  },
+  {
+    "id": 476,
+    "germanNoun": "die Sonne",
+    "article": "die",
+    "word": "Sonne",
+    "plural": "Sonnen",
+    "english": "sun",
+    "pronunciation": "dee sonnuh",
+    "topic": "Weather and nature"
+  },
+  {
+    "id": 477,
+    "germanNoun": "der Regen",
+    "article": "der",
+    "word": "Regen",
+    "plural": "—",
+    "english": "rain",
+    "pronunciation": "dair ruhguhn",
+    "topic": "Weather and nature"
+  },
+  {
+    "id": 478,
+    "germanNoun": "der Schnee",
+    "article": "der",
+    "word": "Schnee",
+    "plural": "—",
+    "english": "snow",
+    "pronunciation": "dair shnuhuh",
+    "topic": "Weather and nature"
+  },
+  {
+    "id": 479,
+    "germanNoun": "der Wind",
+    "article": "der",
+    "word": "Wind",
+    "plural": "Winde",
+    "english": "wind",
+    "pronunciation": "dair find",
+    "topic": "Weather and nature"
+  },
+  {
+    "id": 480,
+    "germanNoun": "die Wolke",
+    "article": "die",
+    "word": "Wolke",
+    "plural": "Wolken",
+    "english": "cloud",
+    "pronunciation": "dee folkuh",
+    "topic": "Weather and nature"
+  },
+  {
+    "id": 481,
+    "germanNoun": "der Himmel",
+    "article": "der",
+    "word": "Himmel",
+    "plural": "—",
+    "english": "sky",
+    "pronunciation": "dair himmuhl",
+    "topic": "Weather and nature"
+  },
+  {
+    "id": 482,
+    "germanNoun": "die Luft",
+    "article": "die",
+    "word": "Luft",
+    "plural": "—",
+    "english": "air",
+    "pronunciation": "dee luft",
+    "topic": "Weather and nature"
+  },
+  {
+    "id": 483,
+    "germanNoun": "die Temperatur",
+    "article": "die",
+    "word": "Temperatur",
+    "plural": "Temperaturen",
+    "english": "temperature",
+    "pronunciation": "dee tuhmpairatur",
+    "topic": "Weather and nature"
+  },
+  {
+    "id": 484,
+    "germanNoun": "der Grad",
+    "article": "der",
+    "word": "Grad",
+    "plural": "Grade",
+    "english": "degree",
+    "pronunciation": "dair grad",
+    "topic": "Weather and nature"
+  },
+  {
+    "id": 485,
+    "germanNoun": "der Frühling",
+    "article": "der",
+    "word": "Frühling",
+    "plural": "Frühlinge",
+    "english": "spring",
+    "pronunciation": "dair fruehling",
+    "topic": "Weather and nature"
+  },
+  {
+    "id": 486,
+    "germanNoun": "der Sommer",
+    "article": "der",
+    "word": "Sommer",
+    "plural": "Sommer",
+    "english": "summer",
+    "pronunciation": "dair sommair",
+    "topic": "Weather and nature"
+  },
+  {
+    "id": 487,
+    "germanNoun": "der Herbst",
+    "article": "der",
+    "word": "Herbst",
+    "plural": "Herbste",
+    "english": "autumn",
+    "pronunciation": "dair hairbsht",
+    "topic": "Weather and nature"
+  },
+  {
+    "id": 488,
+    "germanNoun": "der Winter",
+    "article": "der",
+    "word": "Winter",
+    "plural": "Winter",
+    "english": "winter",
+    "pronunciation": "dair fintair",
+    "topic": "Weather and nature"
+  },
+  {
+    "id": 489,
+    "germanNoun": "die Natur",
+    "article": "die",
+    "word": "Natur",
+    "plural": "—",
+    "english": "nature",
+    "pronunciation": "dee natur",
+    "topic": "Weather and nature"
+  },
+  {
+    "id": 490,
+    "germanNoun": "der Baum",
+    "article": "der",
+    "word": "Baum",
+    "plural": "Bäume",
+    "english": "tree",
+    "pronunciation": "dair bowm",
+    "topic": "Weather and nature"
+  },
+  {
+    "id": 491,
+    "germanNoun": "die Blume",
+    "article": "die",
+    "word": "Blume",
+    "plural": "Blumen",
+    "english": "flower",
+    "pronunciation": "dee blumuh",
+    "topic": "Weather and nature"
+  },
+  {
+    "id": 492,
+    "germanNoun": "das Gras",
+    "article": "das",
+    "word": "Gras",
+    "plural": "Gräser",
+    "english": "grass",
+    "pronunciation": "das gras",
+    "topic": "Weather and nature"
+  },
+  {
+    "id": 493,
+    "germanNoun": "der Wald",
+    "article": "der",
+    "word": "Wald",
+    "plural": "Wälder",
+    "english": "forest",
+    "pronunciation": "dair fald",
+    "topic": "Weather and nature"
+  },
+  {
+    "id": 494,
+    "germanNoun": "der Berg",
+    "article": "der",
+    "word": "Berg",
+    "plural": "Berge",
+    "english": "mountain",
+    "pronunciation": "dair bairg",
+    "topic": "Weather and nature"
+  },
+  {
+    "id": 495,
+    "germanNoun": "der See",
+    "article": "der",
+    "word": "See",
+    "plural": "Seen",
+    "english": "lake",
+    "pronunciation": "dair suhuh",
+    "topic": "Weather and nature"
+  },
+  {
+    "id": 496,
+    "germanNoun": "das Meer",
+    "article": "das",
+    "word": "Meer",
+    "plural": "Meere",
+    "english": "sea",
+    "pronunciation": "das muhair",
+    "topic": "Weather and nature"
+  },
+  {
+    "id": 497,
+    "germanNoun": "der Fluss",
+    "article": "der",
+    "word": "Fluss",
+    "plural": "Flüsse",
+    "english": "river",
+    "pronunciation": "dair fluss",
+    "topic": "Weather and nature"
+  },
+  {
+    "id": 498,
+    "germanNoun": "der Strand",
+    "article": "der",
+    "word": "Strand",
+    "plural": "Strände",
+    "english": "beach",
+    "pronunciation": "dair shtrand",
+    "topic": "Weather and nature"
+  },
+  {
+    "id": 499,
+    "germanNoun": "die Insel",
+    "article": "die",
+    "word": "Insel",
+    "plural": "Inseln",
+    "english": "island",
+    "pronunciation": "dee insuhl",
+    "topic": "Weather and nature"
+  },
+  {
+    "id": 500,
+    "germanNoun": "das Tier",
+    "article": "das",
+    "word": "Tier",
+    "plural": "Tiere",
+    "english": "animal",
+    "pronunciation": "das teer",
+    "topic": "Weather and nature"
+  },
+  {
+    "id": 501,
+    "germanNoun": "der Hund",
+    "article": "der",
+    "word": "Hund",
+    "plural": "Hunde",
+    "english": "dog",
+    "pronunciation": "dair hund",
+    "topic": "Weather and nature"
+  },
+  {
+    "id": 502,
+    "germanNoun": "die Katze",
+    "article": "die",
+    "word": "Katze",
+    "plural": "Katzen",
+    "english": "cat",
+    "pronunciation": "dee kattsuh",
+    "topic": "Weather and nature"
+  },
+  {
+    "id": 503,
+    "germanNoun": "der Vogel",
+    "article": "der",
+    "word": "Vogel",
+    "plural": "Vögel",
+    "english": "bird",
+    "pronunciation": "dair foguhl",
+    "topic": "Weather and nature"
+  },
+  {
+    "id": 504,
+    "germanNoun": "das Pferd",
+    "article": "das",
+    "word": "Pferd",
+    "plural": "Pferde",
+    "english": "horse",
+    "pronunciation": "das pfaird",
+    "topic": "Weather and nature"
+  },
+  {
+    "id": 505,
+    "germanNoun": "die Kuh",
+    "article": "die",
+    "word": "Kuh",
+    "plural": "Kühe",
+    "english": "cow",
+    "pronunciation": "dee kuh",
+    "topic": "Weather and nature"
+  },
+  {
+    "id": 506,
+    "germanNoun": "das Schwein",
+    "article": "das",
+    "word": "Schwein",
+    "plural": "Schweine",
+    "english": "pig",
+    "pronunciation": "das shfeyen",
+    "topic": "Weather and nature"
+  },
+  {
+    "id": 507,
+    "germanNoun": "das Schaf",
+    "article": "das",
+    "word": "Schaf",
+    "plural": "Schafe",
+    "english": "sheep",
+    "pronunciation": "das shaf",
+    "topic": "Weather and nature"
+  },
+  {
+    "id": 508,
+    "germanNoun": "die Maus",
+    "article": "die",
+    "word": "Maus",
+    "plural": "Mäuse",
+    "english": "mouse",
+    "pronunciation": "dee mows",
+    "topic": "Weather and nature"
+  },
+  {
+    "id": 509,
+    "germanNoun": "die Freizeit",
+    "article": "die",
+    "word": "Freizeit",
+    "plural": "—",
+    "english": "free time",
+    "pronunciation": "dee freyetseyet",
+    "topic": "Free time, media, and communication"
+  },
+  {
+    "id": 510,
+    "germanNoun": "das Hobby",
+    "article": "das",
+    "word": "Hobby",
+    "plural": "Hobbys",
+    "english": "hobby",
+    "pronunciation": "das hobby",
+    "topic": "Free time, media, and communication"
+  },
+  {
+    "id": 511,
+    "germanNoun": "der Sport",
+    "article": "der",
+    "word": "Sport",
+    "plural": "—",
+    "english": "sport",
+    "pronunciation": "dair shport",
+    "topic": "Free time, media, and communication"
+  },
+  {
+    "id": 512,
+    "germanNoun": "der Fußball",
+    "article": "der",
+    "word": "Fußball",
+    "plural": "Fußbälle",
+    "english": "football / soccer ball",
+    "pronunciation": "dair fussball",
+    "topic": "Free time, media, and communication"
+  },
+  {
+    "id": 513,
+    "germanNoun": "der Tennisball",
+    "article": "der",
+    "word": "Tennisball",
+    "plural": "Tennisbälle",
+    "english": "tennis ball",
+    "pronunciation": "dair tuhnnisball",
+    "topic": "Free time, media, and communication"
+  },
+  {
+    "id": 514,
+    "germanNoun": "das Spiel",
+    "article": "das",
+    "word": "Spiel",
+    "plural": "Spiele",
+    "english": "game",
+    "pronunciation": "das shpeel",
+    "topic": "Free time, media, and communication"
+  },
+  {
+    "id": 515,
+    "germanNoun": "der Ball",
+    "article": "der",
+    "word": "Ball",
+    "plural": "Bälle",
+    "english": "ball",
+    "pronunciation": "dair ball",
+    "topic": "Free time, media, and communication"
+  },
+  {
+    "id": 516,
+    "germanNoun": "die Musik",
+    "article": "die",
+    "word": "Musik",
+    "plural": "—",
+    "english": "music",
+    "pronunciation": "dee musik",
+    "topic": "Free time, media, and communication"
+  },
+  {
+    "id": 517,
+    "germanNoun": "das Lied",
+    "article": "das",
+    "word": "Lied",
+    "plural": "Lieder",
+    "english": "song",
+    "pronunciation": "das leed",
+    "topic": "Free time, media, and communication"
+  },
+  {
+    "id": 518,
+    "germanNoun": "der Film",
+    "article": "der",
+    "word": "Film",
+    "plural": "Filme",
+    "english": "film",
+    "pronunciation": "dair film",
+    "topic": "Free time, media, and communication"
+  },
+  {
+    "id": 519,
+    "germanNoun": "die Sendung",
+    "article": "die",
+    "word": "Sendung",
+    "plural": "Sendungen",
+    "english": "broadcast / program",
+    "pronunciation": "dee suhndung",
+    "topic": "Free time, media, and communication"
+  },
+  {
+    "id": 520,
+    "germanNoun": "die Nachricht",
+    "article": "die",
+    "word": "Nachricht",
+    "plural": "Nachrichten",
+    "english": "message / news item",
+    "pronunciation": "dee nakhrikht",
+    "topic": "Free time, media, and communication"
+  },
+  {
+    "id": 521,
+    "germanNoun": "die Zeitung",
+    "article": "die",
+    "word": "Zeitung",
+    "plural": "Zeitungen",
+    "english": "newspaper",
+    "pronunciation": "dee tseyetung",
+    "topic": "Free time, media, and communication"
+  },
+  {
+    "id": 522,
+    "germanNoun": "die Zeitschrift",
+    "article": "die",
+    "word": "Zeitschrift",
+    "plural": "Zeitschriften",
+    "english": "magazine",
+    "pronunciation": "dee tseyechrift",
+    "topic": "Free time, media, and communication"
+  },
+  {
+    "id": 523,
+    "germanNoun": "das Foto",
+    "article": "das",
+    "word": "Foto",
+    "plural": "Fotos",
+    "english": "photo",
+    "pronunciation": "das foto",
+    "topic": "Free time, media, and communication"
+  },
+  {
+    "id": 524,
+    "germanNoun": "die Kamera",
+    "article": "die",
+    "word": "Kamera",
+    "plural": "Kameras",
+    "english": "camera",
+    "pronunciation": "dee kamaira",
+    "topic": "Free time, media, and communication"
+  },
+  {
+    "id": 525,
+    "germanNoun": "das Internet",
+    "article": "das",
+    "word": "Internet",
+    "plural": "—",
+    "english": "internet",
+    "pronunciation": "das intairnuht",
+    "topic": "Free time, media, and communication"
+  },
+  {
+    "id": 526,
+    "germanNoun": "die E-Mail",
+    "article": "die",
+    "word": "E-Mail",
+    "plural": "E-Mails",
+    "english": "email",
+    "pronunciation": "dee uh-mail",
+    "topic": "Free time, media, and communication"
+  },
+  {
+    "id": 527,
+    "germanNoun": "die Webseite",
+    "article": "die",
+    "word": "Webseite",
+    "plural": "Webseiten",
+    "english": "website",
+    "pronunciation": "dee fuhbseyetuh",
+    "topic": "Free time, media, and communication"
+  },
+  {
+    "id": 528,
+    "germanNoun": "das Passwort",
+    "article": "das",
+    "word": "Passwort",
+    "plural": "Passwörter",
+    "english": "password",
+    "pronunciation": "das passfort",
+    "topic": "Free time, media, and communication"
+  },
+  {
+    "id": 529,
+    "germanNoun": "der Briefkasten",
+    "article": "der",
+    "word": "Briefkasten",
+    "plural": "Briefkästen",
+    "english": "mailbox",
+    "pronunciation": "dair breefkashtuhn",
+    "topic": "Free time, media, and communication"
+  },
+  {
+    "id": 530,
+    "germanNoun": "das Gespräch",
+    "article": "das",
+    "word": "Gespräch",
+    "plural": "Gespräche",
+    "english": "conversation",
+    "pronunciation": "das guhshprehkh",
+    "topic": "Free time, media, and communication"
+  },
+  {
+    "id": 531,
+    "germanNoun": "der Anruf",
+    "article": "der",
+    "word": "Anruf",
+    "plural": "Anrufe",
+    "english": "phone call",
+    "pronunciation": "dair anruf",
+    "topic": "Free time, media, and communication"
+  },
+  {
+    "id": 532,
+    "germanNoun": "die Information",
+    "article": "die",
+    "word": "Information",
+    "plural": "Informationen",
+    "english": "information",
+    "pronunciation": "dee information",
+    "topic": "Free time, media, and communication"
+  },
+  {
+    "id": 533,
+    "germanNoun": "die Hilfe",
+    "article": "die",
+    "word": "Hilfe",
+    "plural": "—",
+    "english": "help",
+    "pronunciation": "dee hilfuh",
+    "topic": "Free time, media, and communication"
+  },
+  {
+    "id": 534,
+    "germanNoun": "der Verein",
+    "article": "der",
+    "word": "Verein",
+    "plural": "Vereine",
+    "english": "club / association",
+    "pronunciation": "dair faireyen",
+    "topic": "Free time, media, and communication"
+  },
+  {
+    "id": 535,
+    "germanNoun": "die Mannschaft",
+    "article": "die",
+    "word": "Mannschaft",
+    "plural": "Mannschaften",
+    "english": "team",
+    "pronunciation": "dee mannshaft",
+    "topic": "Free time, media, and communication"
+  },
+  {
+    "id": 536,
+    "germanNoun": "das Konzert",
+    "article": "das",
+    "word": "Konzert",
+    "plural": "Konzerte",
+    "english": "concert",
+    "pronunciation": "das kontsairt",
+    "topic": "Free time, media, and communication"
+  },
+  {
+    "id": 537,
+    "germanNoun": "das Formular",
+    "article": "das",
+    "word": "Formular",
+    "plural": "Formulare",
+    "english": "form",
+    "pronunciation": "das formular",
+    "topic": "Documents, countries, and general A1 nouns"
+  },
+  {
+    "id": 538,
+    "germanNoun": "die Unterschrift",
+    "article": "die",
+    "word": "Unterschrift",
+    "plural": "Unterschriften",
+    "english": "signature",
+    "pronunciation": "dee untairshrift",
+    "topic": "Documents, countries, and general A1 nouns"
+  },
+  {
+    "id": 539,
+    "germanNoun": "die Anmeldung",
+    "article": "die",
+    "word": "Anmeldung",
+    "plural": "Anmeldungen",
+    "english": "registration",
+    "pronunciation": "dee anmuhldung",
+    "topic": "Documents, countries, and general A1 nouns"
+  },
+  {
+    "id": 540,
+    "germanNoun": "die Abmeldung",
+    "article": "die",
+    "word": "Abmeldung",
+    "plural": "Abmeldungen",
+    "english": "deregistration",
+    "pronunciation": "dee abmuhldung",
+    "topic": "Documents, countries, and general A1 nouns"
+  },
+  {
+    "id": 541,
+    "germanNoun": "die Gebühr",
+    "article": "die",
+    "word": "Gebühr",
+    "plural": "Gebühren",
+    "english": "fee",
+    "pronunciation": "dee guhbuehr",
+    "topic": "Documents, countries, and general A1 nouns"
+  },
+  {
+    "id": 542,
+    "germanNoun": "die Versicherung",
+    "article": "die",
+    "word": "Versicherung",
+    "plural": "Versicherungen",
+    "english": "insurance",
+    "pronunciation": "dee fairsikhairung",
+    "topic": "Documents, countries, and general A1 nouns"
+  },
+  {
+    "id": 543,
+    "germanNoun": "die Karte",
+    "article": "die",
+    "word": "Karte",
+    "plural": "Karten",
+    "english": "card / map",
+    "pronunciation": "dee kartuh",
+    "topic": "Documents, countries, and general A1 nouns"
+  },
+  {
+    "id": 544,
+    "germanNoun": "der Plan",
+    "article": "der",
+    "word": "Plan",
+    "plural": "Pläne",
+    "english": "plan / map",
+    "pronunciation": "dair plan",
+    "topic": "Documents, countries, and general A1 nouns"
+  },
+  {
+    "id": 545,
+    "germanNoun": "die Liste",
+    "article": "die",
+    "word": "Liste",
+    "plural": "Listen",
+    "english": "list",
+    "pronunciation": "dee lishtuh",
+    "topic": "Documents, countries, and general A1 nouns"
+  },
+  {
+    "id": 546,
+    "germanNoun": "die Nummer",
+    "article": "die",
+    "word": "Nummer",
+    "plural": "Nummern",
+    "english": "number",
+    "pronunciation": "dee nummair",
+    "topic": "Documents, countries, and general A1 nouns"
+  },
+  {
+    "id": 547,
+    "germanNoun": "die Ecke",
+    "article": "die",
+    "word": "Ecke",
+    "plural": "Ecken",
+    "english": "corner",
+    "pronunciation": "dee uhckuh",
+    "topic": "Documents, countries, and general A1 nouns"
+  },
+  {
+    "id": 548,
+    "germanNoun": "die Mitte",
+    "article": "die",
+    "word": "Mitte",
+    "plural": "Mitten",
+    "english": "middle",
+    "pronunciation": "dee mittuh",
+    "topic": "Documents, countries, and general A1 nouns"
+  },
+  {
+    "id": 549,
+    "germanNoun": "der Anfang",
+    "article": "der",
+    "word": "Anfang",
+    "plural": "Anfänge",
+    "english": "beginning",
+    "pronunciation": "dair anfang",
+    "topic": "Documents, countries, and general A1 nouns"
+  },
+  {
+    "id": 550,
+    "germanNoun": "das Ende",
+    "article": "das",
+    "word": "Ende",
+    "plural": "Enden",
+    "english": "end",
+    "pronunciation": "das uhnduh",
+    "topic": "Documents, countries, and general A1 nouns"
+  },
+  {
+    "id": 551,
+    "germanNoun": "die Seite",
+    "article": "die",
+    "word": "Seite",
+    "plural": "Seiten",
+    "english": "page / side",
+    "pronunciation": "dee seyetuh",
+    "topic": "Documents, countries, and general A1 nouns"
+  },
+  {
+    "id": 552,
+    "germanNoun": "der Teil",
+    "article": "der",
+    "word": "Teil",
+    "plural": "Teile",
+    "english": "part",
+    "pronunciation": "dair teyel",
+    "topic": "Documents, countries, and general A1 nouns"
+  },
+  {
+    "id": 553,
+    "germanNoun": "das Stück",
+    "article": "das",
+    "word": "Stück",
+    "plural": "Stücke",
+    "english": "piece",
+    "pronunciation": "das shtueck",
+    "topic": "Documents, countries, and general A1 nouns"
+  },
+  {
+    "id": 554,
+    "germanNoun": "die Sache",
+    "article": "die",
+    "word": "Sache",
+    "plural": "Sachen",
+    "english": "thing / matter",
+    "pronunciation": "dee sakhuh",
+    "topic": "Documents, countries, and general A1 nouns"
+  },
+  {
+    "id": 555,
+    "germanNoun": "das Ding",
+    "article": "das",
+    "word": "Ding",
+    "plural": "Dinge",
+    "english": "thing",
+    "pronunciation": "das ding",
+    "topic": "Documents, countries, and general A1 nouns"
+  },
+  {
+    "id": 556,
+    "germanNoun": "das Problem",
+    "article": "das",
+    "word": "Problem",
+    "plural": "Probleme",
+    "english": "problem",
+    "pronunciation": "das probluhm",
+    "topic": "Documents, countries, and general A1 nouns"
+  },
+  {
+    "id": 557,
+    "germanNoun": "die Idee",
+    "article": "die",
+    "word": "Idee",
+    "plural": "Ideen",
+    "english": "idea",
+    "pronunciation": "dee iduhuh",
+    "topic": "Documents, countries, and general A1 nouns"
+  },
+  {
+    "id": 558,
+    "germanNoun": "der Wunsch",
+    "article": "der",
+    "word": "Wunsch",
+    "plural": "Wünsche",
+    "english": "wish",
+    "pronunciation": "dair funsh",
+    "topic": "Documents, countries, and general A1 nouns"
+  },
+  {
+    "id": 559,
+    "germanNoun": "die Angst",
+    "article": "die",
+    "word": "Angst",
+    "plural": "Ängste",
+    "english": "fear",
+    "pronunciation": "dee angsht",
+    "topic": "Documents, countries, and general A1 nouns"
+  },
+  {
+    "id": 560,
+    "germanNoun": "die Freude",
+    "article": "die",
+    "word": "Freude",
+    "plural": "Freuden",
+    "english": "joy",
+    "pronunciation": "dee froyduh",
+    "topic": "Documents, countries, and general A1 nouns"
+  },
+  {
+    "id": 561,
+    "germanNoun": "das Glück",
+    "article": "das",
+    "word": "Glück",
+    "plural": "—",
+    "english": "luck / happiness",
+    "pronunciation": "das glueck",
+    "topic": "Documents, countries, and general A1 nouns"
+  },
+  {
+    "id": 562,
+    "germanNoun": "der Spaß",
+    "article": "der",
+    "word": "Spaß",
+    "plural": "—",
+    "english": "fun",
+    "pronunciation": "dair shpass",
+    "topic": "Documents, countries, and general A1 nouns"
+  },
+  {
+    "id": 563,
+    "germanNoun": "die Liebe",
+    "article": "die",
+    "word": "Liebe",
+    "plural": "—",
+    "english": "love",
+    "pronunciation": "dee leebuh",
+    "topic": "Documents, countries, and general A1 nouns"
+  },
+  {
+    "id": 564,
+    "germanNoun": "das Leben",
+    "article": "das",
+    "word": "Leben",
+    "plural": "—",
+    "english": "life",
+    "pronunciation": "das luhbuhn",
+    "topic": "Documents, countries, and general A1 nouns"
+  },
+  {
+    "id": 565,
+    "germanNoun": "die Welt",
+    "article": "die",
+    "word": "Welt",
+    "plural": "Welten",
+    "english": "world",
+    "pronunciation": "dee fuhlt",
+    "topic": "Documents, countries, and general A1 nouns"
+  },
+  {
+    "id": 566,
+    "germanNoun": "die Heimat",
+    "article": "die",
+    "word": "Heimat",
+    "plural": "—",
+    "english": "home country / homeland",
+    "pronunciation": "dee heyemat",
+    "topic": "Documents, countries, and general A1 nouns"
+  },
+  {
+    "id": 567,
+    "germanNoun": "die Nationalität",
+    "article": "die",
+    "word": "Nationalität",
+    "plural": "Nationalitäten",
+    "english": "nationality",
+    "pronunciation": "dee nationaliteht",
+    "topic": "Documents, countries, and general A1 nouns"
+  },
+  {
+    "id": 568,
+    "germanNoun": "der Deutsche",
+    "article": "der",
+    "word": "Deutsche",
+    "plural": "Deutschen",
+    "english": "German man",
+    "pronunciation": "dair doychuh",
+    "topic": "Documents, countries, and general A1 nouns"
+  },
+  {
+    "id": 569,
+    "germanNoun": "die Deutsche",
+    "article": "die",
+    "word": "Deutsche",
+    "plural": "Deutschen",
+    "english": "German woman",
+    "pronunciation": "dee doychuh",
+    "topic": "Documents, countries, and general A1 nouns"
+  },
+  {
+    "id": 570,
+    "germanNoun": "das Deutschland",
+    "article": "das",
+    "word": "Deutschland",
+    "plural": "—",
+    "english": "Germany",
+    "pronunciation": "das doychland",
+    "topic": "Documents, countries, and general A1 nouns"
+  },
+  {
+    "id": 571,
+    "germanNoun": "die Schweiz",
+    "article": "die",
+    "word": "Schweiz",
+    "plural": "—",
+    "english": "Switzerland",
+    "pronunciation": "dee shfeyets",
+    "topic": "Documents, countries, and general A1 nouns"
+  },
+  {
+    "id": 572,
+    "germanNoun": "das Österreich",
+    "article": "das",
+    "word": "Österreich",
+    "plural": "—",
+    "english": "Austria",
+    "pronunciation": "das urshtairreyekh",
+    "topic": "Documents, countries, and general A1 nouns"
+  },
+  {
+    "id": 573,
+    "germanNoun": "das England",
+    "article": "das",
+    "word": "England",
+    "plural": "—",
+    "english": "England",
+    "pronunciation": "das uhngland",
+    "topic": "Documents, countries, and general A1 nouns"
+  },
+  {
+    "id": 574,
+    "germanNoun": "das Frankreich",
+    "article": "das",
+    "word": "Frankreich",
+    "plural": "—",
+    "english": "France",
+    "pronunciation": "das frankreyekh",
+    "topic": "Documents, countries, and general A1 nouns"
+  },
+  {
+    "id": 575,
+    "germanNoun": "das Italien",
+    "article": "das",
+    "word": "Italien",
+    "plural": "—",
+    "english": "Italy",
+    "pronunciation": "das italeen",
+    "topic": "Documents, countries, and general A1 nouns"
+  },
+  {
+    "id": 576,
+    "germanNoun": "das Spanien",
+    "article": "das",
+    "word": "Spanien",
+    "plural": "—",
+    "english": "Spain",
+    "pronunciation": "das shpaneen",
+    "topic": "Documents, countries, and general A1 nouns"
+  },
+  {
+    "id": 577,
+    "germanNoun": "das Europa",
+    "article": "das",
+    "word": "Europa",
+    "plural": "—",
+    "english": "Europe",
+    "pronunciation": "das oyropa",
+    "topic": "Documents, countries, and general A1 nouns"
+  }
+]

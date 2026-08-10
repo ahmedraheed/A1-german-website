@@ -1,5 +1,6 @@
 import React, { useState, useEffect, useMemo } from 'react';
 import Header from './components/Header';
+import NounsTab from './components/NounsTab';
 import VocabularyTab from './components/VocabularyTab';
 import FlashcardsTab from './components/FlashcardsTab';
 import SpeedMatchGame from './components/SpeedMatchGame';
@@ -11,7 +12,7 @@ import DocScannerModal from './components/DocScannerModal';
 import germanData from './data/germanData.json';
 
 export default function App() {
-  const [activeTab, setActiveTab] = useState('vocab');
+  const [activeTab, setActiveTab] = useState('nouns');
   const [isScannerOpen, setIsScannerOpen] = useState(false);
 
   // Custom uploaded verbs stored in localStorage
@@ -28,6 +29,16 @@ export default function App() {
   const [masteredIds, setMasteredIds] = useState(() => {
     try {
       const saved = localStorage.getItem('german_mastered_verbs');
+      return saved ? JSON.parse(saved) : [];
+    } catch {
+      return [];
+    }
+  });
+
+  // Mastered Nouns State (stored in localStorage)
+  const [masteredNounIds, setMasteredNounIds] = useState(() => {
+    try {
+      const saved = localStorage.getItem('german_mastered_nouns');
       return saved ? JSON.parse(saved) : [];
     } catch {
       return [];
@@ -64,6 +75,7 @@ export default function App() {
   }, [customVerbs]);
 
   const masteredSet = useMemo(() => new Set(masteredIds), [masteredIds]);
+  const masteredNounsSet = useMemo(() => new Set(masteredNounIds), [masteredNounIds]);
 
   const toggleMastered = (id) => {
     setMasteredIds(prev => {
@@ -78,6 +90,19 @@ export default function App() {
     });
   };
 
+  const toggleMasteredNoun = (id) => {
+    setMasteredNounIds(prev => {
+      let updated;
+      if (prev.includes(id)) {
+        updated = prev.filter(item => item !== id);
+      } else {
+        updated = [...prev, id];
+      }
+      localStorage.setItem('german_mastered_nouns', JSON.stringify(updated));
+      return updated;
+    });
+  };
+
   const handleImportWords = (newWords) => {
     setCustomVerbs(prev => {
       const updated = [...prev, ...newWords];
@@ -87,10 +112,12 @@ export default function App() {
   };
 
   const handleResetProgress = () => {
-    if (window.confirm('Are you sure you want to reset all mastered words progress and uploaded custom words?')) {
+    if (window.confirm('Are you sure you want to reset all mastered words, nouns, and uploaded custom words?')) {
       setMasteredIds([]);
+      setMasteredNounIds([]);
       setCustomVerbs([]);
       localStorage.removeItem('german_mastered_verbs');
+      localStorage.removeItem('german_mastered_nouns');
       localStorage.removeItem('german_custom_verbs');
     }
   };
@@ -109,14 +136,21 @@ export default function App() {
       <Header
         activeTab={activeTab}
         setActiveTab={setActiveTab}
-        masteredCount={masteredSet.size}
-        totalVerbs={allVerbs.length}
+        masteredCount={masteredSet.size + masteredNounsSet.size}
+        totalVerbs={allVerbs.length + 577}
         streak={streak}
         onResetProgress={handleResetProgress}
         onOpenScanner={() => setIsScannerOpen(true)}
       />
 
       <main style={{ flex: 1 }}>
+        {activeTab === 'nouns' && (
+          <NounsTab
+            masteredNounsSet={masteredNounsSet}
+            toggleMasteredNoun={toggleMasteredNoun}
+          />
+        )}
+
         {activeTab === 'vocab' && (
           <VocabularyTab
             verbs={allVerbs}
@@ -173,7 +207,7 @@ export default function App() {
       />
 
       <footer style={{ borderTop: '1px solid var(--border-color)', padding: '24px 16px', textAlign: 'center', color: 'var(--text-dim)', fontSize: '0.85rem' }}>
-        <p>German A1 Word & Verb Master • Built with 237 Core Verbs + Custom Document Upload Scanner</p>
+        <p>German A1 Master • 577 Core German Nouns + 237 Verbs & Vocabulary</p>
       </footer>
     </div>
   );
