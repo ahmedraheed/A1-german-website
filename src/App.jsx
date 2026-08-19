@@ -8,6 +8,7 @@ import SpeedMatchGame from './components/SpeedMatchGame';
 import QuizTab from './components/QuizTab';
 import PhoneticsTab from './components/PhoneticsTab';
 import RoadmapTab from './components/RoadmapTab';
+import SentenceBankTab from './components/SentenceBankTab';
 import DocScannerModal from './components/DocScannerModal';
 
 import germanData from './data/germanData.json';
@@ -62,6 +63,16 @@ export default function App() {
     }
   });
 
+  // Mastered 2,000 Sentence Bank State (stored in localStorage)
+  const [masteredBankIds, setMasteredBankIds] = useState(() => {
+    try {
+      const saved = localStorage.getItem('german_mastered_bank_sentences');
+      return saved ? JSON.parse(saved) : [];
+    } catch {
+      return [];
+    }
+  });
+
   // Daily Streak Counter
   const [streak, setStreak] = useState(() => {
     try {
@@ -94,6 +105,7 @@ export default function App() {
   const masteredSet = useMemo(() => new Set(masteredIds), [masteredIds]);
   const masteredNounsSet = useMemo(() => new Set(masteredNounIds), [masteredNounIds]);
   const masteredSentencesSet = useMemo(() => new Set(masteredSentenceIds), [masteredSentenceIds]);
+  const masteredBankSet = useMemo(() => new Set(masteredBankIds), [masteredBankIds]);
 
   const toggleMastered = (id) => {
     setMasteredIds(prev => {
@@ -134,6 +146,19 @@ export default function App() {
     });
   };
 
+  const toggleMasteredBankSentence = (id) => {
+    setMasteredBankIds(prev => {
+      let updated;
+      if (prev.includes(id)) {
+        updated = prev.filter(item => item !== id);
+      } else {
+        updated = [...prev, id];
+      }
+      localStorage.setItem('german_mastered_bank_sentences', JSON.stringify(updated));
+      return updated;
+    });
+  };
+
   const handleImportWords = (newWords) => {
     setCustomVerbs(prev => {
       const updated = [...prev, ...newWords];
@@ -147,10 +172,12 @@ export default function App() {
       setMasteredIds([]);
       setMasteredNounIds([]);
       setMasteredSentenceIds([]);
+      setMasteredBankIds([]);
       setCustomVerbs([]);
       localStorage.removeItem('german_mastered_verbs');
       localStorage.removeItem('german_mastered_nouns');
       localStorage.removeItem('german_mastered_sentences');
+      localStorage.removeItem('german_mastered_bank_sentences');
       localStorage.removeItem('german_custom_verbs');
     }
   };
@@ -177,6 +204,13 @@ export default function App() {
       />
 
       <main style={{ flex: 1 }}>
+        {activeTab === 'bank' && (
+          <SentenceBankTab
+            masteredBankSet={masteredBankSet}
+            toggleMasteredBankSentence={toggleMasteredBankSentence}
+          />
+        )}
+
         {activeTab === 'sentences' && (
           <SentencesTab
             masteredSentencesSet={masteredSentencesSet}

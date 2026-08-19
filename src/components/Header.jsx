@@ -13,6 +13,7 @@ export default function Header({
   const percent = totalVerbs > 0 ? Math.round((masteredCount / totalVerbs) * 100) : 0;
 
   const tabs = [
+    { id: 'bank', label: '2,000 Sentence Bank', icon: BookOpen },
     { id: 'sentences', label: '520 Sentences (A1-A2)', icon: MessageSquare },
     { id: 'nouns', label: 'German A1 Nouns (577)', icon: Package },
     { id: 'vocab', label: 'Verbs & Words', icon: BookOpen },
