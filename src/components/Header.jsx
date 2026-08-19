@@ -50,7 +50,7 @@ export default function Header({
           </div>
           <div>
             <h1 className="header-title-text" style={{ fontFamily: 'var(--font-display)', fontSize: '1.5rem', fontWeight: '800', letterSpacing: '-0.5px', background: 'linear-gradient(90deg, #ffffff 0%, #f59e0b 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent', margin: 0, lineHeight: '1.2' }}>
-              German A1 Master
+              German Master
             </h1>
             <p className="header-subtitle-text" style={{ color: 'var(--text-muted)', fontSize: '0.8rem', margin: 0 }}>
               Interactive Vocab, Sounds & Master Tracker

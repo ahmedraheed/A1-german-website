@@ -300,8 +300,33 @@ export default function App() {
         onImportWords={handleImportWords}
       />
 
-      <footer style={{ borderTop: '1px solid var(--border-color)', padding: '24px 16px', textAlign: 'center', color: 'var(--text-dim)', fontSize: '0.85rem' }}>
-        <p>German A1-A2 Master • 520 Short Sentences + 577 Core Nouns + 237 Verbs & Vocabulary</p>
+      <footer style={{
+        marginTop: '40px',
+        borderTop: '1px solid var(--border-color)',
+        padding: '24px 16px',
+        textAlign: 'center',
+        color: 'var(--text-muted)',
+        fontSize: '0.88rem',
+        display: 'flex',
+        flexDirection: 'column',
+        alignItems: 'center',
+        gap: '8px'
+      }}>
+        <p style={{ margin: 0 }}>
+          German A1-A2 Master • 2,000 Sentence Bank • 520 Sentences • 577 Core Nouns
+        </p>
+        <div style={{ display: 'flex', alignItems: 'center', gap: '6px', marginTop: '4px', fontSize: '0.95rem' }}>
+          <span>Built by</span>
+          <a 
+            href="https://www.vertextechadvisory.com/" 
+            target="_blank" 
+            rel="noopener noreferrer"
+            style={{ textDecoration: 'none', fontWeight: '800', letterSpacing: '-0.3px', transition: 'opacity 0.2s ease' }}
+          >
+            <span style={{ color: 'var(--text-main)' }}>Vertex Tech </span>
+            <span style={{ color: '#a3e635' }}>Advisory</span>
+          </a>
+        </div>
       </footer>
     </div>
   );
