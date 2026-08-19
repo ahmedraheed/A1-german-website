@@ -1,5 +1,5 @@
 import React from 'react';
-import { BookOpen, Layers, Zap, HelpCircle, Volume2, Calendar, Flame, RotateCcw, CheckCircle2, Upload, Package, MessageSquare } from 'lucide-react';
+import { BookOpen, Layers, Zap, HelpCircle, Volume2, Calendar, Flame, RotateCcw, CheckCircle2, Upload, Package, MessageSquare, Sun, Moon } from 'lucide-react';
 
 export default function Header({ 
   activeTab, 
@@ -8,7 +8,9 @@ export default function Header({
   totalVerbs, 
   streak, 
   onResetProgress,
-  onOpenScanner
+  onOpenScanner,
+  theme = 'dark',
+  toggleTheme
 }) {
   const percent = totalVerbs > 0 ? Math.round((masteredCount / totalVerbs) * 100) : 0;
 
@@ -56,8 +58,39 @@ export default function Header({
           </div>
         </div>
 
-        {/* Quick Action Badges: Upload, Streak, Reset */}
+        {/* Quick Action Badges: Theme Toggle, Upload, Streak, Reset */}
         <div className="header-actions-row" style={{ display: 'flex', alignItems: 'center', gap: '8px', flexWrap: 'wrap' }}>
+          
+          {/* Theme Toggle Button */}
+          {toggleTheme && (
+            <button
+              onClick={toggleTheme}
+              className="btn btn-secondary header-theme-btn"
+              title={`Switch to ${theme === 'dark' ? 'Light' : 'Dark'} Mode`}
+              style={{
+                padding: '7px 11px',
+                fontSize: '0.82rem',
+                borderRadius: '10px',
+                display: 'flex',
+                alignItems: 'center',
+                gap: '6px',
+                cursor: 'pointer'
+              }}
+            >
+              {theme === 'dark' ? (
+                <>
+                  <Sun style={{ width: '15px', height: '15px', color: '#f59e0b' }} />
+                  <span>Light</span>
+                </>
+              ) : (
+                <>
+                  <Moon style={{ width: '15px', height: '15px', color: '#3b82f6' }} />
+                  <span>Dark</span>
+                </>
+              )}
+            </button>
+          )}
+
           <button
             onClick={onOpenScanner}
             className="btn btn-primary pulse-gold header-action-btn"

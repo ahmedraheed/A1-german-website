@@ -22,6 +22,116 @@
   --font-display: 'Outfit', system-ui, sans-serif;
 }
 
+[data-theme='light'] {
+  --bg-dark: #f8fafc;
+  --bg-card: rgba(255, 255, 255, 0.95);
+  --bg-card-hover: rgba(241, 245, 249, 0.98);
+  --border-color: rgba(0, 0, 0, 0.12);
+  --border-glow: rgba(217, 119, 6, 0.4);
+  
+  --text-main: #0f172a;
+  --text-muted: #475569;
+  --text-dim: #64748b;
+}
+
+[data-theme='light'] body {
+  background-color: #f1f5f9;
+  background-image: 
+    radial-gradient(circle at 20% 20%, rgba(245, 158, 11, 0.08) 0%, transparent 40%),
+    radial-gradient(circle at 80% 80%, rgba(59, 130, 246, 0.08) 0%, transparent 40%),
+    radial-gradient(circle at 50% 50%, rgba(16, 185, 129, 0.05) 0%, transparent 60%);
+  color: #0f172a;
+}
+
+[data-theme='light'] .glass-panel {
+  background: rgba(255, 255, 255, 0.94) !important;
+  border: 1px solid rgba(0, 0, 0, 0.1) !important;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.06);
+}
+
+[data-theme='light'] .btn-secondary {
+  background: rgba(0, 0, 0, 0.06) !important;
+  color: #1e293b !important;
+  border-color: rgba(0, 0, 0, 0.12) !important;
+}
+
+[data-theme='light'] .btn-secondary:hover {
+  background: rgba(0, 0, 0, 0.12) !important;
+  color: #000000 !important;
+}
+
+[data-theme='light'] .header-title-text {
+  background: linear-gradient(90deg, #0f172a 0%, #d97706 100%) !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+}
+
+[data-theme='light'] select,
+[data-theme='light'] input[type="text"] {
+  background-color: #ffffff !important;
+  color: #0f172a !important;
+  border-color: rgba(0, 0, 0, 0.18) !important;
+}
+
+[data-theme='light'] select option {
+  background-color: #ffffff !important;
+  color: #0f172a !important;
+}
+
+[data-theme='light'] input::placeholder {
+  color: #64748b !important;
+}
+
+[data-theme='light'] .sentence-card,
+[data-theme='light'] .noun-card,
+[data-theme='light'] .vocab-card {
+  background: #ffffff !important;
+  border-color: rgba(0, 0, 0, 0.1) !important;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.04) !important;
+}
+
+[data-theme='light'] .flashcard-card {
+  background: #ffffff !important;
+  border-color: rgba(59, 130, 246, 0.35) !important;
+  box-shadow: 0 12px 35px rgba(0, 0, 0, 0.08) !important;
+}
+
+[data-theme='light'] .flashcard-title {
+  color: #0f172a !important;
+}
+
+[data-theme='light'] table thead tr {
+  background: #e2e8f0 !important;
+  color: #1e293b !important;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.12) !important;
+}
+
+[data-theme='light'] table tbody tr {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.06) !important;
+  color: #0f172a !important;
+}
+
+[data-theme='light'] table td {
+  color: #1e293b !important;
+}
+
+[data-theme='light'] table td strong {
+  color: #0f172a !important;
+}
+
+[data-theme='light'] h1,
+[data-theme='light'] h2,
+[data-theme='light'] h3,
+[data-theme='light'] h4,
+[data-theme='light'] h5,
+[data-theme='light'] strong {
+  color: #0f172a;
+}
+
+[data-theme='light'] p {
+  color: #334155;
+}
+
 * {
   box-sizing: border-box;
   margin: 0;

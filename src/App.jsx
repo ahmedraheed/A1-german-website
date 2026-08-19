@@ -21,6 +21,24 @@ export default function App() {
       return 'sentences';
     }
   });
+
+  const [theme, setTheme] = useState(() => {
+    try {
+      return localStorage.getItem('german_app_theme') || 'dark';
+    } catch {
+      return 'dark';
+    }
+  });
+
+  useEffect(() => {
+    document.documentElement.setAttribute('data-theme', theme);
+    localStorage.setItem('german_app_theme', theme);
+  }, [theme]);
+
+  const toggleTheme = () => {
+    setTheme(prev => (prev === 'dark' ? 'light' : 'dark'));
+  };
+
   const [isScannerOpen, setIsScannerOpen] = useState(false);
 
   // Custom uploaded verbs stored in localStorage
@@ -201,6 +219,8 @@ export default function App() {
         streak={streak}
         onResetProgress={handleResetProgress}
         onOpenScanner={() => setIsScannerOpen(true)}
+        theme={theme}
+        toggleTheme={toggleTheme}
       />
 
       <main style={{ flex: 1 }}>
