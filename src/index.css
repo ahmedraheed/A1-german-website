@@ -188,3 +188,165 @@ body {
 .pulse-gold {
   animation: pulseGlow 2.5s infinite;
 }
+
+/* Comprehensive Mobile & Tablet Responsiveness */
+html, body {
+  max-width: 100vw;
+  overflow-x: hidden;
+  -webkit-text-size-adjust: 100%;
+}
+
+button {
+  -webkit-tap-highlight-color: transparent;
+}
+
+.nav-tabs-scroll {
+  display: flex;
+  gap: 8px;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  scroll-behavior: smooth;
+  padding-bottom: 6px;
+}
+
+.nav-tabs-scroll::-webkit-scrollbar {
+  height: 4px;
+}
+
+.nav-tabs-scroll::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.15);
+  border-radius: 4px;
+}
+
+.nav-tab-btn {
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+
+/* Tablet & Smaller Devices (max-width: 900px) */
+@media (max-width: 900px) {
+  .sentences-grid,
+  .nouns-grid,
+  .vocab-grid,
+  .responsive-grid {
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)) !important;
+  }
+}
+
+/* Phones & Small Screens (max-width: 640px) */
+@media (max-width: 640px) {
+  body {
+    padding: 0 4px;
+  }
+
+  .glass-panel {
+    padding: 12px 14px !important;
+    border-radius: 14px !important;
+  }
+
+  .header-container {
+    margin: 8px auto !important;
+    padding: 14px 14px !important;
+    border-radius: 16px !important;
+  }
+
+  .header-top-row {
+    flex-direction: column;
+    align-items: stretch !important;
+    gap: 12px !important;
+  }
+
+  .header-stats-group {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 100%;
+    gap: 8px !important;
+  }
+
+  .header-progress-widget {
+    min-width: 100% !important;
+    width: 100% !important;
+  }
+
+  .filter-controls-row {
+    flex-direction: column;
+    align-items: stretch !important;
+    gap: 10px !important;
+  }
+
+  .filter-input-wrapper,
+  .filter-dropdown-wrapper {
+    min-width: 100% !important;
+    width: 100% !important;
+    flex: 1 1 100% !important;
+  }
+
+  .filter-pills-row {
+    display: flex;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    gap: 6px;
+    width: 100%;
+    padding-bottom: 4px;
+  }
+
+  .filter-pills-row::-webkit-scrollbar {
+    display: none;
+  }
+
+  .sentences-grid,
+  .nouns-grid,
+  .vocab-grid,
+  .responsive-grid {
+    grid-template-columns: 1fr !important;
+    gap: 12px !important;
+  }
+
+  .sentence-card,
+  .noun-card,
+  .vocab-card {
+    padding: 14px !important;
+  }
+
+  .flashcard-card {
+    min-height: 220px !important;
+    padding: 20px 14px !important;
+  }
+
+  .flashcard-title {
+    font-size: 1.25rem !important;
+  }
+
+  .table-responsive-container {
+    width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    border-radius: 12px;
+  }
+
+  .table-responsive-container table {
+    min-width: 580px;
+  }
+}
+
+/* Ultra-Small Phones (max-width: 400px - e.g. iPhone SE, Galaxy Fold) */
+@media (max-width: 400px) {
+  .btn {
+    padding: 7px 12px;
+    font-size: 0.8rem;
+  }
+
+  .header-title-text {
+    font-size: 1.2rem !important;
+  }
+
+  .flashcard-title {
+    font-size: 1.1rem !important;
+  }
+
+  .nav-tab-btn {
+    padding: 8px 12px !important;
+    font-size: 0.8rem !important;
+  }
+}

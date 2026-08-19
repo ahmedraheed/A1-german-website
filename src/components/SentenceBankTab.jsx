@@ -137,10 +137,10 @@ export default function SentenceBankTab({ masteredBankSet, toggleMasteredBankSen
       {/* Filter and View Controls Bar */}
       <div className="glass-panel" style={{ padding: '16px 20px', borderRadius: '16px', marginBottom: '24px', display: 'flex', flexDirection: 'column', gap: '16px' }}>
         
-        <div style={{ display: 'flex', flexWrap: 'wrap', gap: '12px', alignItems: 'center', justifyContent: 'space-between' }}>
+        <div className="filter-controls-row" style={{ display: 'flex', flexWrap: 'wrap', gap: '12px', alignItems: 'center', justifyContent: 'space-between' }}>
           
           {/* Search Box */}
-          <div style={{ position: 'relative', flex: '1 1 260px', minWidth: '220px' }}>
+          <div className="filter-input-wrapper" style={{ position: 'relative', flex: '1 1 240px', minWidth: '200px' }}>
             <Search style={{ position: 'absolute', left: '12px', top: '50%', transform: 'translateY(-50%)', width: '18px', height: '18px', color: 'var(--text-muted)' }} />
             <input
               type="text"
@@ -161,7 +161,7 @@ export default function SentenceBankTab({ masteredBankSet, toggleMasteredBankSen
           </div>
 
           {/* Section Filter Dropdown */}
-          <div style={{ flex: '1 1 220px', minWidth: '200px' }}>
+          <div className="filter-dropdown-wrapper" style={{ flex: '1 1 200px', minWidth: '180px' }}>
             <select
               value={selectedSection}
               onChange={(e) => { setSelectedSection(e.target.value); setCurrentPage(1); }}
@@ -185,7 +185,7 @@ export default function SentenceBankTab({ masteredBankSet, toggleMasteredBankSen
           </div>
 
           {/* CEFR Level Filter */}
-          <div style={{ display: 'flex', gap: '6px' }}>
+          <div className="filter-pills-row">
             {['All', 'A1', 'A2'].map(lvl => (
               <button
                 key={lvl}
@@ -198,7 +198,8 @@ export default function SentenceBankTab({ masteredBankSet, toggleMasteredBankSen
                   color: selectedLevel === lvl ? '#60a5fa' : 'var(--text-muted)',
                   fontSize: '0.8rem',
                   fontWeight: '600',
-                  cursor: 'pointer'
+                  cursor: 'pointer',
+                  flexShrink: 0
                 }}
               >
                 {lvl === 'All' ? 'All Levels' : lvl}
@@ -207,7 +208,7 @@ export default function SentenceBankTab({ masteredBankSet, toggleMasteredBankSen
           </div>
 
           {/* Status Filter */}
-          <div style={{ display: 'flex', gap: '6px' }}>
+          <div className="filter-pills-row">
             {[
               { id: 'all', label: 'All' },
               { id: 'learning', label: 'Learning' },
@@ -224,7 +225,8 @@ export default function SentenceBankTab({ masteredBankSet, toggleMasteredBankSen
                   color: statusFilter === f.id ? '#34d399' : 'var(--text-muted)',
                   fontSize: '0.8rem',
                   fontWeight: '600',
-                  cursor: 'pointer'
+                  cursor: 'pointer',
+                  flexShrink: 0
                 }}
               >
                 {f.label}
@@ -319,11 +321,11 @@ export default function SentenceBankTab({ masteredBankSet, toggleMasteredBankSen
 
       {/* VIEW MODE: FLASHCARDS */}
       {viewMode === 'flashcards' && (
-        <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '20px', margin: '40px 0' }}>
+        <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '20px', margin: '30px 0' }}>
           {currentCard ? (
             <div
               onClick={() => setIsFlipped(!isFlipped)}
-              className="glass-panel card-hover"
+              className="glass-panel card-hover flashcard-card"
               style={{
                 width: '100%',
                 maxWidth: '600px',
@@ -354,7 +356,7 @@ export default function SentenceBankTab({ masteredBankSet, toggleMasteredBankSen
 
               {!isFlipped ? (
                 <div style={{ margin: '20px 0' }}>
-                  <h3 style={{ fontSize: '1.8rem', fontWeight: '800', marginBottom: '12px', color: '#ffffff' }}>
+                  <h3 className="flashcard-title" style={{ fontSize: '1.8rem', fontWeight: '800', marginBottom: '12px', color: '#ffffff' }}>
                     {currentCard.german}
                   </h3>
                   {currentCard.pron && (
@@ -368,7 +370,7 @@ export default function SentenceBankTab({ masteredBankSet, toggleMasteredBankSen
                 </div>
               ) : (
                 <div style={{ margin: '20px 0' }}>
-                  <h3 style={{ fontSize: '1.6rem', fontWeight: '700', color: '#34d399', marginBottom: '8px' }}>
+                  <h3 className="flashcard-title" style={{ fontSize: '1.6rem', fontWeight: '700', color: '#34d399', marginBottom: '8px' }}>
                     {currentCard.english}
                   </h3>
                   <p style={{ color: 'var(--text-muted)', fontSize: '0.9rem' }}>
@@ -431,13 +433,13 @@ export default function SentenceBankTab({ masteredBankSet, toggleMasteredBankSen
 
       {/* VIEW MODE: GRID */}
       {viewMode === 'grid' && (
-        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(340px, 1fr))', gap: '18px' }}>
+        <div className="sentences-grid" style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(320px, 1fr))', gap: '18px' }}>
           {paginatedSentences.map((item) => {
             const isMastered = masteredBankSet.has(item.id);
             return (
               <div
                 key={item.id}
-                className="glass-panel card-hover"
+                className="glass-panel card-hover sentence-card"
                 style={{
                   padding: '20px',
                   borderRadius: '16px',
@@ -518,7 +520,7 @@ export default function SentenceBankTab({ masteredBankSet, toggleMasteredBankSen
       {/* VIEW MODE: TABLE */}
       {viewMode === 'table' && (
         <div className="glass-panel" style={{ borderRadius: '16px', overflow: 'hidden' }}>
-          <div style={{ overflowX: 'auto' }}>
+          <div className="table-responsive-container">
             <table style={{ width: '100%', borderCollapse: 'collapse', textAlign: 'left', fontSize: '0.9rem' }}>
               <thead>
                 <tr style={{ background: 'rgba(30, 41, 59, 0.9)', color: '#93c5fd', borderBottom: '1px solid rgba(255, 255, 255, 0.1)' }}>

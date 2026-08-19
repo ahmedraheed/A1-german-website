@@ -25,9 +25,9 @@ export default function Header({
   ];
 
   return (
-    <header className="glass-panel" style={{ margin: '16px auto', maxWidth: '1280px', padding: '20px 24px', borderRadius: '20px' }}>
+    <header className="glass-panel header-container" style={{ margin: '16px auto', maxWidth: '1280px', padding: '20px 24px', borderRadius: '20px' }}>
       {/* Top Header Row */}
-      <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', flexWrap: 'wrap', gap: '16px', marginBottom: '20px' }}>
+      <div className="header-top-row" style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', flexWrap: 'wrap', gap: '16px', marginBottom: '20px' }}>
         <div style={{ display: 'flex', alignItems: 'center', gap: '14px' }}>
           <div style={{
             width: '46px',
@@ -38,12 +38,13 @@ export default function Header({
             alignItems: 'center',
             justifyContent: 'center',
             boxShadow: '0 4px 15px rgba(245, 158, 11, 0.25)',
-            border: '2px solid rgba(255, 255, 255, 0.2)'
+            border: '2px solid rgba(255, 255, 255, 0.2)',
+            flexShrink: 0
           }}>
             <span style={{ fontSize: '20px', fontWeight: '800', textShadow: '0 2px 4px rgba(0,0,0,0.8)' }}>DE</span>
           </div>
           <div>
-            <h1 style={{ fontFamily: 'var(--font-display)', fontSize: '1.6rem', fontWeight: '800', letterSpacing: '-0.5px', background: 'linear-gradient(90deg, #ffffff 0%, #f59e0b 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>
+            <h1 className="header-title-text" style={{ fontFamily: 'var(--font-display)', fontSize: '1.6rem', fontWeight: '800', letterSpacing: '-0.5px', background: 'linear-gradient(90deg, #ffffff 0%, #f59e0b 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>
               German A1 Master
             </h1>
             <p style={{ color: 'var(--text-muted)', fontSize: '0.85rem' }}>
@@ -53,7 +54,7 @@ export default function Header({
         </div>
 
         {/* Progress & Stats Widgets */}
-        <div style={{ display: 'flex', alignItems: 'center', gap: '16px', flexWrap: 'wrap' }}>
+        <div className="header-stats-group" style={{ display: 'flex', alignItems: 'center', gap: '12px', flexWrap: 'wrap' }}>
           {/* Upload Document Scanner Button */}
           <button
             onClick={onOpenScanner}
@@ -74,7 +75,7 @@ export default function Header({
           </div>
 
           {/* Mastered Counter & Progress Bar */}
-          <div style={{ minWidth: '200px' }}>
+          <div className="header-progress-widget" style={{ minWidth: '180px' }}>
             <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '6px' }}>
               <span style={{ fontSize: '0.8rem', color: 'var(--text-muted)', display: 'flex', alignItems: 'center', gap: '6px' }}>
                 <CheckCircle2 style={{ width: '14px', height: '14px', color: '#34d399' }} />
@@ -111,7 +112,7 @@ export default function Header({
       </div>
 
       {/* Navigation Tabs */}
-      <nav style={{ display: 'flex', gap: '8px', overflowX: 'auto', paddingBottom: '4px' }}>
+      <nav className="nav-tabs-scroll">
         {tabs.map((tab) => {
           const Icon = tab.icon;
           const isActive = activeTab === tab.id;
@@ -119,9 +120,8 @@ export default function Header({
             <button
               key={tab.id}
               onClick={() => { setActiveTab(tab.id); localStorage.setItem('german_active_tab', tab.id); }}
-              className={`btn ${isActive ? 'btn-primary' : 'btn-secondary'}`}
+              className={`btn nav-tab-btn ${isActive ? 'btn-primary' : 'btn-secondary'}`}
               style={{
-                flexShrink: 0,
                 padding: '10px 16px',
                 borderRadius: '12px',
                 fontSize: '0.9rem',

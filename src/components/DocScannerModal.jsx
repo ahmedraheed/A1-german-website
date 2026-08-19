@@ -77,7 +77,7 @@ export default function DocScannerModal({ isOpen, onClose, existingVerbs, onImpo
       justifyContent: 'center',
       padding: '20px'
     }}>
-      <div className="glass-panel" style={{
+      <div className="glass-panel modal-dialog-panel" style={{
         width: '100%',
         maxWidth: '680px',
         maxHeight: '90vh',
