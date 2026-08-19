@@ -310,7 +310,7 @@ export default function SentencesTab({ masteredSentencesSet, toggleMasteredSente
                     <div style={{ fontSize: '0.8rem', textTransform: 'uppercase', letterSpacing: '1px', color: 'var(--text-muted)', marginBottom: '8px' }}>
                       German Sentence
                     </div>
-                    <h3 style={{ fontFamily: 'var(--font-display)', fontSize: '2rem', fontWeight: '800', color: '#fff', margin: '8px 0', lineHeight: 1.3 }}>
+                    <h3 style={{ fontFamily: 'var(--font-display)', fontSize: '2rem', fontWeight: '800', color: 'var(--text-main)', margin: '8px 0', lineHeight: 1.3 }}>
                       {currentCard?.german}
                     </h3>
                     <p style={{ fontSize: '0.85rem', color: 'var(--text-muted)', marginTop: '16px' }}>
@@ -399,7 +399,7 @@ export default function SentencesTab({ masteredSentencesSet, toggleMasteredSente
                       }}
                     >
                       <td style={{ padding: '12px 16px', color: 'var(--text-dim)', fontSize: '0.8rem' }}>{item.id}</td>
-                      <td style={{ padding: '12px 16px', fontWeight: '700', color: '#fff', fontSize: '1rem' }}>
+                      <td style={{ padding: '12px 16px', fontWeight: '700', color: 'var(--text-main)', fontSize: '1rem' }}>
                         {item.german}
                       </td>
                       <td style={{ padding: '12px 16px', color: '#34d399', fontWeight: '500' }}>
@@ -497,7 +497,7 @@ export default function SentencesTab({ masteredSentencesSet, toggleMasteredSente
                 {/* Card Center: Sentence + Audio Button */}
                 <div>
                   <div style={{ display: 'flex', alignItems: 'flex-start', justifyContent: 'space-between', gap: '10px' }}>
-                    <h3 style={{ fontFamily: 'var(--font-display)', fontSize: '1.25rem', fontWeight: '800', color: '#fff', margin: 0, lineHeight: 1.35 }}>
+                    <h3 style={{ fontFamily: 'var(--font-display)', fontSize: '1.25rem', fontWeight: '800', color: 'var(--text-main)', margin: 0, lineHeight: 1.35 }}>
                       {item.german}
                     </h3>
                     <button

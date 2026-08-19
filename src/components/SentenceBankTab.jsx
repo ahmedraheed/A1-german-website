@@ -356,7 +356,7 @@ export default function SentenceBankTab({ masteredBankSet, toggleMasteredBankSen
 
               {!isFlipped ? (
                 <div style={{ margin: '20px 0' }}>
-                  <h3 className="flashcard-title" style={{ fontSize: '1.8rem', fontWeight: '800', marginBottom: '12px', color: '#ffffff' }}>
+                  <h3 className="flashcard-title" style={{ fontSize: '1.8rem', fontWeight: '800', marginBottom: '12px', color: 'var(--text-main)' }}>
                     {currentCard.german}
                   </h3>
                   {currentCard.pron && (
@@ -464,7 +464,7 @@ export default function SentenceBankTab({ masteredBankSet, toggleMasteredBankSen
                   </div>
 
                   {/* German Sentence */}
-                  <h4 style={{ fontSize: '1.15rem', fontWeight: '700', color: '#ffffff', margin: '0 0 6px 0', lineHeight: '1.35' }}>
+                  <h4 style={{ fontSize: '1.15rem', fontWeight: '700', color: 'var(--text-main)', margin: '0 0 6px 0', lineHeight: '1.35' }}>
                     {item.german}
                   </h4>
 
@@ -549,7 +549,7 @@ export default function SentenceBankTab({ masteredBankSet, toggleMasteredBankSen
                         #{item.id}
                       </td>
 
-                      <td style={{ padding: '12px 16px', fontWeight: '700', color: '#ffffff' }}>
+                      <td style={{ padding: '12px 16px', fontWeight: '700', color: 'var(--text-main)' }}>
                         {item.german}
                       </td>
 

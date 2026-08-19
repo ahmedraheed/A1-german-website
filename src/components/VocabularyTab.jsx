@@ -131,7 +131,7 @@ export default function VocabularyTab({ verbs, sentencesMap, masteredSet, toggle
                 </div>
 
                 {/* German Word */}
-                <h3 style={{ fontSize: '1.4rem', fontWeight: '800', color: '#fff', marginBottom: '4px', letterSpacing: '-0.3px' }}>
+                <h3 style={{ fontSize: '1.4rem', fontWeight: '800', color: 'var(--text-main)', marginBottom: '4px', letterSpacing: '-0.3px' }}>
                   {item.german}
                 </h3>
 

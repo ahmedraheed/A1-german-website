@@ -113,7 +113,7 @@ export default function FlashcardsTab({ verbs, sentencesMap, masteredSet, toggle
             </div>
 
             <div style={{ textAlign: 'center', margin: 'auto 0' }}>
-              <h2 style={{ fontSize: '3rem', fontWeight: '800', color: '#fff', letterSpacing: '-0.5px', marginBottom: '12px' }}>
+              <h2 style={{ fontSize: '3rem', fontWeight: '800', color: 'var(--text-main)', letterSpacing: '-0.5px', marginBottom: '12px' }}>
                 {currentVerb.german}
               </h2>
               <div style={{ color: 'var(--text-muted)', fontSize: '0.9rem', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '6px' }}>
@@ -157,7 +157,7 @@ export default function FlashcardsTab({ verbs, sentencesMap, masteredSet, toggle
               <div style={{ fontSize: '1.2rem', color: '#60a5fa', fontWeight: '700', marginBottom: '12px' }}>
                 🗣️ Pronunciation: {currentVerb.roman}
               </div>
-              <h3 style={{ fontSize: '2rem', fontWeight: '800', color: '#fff', marginBottom: '16px' }}>
+              <h3 style={{ fontSize: '2rem', fontWeight: '800', color: 'var(--text-main)', marginBottom: '16px' }}>
                 🇬🇧 {currentVerb.english}
               </h3>
               {example && (

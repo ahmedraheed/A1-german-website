@@ -400,7 +400,7 @@ export default function NounsTab({ masteredNounsSet, toggleMasteredNoun }) {
                         {getArticleBadgeStyle(currentCard.article).label}
                       </span>
                     )}
-                    <h3 style={{ fontFamily: 'var(--font-display)', fontSize: '2.4rem', fontWeight: '800', color: '#fff', margin: '8px 0' }}>
+                    <h3 style={{ fontFamily: 'var(--font-display)', fontSize: '2.4rem', fontWeight: '800', color: 'var(--text-main)', margin: '8px 0' }}>
                       {currentCard?.germanNoun}
                     </h3>
                     <p style={{ color: 'var(--color-gold)', fontSize: '1rem' }}>
@@ -602,7 +602,7 @@ export default function NounsTab({ masteredNounsSet, toggleMasteredNoun }) {
                 {/* Card Center: Noun + Pronunciation Audio */}
                 <div>
                   <div style={{ display: 'flex', alignItems: 'baseline', justifyContent: 'space-between', gap: '8px' }}>
-                    <h3 style={{ fontFamily: 'var(--font-display)', fontSize: '1.35rem', fontWeight: '800', color: '#fff', margin: 0 }}>
+                    <h3 style={{ fontFamily: 'var(--font-display)', fontSize: '1.35rem', fontWeight: '800', color: 'var(--text-main)', margin: 0 }}>
                       {item.germanNoun}
                     </h3>
                     <button

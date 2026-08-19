@@ -24,8 +24,8 @@
 
 [data-theme='light'] {
   --bg-dark: #f8fafc;
-  --bg-card: rgba(255, 255, 255, 0.95);
-  --bg-card-hover: rgba(241, 245, 249, 0.98);
+  --bg-card: #ffffff;
+  --bg-card-hover: #f1f5f9;
   --border-color: rgba(0, 0, 0, 0.12);
   --border-glow: rgba(217, 119, 6, 0.4);
   
@@ -43,10 +43,31 @@
   color: #0f172a;
 }
 
+/* Force bold dark text on all headings, German sentences, nouns, verbs, cards, and table cells in Light Mode */
+[data-theme='light'] h1,
+[data-theme='light'] h2,
+[data-theme='light'] h3,
+[data-theme='light'] h4,
+[data-theme='light'] h5,
+[data-theme='light'] h6,
+[data-theme='light'] strong,
+[data-theme='light'] .sentence-card h3,
+[data-theme='light'] .sentence-card h4,
+[data-theme='light'] .noun-card h3,
+[data-theme='light'] .vocab-card h3,
+[data-theme='light'] .flashcard-card h2,
+[data-theme='light'] .flashcard-card h3,
+[data-theme='light'] .flashcard-title,
+[data-theme='light'] table td,
+[data-theme='light'] table th {
+  color: #0f172a !important;
+}
+
 [data-theme='light'] .glass-panel {
-  background: rgba(255, 255, 255, 0.94) !important;
+  background: #ffffff !important;
   border: 1px solid rgba(0, 0, 0, 0.1) !important;
   box-shadow: 0 8px 30px rgba(0, 0, 0, 0.06);
+  color: #0f172a !important;
 }
 
 [data-theme='light'] .btn-secondary {
@@ -61,7 +82,7 @@
 }
 
 [data-theme='light'] .header-title-text {
-  background: linear-gradient(90deg, #0f172a 0%, #d97706 100%) !important;
+  background: linear-gradient(90deg, #0f172a 0%, #2563eb 100%) !important;
   -webkit-background-clip: text !important;
   -webkit-text-fill-color: transparent !important;
 }
@@ -88,12 +109,14 @@
   background: #ffffff !important;
   border-color: rgba(0, 0, 0, 0.1) !important;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.04) !important;
+  color: #0f172a !important;
 }
 
 [data-theme='light'] .flashcard-card {
   background: #ffffff !important;
   border-color: rgba(59, 130, 246, 0.35) !important;
   box-shadow: 0 12px 35px rgba(0, 0, 0, 0.08) !important;
+  color: #0f172a !important;
 }
 
 [data-theme='light'] .flashcard-title {
