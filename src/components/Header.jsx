@@ -108,6 +108,38 @@ export default function Header({
         </div>
       </div>
 
+      {/* Mobile Category Select Dropdown */}
+      <div className="header-mobile-select-wrapper" style={{ display: 'none', marginBottom: '12px' }}>
+        <div style={{ fontSize: '0.75rem', color: 'var(--text-muted)', marginBottom: '4px', fontWeight: '600' }}>
+          SELECT SECTION:
+        </div>
+        <select
+          value={activeTab}
+          onChange={(e) => {
+            setActiveTab(e.target.value);
+            localStorage.setItem('german_active_tab', e.target.value);
+          }}
+          style={{
+            width: '100%',
+            padding: '10px 14px',
+            borderRadius: '12px',
+            border: '1px solid rgba(245, 158, 11, 0.4)',
+            background: '#18181b',
+            color: '#ffffff',
+            fontSize: '0.9rem',
+            fontWeight: '700',
+            outline: 'none',
+            cursor: 'pointer'
+          }}
+        >
+          {tabs.map((tab) => (
+            <option key={tab.id} value={tab.id}>
+              {tab.label}
+            </option>
+          ))}
+        </select>
+      </div>
+
       {/* Navigation Tabs */}
       <nav className="nav-tabs-scroll">
         {tabs.map((tab) => {

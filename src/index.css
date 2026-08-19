@@ -300,6 +300,25 @@ button {
     margin-bottom: 12px !important;
   }
 
+  .header-mobile-select-wrapper {
+    display: block !important;
+  }
+
+  .nav-tabs-scroll {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    overflow-x: visible !important;
+    gap: 6px !important;
+  }
+
+  .nav-tab-btn {
+    flex: 1 1 auto !important;
+    padding: 8px 12px !important;
+    font-size: 0.8rem !important;
+    justify-content: center !important;
+    text-align: center !important;
+  }
+
   .filter-controls-row {
     flex-direction: column;
     align-items: stretch !important;
