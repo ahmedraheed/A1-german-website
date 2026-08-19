@@ -26,12 +26,15 @@ export default function Header({
 
   return (
     <header className="glass-panel header-container" style={{ margin: '16px auto', maxWidth: '1280px', padding: '20px 24px', borderRadius: '20px' }}>
-      {/* Top Header Row */}
-      <div className="header-top-row" style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', flexWrap: 'wrap', gap: '16px', marginBottom: '20px' }}>
-        <div style={{ display: 'flex', alignItems: 'center', gap: '14px' }}>
-          <div style={{
-            width: '46px',
-            height: '46px',
+      
+      {/* Top Header Row: Brand & Quick Actions */}
+      <div className="header-top-row" style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', flexWrap: 'wrap', gap: '14px', marginBottom: '16px' }}>
+        
+        {/* Brand Logo & Title */}
+        <div className="header-brand-group" style={{ display: 'flex', alignItems: 'center', gap: '12px' }}>
+          <div className="header-logo-icon" style={{
+            width: '44px',
+            height: '44px',
             borderRadius: '12px',
             background: 'linear-gradient(135deg, #000 33%, #dd0000 33% 66%, #ffcc00 66%)',
             display: 'flex',
@@ -41,73 +44,67 @@ export default function Header({
             border: '2px solid rgba(255, 255, 255, 0.2)',
             flexShrink: 0
           }}>
-            <span style={{ fontSize: '20px', fontWeight: '800', textShadow: '0 2px 4px rgba(0,0,0,0.8)' }}>DE</span>
+            <span style={{ fontSize: '18px', fontWeight: '800', textShadow: '0 2px 4px rgba(0,0,0,0.8)' }}>DE</span>
           </div>
           <div>
-            <h1 className="header-title-text" style={{ fontFamily: 'var(--font-display)', fontSize: '1.6rem', fontWeight: '800', letterSpacing: '-0.5px', background: 'linear-gradient(90deg, #ffffff 0%, #f59e0b 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>
+            <h1 className="header-title-text" style={{ fontFamily: 'var(--font-display)', fontSize: '1.5rem', fontWeight: '800', letterSpacing: '-0.5px', background: 'linear-gradient(90deg, #ffffff 0%, #f59e0b 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent', margin: 0, lineHeight: '1.2' }}>
               German A1 Master
             </h1>
-            <p style={{ color: 'var(--text-muted)', fontSize: '0.85rem' }}>
+            <p className="header-subtitle-text" style={{ color: 'var(--text-muted)', fontSize: '0.8rem', margin: 0 }}>
               Interactive Vocab, Sounds & Master Tracker
             </p>
           </div>
         </div>
 
-        {/* Progress & Stats Widgets */}
-        <div className="header-stats-group" style={{ display: 'flex', alignItems: 'center', gap: '12px', flexWrap: 'wrap' }}>
-          {/* Upload Document Scanner Button */}
+        {/* Quick Action Badges: Upload, Streak, Reset */}
+        <div className="header-actions-row" style={{ display: 'flex', alignItems: 'center', gap: '8px', flexWrap: 'wrap' }}>
           <button
             onClick={onOpenScanner}
-            className="btn btn-primary pulse-gold"
-            style={{ padding: '8px 14px', fontSize: '0.85rem', borderRadius: '12px' }}
+            className="btn btn-primary pulse-gold header-action-btn"
+            style={{ padding: '7px 12px', fontSize: '0.82rem', borderRadius: '10px' }}
           >
-            <Upload style={{ width: '16px', height: '16px' }} />
-            Upload Document
+            <Upload style={{ width: '15px', height: '15px' }} />
+            <span>Upload Document</span>
           </button>
 
-          {/* Streak Counter */}
-          <div style={{ display: 'flex', alignItems: 'center', gap: '8px', padding: '8px 14px', background: 'rgba(239, 68, 68, 0.12)', borderRadius: '12px', border: '1px solid rgba(239, 68, 68, 0.25)' }}>
-            <Flame style={{ color: '#ef4444', width: '20px', height: '20px' }} />
-            <div>
-              <div style={{ fontSize: '0.7rem', color: '#f87171', fontWeight: '700', textTransform: 'uppercase' }}>Streak</div>
-              <div style={{ fontSize: '1rem', fontWeight: '800', color: '#fff' }}>{streak} Days</div>
-            </div>
+          <div className="header-streak-badge" style={{ display: 'flex', alignItems: 'center', gap: '6px', padding: '7px 12px', background: 'rgba(239, 68, 68, 0.12)', borderRadius: '10px', border: '1px solid rgba(239, 68, 68, 0.25)' }}>
+            <Flame style={{ color: '#ef4444', width: '16px', height: '16px' }} />
+            <span style={{ fontSize: '0.82rem', fontWeight: '800', color: '#fff' }}>{streak}d</span>
           </div>
 
-          {/* Mastered Counter & Progress Bar */}
-          <div className="header-progress-widget" style={{ minWidth: '180px' }}>
-            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '6px' }}>
-              <span style={{ fontSize: '0.8rem', color: 'var(--text-muted)', display: 'flex', alignItems: 'center', gap: '6px' }}>
-                <CheckCircle2 style={{ width: '14px', height: '14px', color: '#34d399' }} />
-                Words Mastered
-              </span>
-              <span style={{ fontSize: '0.85rem', fontWeight: '700', color: 'var(--color-gold)' }}>
-                {masteredCount} / {totalVerbs} ({percent}%)
-              </span>
-            </div>
-            <div style={{ width: '100%', height: '8px', background: 'rgba(255, 255, 255, 0.08)', borderRadius: '4px', overflow: 'hidden' }}>
-              <div 
-                style={{ 
-                  height: '100%', 
-                  width: `${percent}%`, 
-                  background: 'linear-gradient(90deg, #10b981 0%, #f59e0b 100%)',
-                  borderRadius: '4px',
-                  transition: 'width 0.4s ease'
-                }} 
-              />
-            </div>
-          </div>
-
-          {/* Reset Button */}
           <button 
             onClick={onResetProgress}
-            className="btn btn-secondary" 
-            title="Reset Mastered Words Progress"
-            style={{ padding: '8px 12px', fontSize: '0.8rem' }}
+            className="btn btn-secondary header-reset-btn" 
+            title="Reset Mastered Progress"
+            style={{ padding: '7px 10px', fontSize: '0.78rem', borderRadius: '10px' }}
           >
             <RotateCcw style={{ width: '14px', height: '14px' }} />
-            Reset
+            <span>Reset</span>
           </button>
+        </div>
+      </div>
+
+      {/* Full-Width Progress Widget */}
+      <div className="header-progress-widget" style={{ width: '100%', marginBottom: '16px' }}>
+        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '6px', fontSize: '0.8rem' }}>
+          <span style={{ color: 'var(--text-muted)', display: 'flex', alignItems: 'center', gap: '6px' }}>
+            <CheckCircle2 style={{ width: '14px', height: '14px', color: '#34d399' }} />
+            Words Mastered
+          </span>
+          <span style={{ fontWeight: '700', color: 'var(--color-gold)' }}>
+            {masteredCount} / {totalVerbs} ({percent}%)
+          </span>
+        </div>
+        <div style={{ width: '100%', height: '8px', background: 'rgba(255, 255, 255, 0.08)', borderRadius: '4px', overflow: 'hidden' }}>
+          <div 
+            style={{ 
+              height: '100%', 
+              width: `${percent}%`, 
+              background: 'linear-gradient(90deg, #10b981 0%, #f59e0b 100%)',
+              borderRadius: '4px',
+              transition: 'width 0.4s ease'
+            }} 
+          />
         </div>
       </div>
 
@@ -122,9 +119,9 @@ export default function Header({
               onClick={() => { setActiveTab(tab.id); localStorage.setItem('german_active_tab', tab.id); }}
               className={`btn nav-tab-btn ${isActive ? 'btn-primary' : 'btn-secondary'}`}
               style={{
-                padding: '10px 16px',
+                padding: '9px 15px',
                 borderRadius: '12px',
-                fontSize: '0.9rem',
+                fontSize: '0.88rem',
                 transition: 'all 0.2s ease',
               }}
             >
