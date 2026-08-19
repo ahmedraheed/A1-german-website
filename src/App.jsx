@@ -323,7 +323,7 @@ export default function App() {
             rel="noopener noreferrer"
             style={{ textDecoration: 'none', fontWeight: '800', letterSpacing: '-0.3px', transition: 'opacity 0.2s ease' }}
           >
-            <span style={{ color: 'var(--text-main)' }}>Vertex Tech </span>
+            <span style={{ color: '#60a5fa' }}>Vertex Tech </span>
             <span style={{ color: '#a3e635' }}>Advisory</span>
           </a>
         </div>
