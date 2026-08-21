@@ -18,7 +18,7 @@ export default function Header({
     { id: 'bank', label: '2,000 Sentence Bank', icon: BookOpen },
     { id: 'sentences', label: '520 Sentences (A1-A2)', icon: MessageSquare },
     { id: 'nouns', label: 'German A1 Nouns (577)', icon: Package },
-    { id: 'vocab', label: 'Verbs & Words', icon: BookOpen },
+    { id: 'vocab', label: '88 Verb Rules', icon: BookOpen },
     { id: 'numbers', label: 'Numbers Guide', icon: Hash },
     { id: 'flashcards', label: 'Flashcards', icon: Layers },
     { id: 'speedmatch', label: 'Speed Match', icon: Zap },
