@@ -1,10 +1,11 @@
 import React, { useState, useMemo } from 'react';
 import { Search, Volume2, CheckCircle2, Circle, Filter, BookOpen, Grid, List, Sparkles, Layers, RefreshCw } from 'lucide-react';
-import { speakGerman } from '../utils/speech';
+import { speakGerman, useSpeakingText } from '../utils/speech';
 import confetti from 'canvas-confetti';
 import nounsData from '../data/germanNounsData.json';
 
 export default function NounsTab({ masteredNounsSet, toggleMasteredNoun }) {
+  const speakingText = useSpeakingText();
   const [searchTerm, setSearchTerm] = useState('');
   const [selectedTopic, setSelectedTopic] = useState('All');
   const [selectedArticle, setSelectedArticle] = useState('All');
@@ -375,8 +376,8 @@ export default function NounsTab({ masteredNounsSet, toggleMasteredNoun }) {
                     e.stopPropagation();
                     speakGerman(currentCard.germanNoun);
                   }}
-                  className="btn btn-secondary"
-                  style={{ position: 'absolute', top: '16px', right: '20px', padding: '6px 12px', borderRadius: '10px', fontSize: '0.8rem' }}
+                  className={`btn btn-secondary ${speakingText === currentCard?.germanNoun ? 'speaker-btn-active' : ''}`}
+                  style={{ position: 'absolute', top: '16px', right: '20px', padding: '6px 12px', borderRadius: '10px', fontSize: '0.8rem', color: speakingText === currentCard?.germanNoun ? '#ef4444' : undefined }}
                 >
                   <Volume2 style={{ width: '16px', height: '16px' }} /> Audio
                 </button>
@@ -519,9 +520,9 @@ export default function NounsTab({ masteredNounsSet, toggleMasteredNoun }) {
                         <div style={{ display: 'flex', gap: '8px', justifyContent: 'flex-end', alignItems: 'center' }}>
                           <button
                             onClick={() => speakGerman(item.germanNoun)}
-                            className="btn btn-secondary"
+                            className={`btn btn-secondary ${speakingText === item.germanNoun ? 'speaker-btn-active' : ''}`}
                             title="Listen to German Pronunciation"
-                            style={{ padding: '6px', borderRadius: '8px' }}
+                            style={{ padding: '6px', borderRadius: '8px', color: speakingText === item.germanNoun ? '#ef4444' : undefined }}
                           >
                             <Volume2 style={{ width: '15px', height: '15px' }} />
                           </button>
@@ -607,11 +608,11 @@ export default function NounsTab({ masteredNounsSet, toggleMasteredNoun }) {
                     </h3>
                     <button
                       onClick={() => speakGerman(item.germanNoun)}
-                      className="btn btn-secondary"
+                      className={`btn btn-secondary ${speakingText === item.germanNoun ? 'speaker-btn-active' : ''}`}
                       title="Audio Pronunciation"
                       style={{ padding: '6px', borderRadius: '8px', flexShrink: 0 }}
                     >
-                      <Volume2 style={{ width: '15px', height: '15px', color: 'var(--color-gold)' }} />
+                      <Volume2 style={{ width: '15px', height: '15px', color: speakingText === item.germanNoun ? '#ef4444' : 'var(--color-gold)' }} />
                     </button>
                   </div>
 

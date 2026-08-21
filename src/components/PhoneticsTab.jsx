@@ -1,8 +1,9 @@
 import React from 'react';
 import { Volume2, Sparkles, AlertCircle } from 'lucide-react';
-import { speakGerman } from '../utils/speech';
+import { speakGerman, useSpeakingText } from '../utils/speech';
 
 export default function PhoneticsTab({ sounds, mistakes, grammar }) {
+  const speakingText = useSpeakingText();
   return (
     <div style={{ maxWidth: '1100px', margin: '0 auto', padding: '0 16px 40px 16px' }}>
       {/* Title */}
@@ -19,6 +20,7 @@ export default function PhoneticsTab({ sounds, mistakes, grammar }) {
       <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(320px, 1fr))', gap: '16px', marginBottom: '40px' }}>
         {sounds.map((s, i) => {
           const exampleWord = s.example.split('=')[0].trim();
+          const isSpeaking = speakingText === exampleWord;
 
           return (
             <div
@@ -47,8 +49,8 @@ export default function PhoneticsTab({ sounds, mistakes, grammar }) {
 
               <button
                 onClick={() => speakGerman(exampleWord)}
-                className="btn btn-secondary"
-                style={{ padding: '10px 14px', borderRadius: '12px', color: 'var(--color-gold)' }}
+                className={`btn btn-secondary ${isSpeaking ? 'speaker-btn-active' : ''}`}
+                style={{ padding: '10px 14px', borderRadius: '12px', color: isSpeaking ? '#ef4444' : 'var(--color-gold)' }}
                 title="Play Audio"
               >
                 <Volume2 style={{ width: '18px', height: '18px' }} />

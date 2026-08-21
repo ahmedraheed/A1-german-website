@@ -1,9 +1,10 @@
 import React, { useState, useEffect } from 'react';
 import { Volume2, RotateCw, CheckCircle2, ArrowRight, ArrowLeft, Shuffle, Sparkles, Eye } from 'lucide-react';
-import { speakGerman } from '../utils/speech';
+import { speakGerman, useSpeakingText } from '../utils/speech';
 import confetti from 'canvas-confetti';
 
 export default function FlashcardsTab({ verbs, sentencesMap, masteredSet, toggleMastered }) {
+  const speakingText = useSpeakingText();
   const [deck, setDeck] = useState(verbs);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isFlipped, setIsFlipped] = useState(false);
@@ -104,8 +105,8 @@ export default function FlashcardsTab({ verbs, sentencesMap, masteredSet, toggle
               </span>
               <button
                 onClick={(e) => { e.stopPropagation(); speakGerman(currentVerb.german); }}
-                className="btn btn-secondary"
-                style={{ padding: '8px 12px', color: 'var(--color-gold)' }}
+                className={`btn btn-secondary ${speakingText === currentVerb?.german ? 'speaker-btn-active' : ''}`}
+                style={{ padding: '8px 12px', color: speakingText === currentVerb?.german ? '#ef4444' : 'var(--color-gold)' }}
                 title="Listen to German Audio"
               >
                 <Volume2 style={{ width: '18px', height: '18px' }} />
@@ -146,8 +147,8 @@ export default function FlashcardsTab({ verbs, sentencesMap, masteredSet, toggle
               <span className="badge badge-blue">Meaning & Sound</span>
               <button
                 onClick={(e) => { e.stopPropagation(); speakGerman(currentVerb.german); }}
-                className="btn btn-secondary"
-                style={{ padding: '8px 12px', color: '#60a5fa' }}
+                className={`btn btn-secondary ${speakingText === currentVerb?.german ? 'speaker-btn-active' : ''}`}
+                style={{ padding: '8px 12px', color: speakingText === currentVerb?.german ? '#ef4444' : '#60a5fa' }}
               >
                 <Volume2 style={{ width: '18px', height: '18px' }} />
               </button>

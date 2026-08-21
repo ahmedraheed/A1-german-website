@@ -1,10 +1,11 @@
 import React, { useState, useMemo } from 'react';
 import { Search, Volume2, CheckCircle2, Sparkles, Filter, Grid, List, Layers, BookOpen, ChevronLeft, ChevronRight, Bookmark } from 'lucide-react';
-import { speakGerman } from '../utils/speech';
+import { speakGerman, useSpeakingText } from '../utils/speech';
 import confetti from 'canvas-confetti';
 import sentenceBankData from '../data/germanSentenceBankData.json';
 
 export default function SentenceBankTab({ masteredBankSet, toggleMasteredBankSentence }) {
+  const speakingText = useSpeakingText();
   const [searchTerm, setSearchTerm] = useState('');
   const [selectedSection, setSelectedSection] = useState('All');
   const [selectedLevel, setSelectedLevel] = useState('All');
@@ -382,8 +383,8 @@ export default function SentenceBankTab({ masteredBankSet, toggleMasteredBankSen
               <div style={{ display: 'flex', gap: '12px', alignItems: 'center' }}>
                 <button
                   onClick={(e) => { e.stopPropagation(); speakGerman(currentCard.german); }}
-                  className="btn"
-                  style={{ padding: '8px 14px', borderRadius: '10px', background: 'rgba(59, 130, 246, 0.2)', color: '#60a5fa' }}
+                  className={`btn ${speakingText === currentCard?.german ? 'speaker-btn-active' : ''}`}
+                  style={{ padding: '8px 14px', borderRadius: '10px', background: speakingText === currentCard?.german ? undefined : 'rgba(59, 130, 246, 0.2)', color: speakingText === currentCard?.german ? '#ef4444' : '#60a5fa' }}
                 >
                   <Volume2 style={{ width: '16px', height: '16px' }} /> Listen
                 </button>
@@ -485,9 +486,9 @@ export default function SentenceBankTab({ masteredBankSet, toggleMasteredBankSen
                 <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', paddingTop: '10px', borderTop: '1px solid rgba(255, 255, 255, 0.06)' }}>
                   <button
                     onClick={() => speakGerman(item.german)}
-                    className="btn"
+                    className={`btn ${speakingText === item.german ? 'speaker-btn-active' : ''}`}
                     title="Audio Pronunciation"
-                    style={{ padding: '6px 12px', borderRadius: '8px', fontSize: '0.8rem', background: 'rgba(59, 130, 246, 0.15)', color: '#60a5fa', display: 'flex', alignItems: 'center', gap: '6px' }}
+                    style={{ padding: '6px 12px', borderRadius: '8px', fontSize: '0.8rem', background: speakingText === item.german ? undefined : 'rgba(59, 130, 246, 0.15)', color: speakingText === item.german ? '#ef4444' : '#60a5fa', display: 'flex', alignItems: 'center', gap: '6px' }}
                   >
                     <Volume2 style={{ width: '14px', height: '14px' }} /> Speak
                   </button>
@@ -571,9 +572,9 @@ export default function SentenceBankTab({ masteredBankSet, toggleMasteredBankSen
                         <div style={{ display: 'flex', gap: '6px', justifyContent: 'center' }}>
                           <button
                             onClick={() => speakGerman(item.german)}
-                            className="btn"
+                            className={`btn ${speakingText === item.german ? 'speaker-btn-active' : ''}`}
                             title="Listen"
-                            style={{ padding: '4px 8px', borderRadius: '6px', background: 'rgba(59, 130, 246, 0.2)', color: '#60a5fa' }}
+                            style={{ padding: '4px 8px', borderRadius: '6px', background: speakingText === item.german ? undefined : 'rgba(59, 130, 246, 0.2)', color: speakingText === item.german ? '#ef4444' : '#60a5fa' }}
                           >
                             <Volume2 style={{ width: '14px', height: '14px' }} />
                           </button>

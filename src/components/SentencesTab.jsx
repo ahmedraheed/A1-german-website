@@ -1,10 +1,11 @@
 import React, { useState, useMemo } from 'react';
 import { Search, Volume2, CheckCircle2, Sparkles, Filter, Grid, List, Layers, MessageSquare } from 'lucide-react';
-import { speakGerman } from '../utils/speech';
+import { speakGerman, useSpeakingText } from '../utils/speech';
 import confetti from 'canvas-confetti';
 import sentencesData from '../data/germanSentencesData.json';
 
 export default function SentencesTab({ masteredSentencesSet, toggleMasteredSentence }) {
+  const speakingText = useSpeakingText();
   const [searchTerm, setSearchTerm] = useState('');
   const [selectedTopic, setSelectedTopic] = useState('All');
   const [statusFilter, setStatusFilter] = useState('all'); // 'all', 'learning', 'mastered'
@@ -298,8 +299,8 @@ export default function SentencesTab({ masteredSentencesSet, toggleMasteredSente
                     e.stopPropagation();
                     speakGerman(currentCard.german);
                   }}
-                  className="btn btn-secondary"
-                  style={{ position: 'absolute', top: '16px', right: '20px', padding: '6px 12px', borderRadius: '10px', fontSize: '0.8rem' }}
+                  className={`btn btn-secondary ${speakingText === currentCard?.german ? 'speaker-btn-active' : ''}`}
+                  style={{ position: 'absolute', top: '16px', right: '20px', padding: '6px 12px', borderRadius: '10px', fontSize: '0.8rem', color: speakingText === currentCard?.german ? '#ef4444' : undefined }}
                 >
                   <Volume2 style={{ width: '16px', height: '16px' }} /> Audio
                 </button>
@@ -415,9 +416,9 @@ export default function SentencesTab({ masteredSentencesSet, toggleMasteredSente
                         <div style={{ display: 'flex', gap: '8px', justifyContent: 'flex-end', alignItems: 'center' }}>
                           <button
                             onClick={() => speakGerman(item.german)}
-                            className="btn btn-secondary"
+                            className={`btn btn-secondary ${speakingText === item.german ? 'speaker-btn-active' : ''}`}
                             title="Listen to Audio"
-                            style={{ padding: '6px', borderRadius: '8px' }}
+                            style={{ padding: '6px', borderRadius: '8px', color: speakingText === item.german ? '#ef4444' : undefined }}
                           >
                             <Volume2 style={{ width: '15px', height: '15px' }} />
                           </button>
@@ -502,11 +503,11 @@ export default function SentencesTab({ masteredSentencesSet, toggleMasteredSente
                     </h3>
                     <button
                       onClick={() => speakGerman(item.german)}
-                      className="btn btn-secondary"
+                      className={`btn btn-secondary ${speakingText === item.german ? 'speaker-btn-active' : ''}`}
                       title="Audio Pronunciation"
                       style={{ padding: '6px', borderRadius: '8px', flexShrink: 0 }}
                     >
-                      <Volume2 style={{ width: '15px', height: '15px', color: 'var(--color-gold)' }} />
+                      <Volume2 style={{ width: '15px', height: '15px', color: speakingText === item.german ? '#ef4444' : 'var(--color-gold)' }} />
                     </button>
                   </div>
 

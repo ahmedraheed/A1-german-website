@@ -1,11 +1,12 @@
 import React, { useState, useMemo } from 'react';
 import { Search, Volume2, CheckCircle2, Circle, Sparkles, Filter } from 'lucide-react';
-import { speakGerman } from '../utils/speech';
+import { speakGerman, useSpeakingText } from '../utils/speech';
 import confetti from 'canvas-confetti';
 
 export default function VocabularyTab({ verbs, sentencesMap, masteredSet, toggleMastered }) {
   const [searchTerm, setSearchTerm] = useState('');
   const [statusFilter, setStatusFilter] = useState('all'); // 'all', 'learning', 'mastered'
+  const speakingText = useSpeakingText();
 
   const filteredVerbs = useMemo(() => {
     return verbs.filter(item => {
@@ -122,8 +123,8 @@ export default function VocabularyTab({ verbs, sentencesMap, masteredSet, toggle
 
                   <button
                     onClick={() => speakGerman(item.german)}
-                    className="btn btn-secondary"
-                    style={{ padding: '6px 10px', borderRadius: '8px', color: 'var(--color-gold)' }}
+                    className={`btn btn-secondary ${speakingText === item.german ? 'speaker-btn-active' : ''}`}
+                    style={{ padding: '6px 10px', borderRadius: '8px', color: speakingText === item.german ? '#ef4444' : 'var(--color-gold)' }}
                     title="Pronounce German Audio"
                   >
                     <Volume2 style={{ width: '16px', height: '16px' }} />
