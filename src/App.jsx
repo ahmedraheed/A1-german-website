@@ -9,6 +9,7 @@ import QuizTab from './components/QuizTab';
 import PhoneticsTab from './components/PhoneticsTab';
 import RoadmapTab from './components/RoadmapTab';
 import SentenceBankTab from './components/SentenceBankTab';
+import NumbersTab from './components/NumbersTab';
 import DocScannerModal from './components/DocScannerModal';
 
 import germanData from './data/germanData.json';
@@ -252,6 +253,10 @@ export default function App() {
             masteredSet={masteredSet}
             toggleMastered={toggleMastered}
           />
+        )}
+
+        {activeTab === 'numbers' && (
+          <NumbersTab />
         )}
 
         {activeTab === 'flashcards' && (
