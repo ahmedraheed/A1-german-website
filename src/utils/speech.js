@@ -65,7 +65,8 @@ export const speakGerman = (text) => {
     utterance.rate = 0.88; // Slightly relaxed pace for learning clarity
 
     const voices = window.speechSynthesis.getVoices();
-    const deVoice = voices.find(v => v.lang.startsWith('de') || v.lang.includes('DE'));
+    const deVoice = voices.find(v => (v.lang.startsWith('de') || v.lang.includes('DE')) && (v.name.includes('German') || v.name.includes('Deutsch') || v.default)) ||
+                    voices.find(v => v.lang.startsWith('de') || v.lang.includes('DE'));
     if (deVoice) {
       utterance.voice = deVoice;
     }
