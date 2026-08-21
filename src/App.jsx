@@ -318,7 +318,7 @@ export default function App() {
         gap: '8px'
       }}>
         <p style={{ margin: 0 }}>
-          German A1-A2 Master • 2,000 Sentence Bank • 520 Sentences • 577 Core Nouns
+          German A1-A2 Master • 2,000 Sentence Bank • 520 Sentences • 577 Core Nouns • 70 Sound Rules Guide
         </p>
         <div style={{ display: 'flex', alignItems: 'center', gap: '6px', marginTop: '4px', fontSize: '0.95rem' }}>
           <span>Built by</span>

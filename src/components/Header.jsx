@@ -23,7 +23,7 @@ export default function Header({
     { id: 'flashcards', label: 'Flashcards', icon: Layers },
     { id: 'speedmatch', label: 'Speed Match', icon: Zap },
     { id: 'quiz', label: 'Conjugations', icon: HelpCircle },
-    { id: 'phonetics', label: 'Sound Rules', icon: Volume2 },
+    { id: 'phonetics', label: '70 Sound Rules', icon: Volume2 },
     { id: 'roadmap', label: '7-Day Plan', icon: Calendar },
   ];
 
